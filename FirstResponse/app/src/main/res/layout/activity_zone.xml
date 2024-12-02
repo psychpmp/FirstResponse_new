@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/customToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:elevation="4dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:contentInsetStartWithNavigation="0dp"
+        android:layout_marginTop="8dp"
+        app:navigationIcon="@drawable/back"
+        app:titleTextAppearance="@style/CustomToolbarTitle" />
+
+    <!-- FrameLayout for Main Content -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:layout_marginTop="16dp">
+
+        <!-- Main Content Container -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!-- Information Section -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="8dp">
+
+                <!-- Address -->
+                <TextView
+                    android:id="@+id/address_ligao_city_hospital"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Address:"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:fontFamily="@font/montserrat_bold" />
+
+                <TextView
+                    android:id="@+id/address_details_ligao_city_hospital"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Diversion Rd., Ligao City, Albay"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    android:fontFamily="@font/opensans"
+                    android:layout_marginBottom="8dp" />
+
+                <!-- Head Facilitator -->
+                <TextView
+                    android:id="@+id/head_facilitator_ligao_city_hospital"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Chairman:"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:fontFamily="@font/montserrat_bold" />
+
+                <TextView
+                    android:id="@+id/head_facilitator_details_ligao_city_hospital"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Christopher D. Asido, MD., FPCP., FPCC., MHA."
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    android:fontFamily="@font/opensans"
+                    android:layout_marginBottom="8dp" />
+
+                <!-- Working Hours -->
+                <TextView
+                    android:id="@+id/workinghourslabel_ligao_city_hospital"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Working Hours:"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:fontFamily="@font/montserrat_bold" />
+
+                <TextView
+                    android:id="@+id/workinghoursvalue_ligao_city_hospital"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="8:00 am - 5:00 pm"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    android:fontFamily="@font/opensans" />
+            </LinearLayout>
+
+            <!-- Content Section -->
+            <TextView
+                android:id="@+id/content_ligao_city_hospital"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ligao_city_hospital_content"
+                android:layout_marginTop="16dp"
+                android:textColor="#000000"
+                android:padding="8dp"
+                android:fontFamily="@font/opensans" />
+
+            <!-- Buttons Section -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="24dp"
+                android:gravity="center">
+
+                <Button
+                    android:id="@+id/button_get_directions_ligao_city_hospital"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:text="Get Directions"
+                    android:textSize="10sp"
+                    android:layout_marginEnd="16dp"
+                    android:background="@drawable/white_button_background"
+                    android:textColor="#FFFFFF"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:drawableLeft="@drawable/directions"
+                    android:drawablePadding="16dp"
+                    android:clickable="true"
+                    android:focusable="true" />
+
+                <Button
+                    android:id="@+id/button_contact_ligao_city_hospital"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:text="Contact Them"
+                    android:textSize="10sp"
+                    android:background="@drawable/white_button_background"
+                    android:textColor="#FFFFFF"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:drawableLeft="@drawable/phone_call"
+                    android:drawablePadding="16dp"
+                    android:clickable="true"
+                    android:focusable="true" />
+            </LinearLayout>
+
+            <!-- Distance Information -->
+            <TextView
+                android:id="@+id/distance_text_view_ligao_city_hospital"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/opensans"
+                android:text="Distance will be shown here"
+                android:textColor="@color/shadow4" />
+        </LinearLayout>
+
+        <!-- Centered Logo -->
+        <ImageView
+            android:id="@+id/logo_ligao_city_hospital"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:alpha="0.1"
+            android:scaleType="centerInside"
+            android:layout_marginBottom="150dp"
+            android:contentDescription="Ligao City Hospital Logo"
+            android:src="@drawable/zone" />
+    </FrameLayout>
+</LinearLayout>

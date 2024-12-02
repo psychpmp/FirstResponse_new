@@ -1,0 +1,143 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <include
+        layout="@layout/actionbar_quiz"
+        android:id="@+id/action_bar"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <!-- Header Text -->
+    <TextView
+        android:id="@+id/headerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:text="@string/quiz_level"
+        android:textSize="24sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="24dp"
+        android:textAlignment="center"/>
+
+    <!-- Container for Level 1 Button -->
+    <FrameLayout
+        android:id="@+id/containerLevel1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/headerTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="16dp">
+
+        <Button
+            android:id="@+id/buttonLevel1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LVL 1"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"/>
+
+        <!-- Lock Icon for Level 1 Button -->
+        <ImageView
+            android:id="@+id/lockIconLevel1"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_lock"
+            android:layout_gravity="end|top"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"/> <!-- Initially hidden -->
+    </FrameLayout>
+
+    <!-- Container for Level 2 Button -->
+    <FrameLayout
+        android:id="@+id/containerLevel2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/containerLevel1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="16dp">
+
+        <Button
+            android:id="@+id/buttonLevel2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LVL 2"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"/>
+
+        <!-- Lock Icon for Level 2 Button -->
+        <ImageView
+            android:id="@+id/lockIconLevel2"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_lock"
+            android:layout_gravity="end|top"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"/> <!-- Initially hidden -->
+    </FrameLayout>
+
+    <!-- Container for Level 3 Button -->
+    <FrameLayout
+        android:id="@+id/containerLevel3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/containerLevel2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="16dp">
+
+        <Button
+            android:id="@+id/buttonLevel3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LVL 3"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"/>
+
+        <!-- Lock Icon for Level 3 Button -->
+        <ImageView
+            android:id="@+id/lockIconLevel3"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_lock"
+            android:layout_gravity="end|top"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"/> <!-- Initially hidden -->
+    </FrameLayout>
+
+    <!-- Locked/Unlocked Indicator -->
+    <TextView
+        android:id="@+id/indicatorTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Complete previous level to unlock new one"
+        android:textSize="14sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="@color/shadow4"
+        app:layout_constraintTop_toBottomOf="@id/containerLevel3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="32dp"
+        android:textAlignment="center"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

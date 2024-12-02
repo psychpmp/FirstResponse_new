@@ -1,0 +1,11 @@
+<!-- res/drawable/white_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/shadow2"/> <!-- Background color of the button -->
+    <corners android:radius="8dp"/> <!-- Adjust the corner radius as needed -->
+    <padding
+        android:left="16dp"
+        android:top="8dp"
+        android:right="16dp"
+        android:bottom="8dp"/> <!-- Adjust padding to make the button look visually appealing -->
+</shape>

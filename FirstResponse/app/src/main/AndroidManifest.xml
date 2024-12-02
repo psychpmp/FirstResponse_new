@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Permissions required by the app -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- Permissions for using the flashlight and camera -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- Feature requirements for flashlight support -->
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.flash" android:required="true" />
+
+    <application
+        android:name=".MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="FirstResponse"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FirstAidAndDisasterManagementApp">
+
+        <!-- Helpline Activity -->
+        <activity
+            android:name="com.example.android.firstresponse.HelplineActivity"
+            android:exported="true"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+
+        <!-- Saved Activity -->
+        <activity
+            android:name="com.example.android.firstresponse.SavedActivity"
+            android:exported="true"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+
+        <!-- Add all other existing activities here, as you have already listed them -->
+        <activity android:name="com.example.android.firstresponse.Epidemic" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.VolcanicEruption" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.Earthquake" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.Floods" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.DrugsPrevention" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.MythsAndReality" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.TreatmentAids" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.consumption" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.substances" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.seizures" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.burns" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.choking" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.Symptoms" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.AidsVsHiv" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.treatment" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.screening" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.prevention" android:exported="false" />
+        <activity android:name="com.example.android.firstresponse.shock" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.splints" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.CPR" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.AcuteGrief" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.AnxietyManagement" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.TraumaInformedCare" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.GroundingTechniques" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.StressReduction" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.PanicAttackResponse" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.WaterSafety" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.RoadSafety" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.DailyFoodSafety" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.EmergencyFoodSafety" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.Heatwave" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.bleeding" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.snakebite" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.sprain" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.nosebleed" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.minorconcussion" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.headache" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.musclecramps" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.blister" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.bruises" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.allergicreaction" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.strain" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name="com.example.android.firstresponse.insectbite" android:exported="false" android:theme="@style/Theme.NoActionBar"/>
+
+        <!-- Add other activities here -->
+        <activity
+            android:name="com.example.android.firstresponse.FirstAid"
+            android:exported="true"
+            android:theme="@style/Theme.NoActionBar"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+        <activity
+            android:name="com.example.android.firstresponse.PsycFA"
+            android:exported="true"
+            android:theme="@style/Theme.NoActionBar"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+        <activity
+            android:name="com.example.android.firstresponse.BasicSanitation"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+        <activity
+            android:name="com.example.android.firstresponse.Tb"
+            android:exported="true"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+        <activity
+            android:name="com.example.android.firstresponse.DisasterManagement"
+            android:exported="true"
+            android:theme="@style/Theme.NoActionBar"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+        <activity
+            android:name="com.example.android.firstresponse.Drugs"
+            android:exported="true"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+        <activity
+            android:name="com.example.android.firstresponse.Aids"
+            android:exported="true"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+
+        <!-- Splash Screen and Main Activity -->
+        <activity
+            android:name="com.example.android.firstresponse.SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.android.firstresponse.MainActivity"
+            android:exported="true" />
+
+        <!-- Quiz-related activities -->
+        <activity
+            android:name="com.example.android.firstresponse.QuizPageActivity"
+            android:exported="true"
+            android:theme="@style/Theme.NoActionBar"
+            android:parentActivityName="com.example.android.firstresponse.MainActivity" />
+        <activity
+            android:name="com.example.android.firstresponse.QuizLevel1Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.QuizLevel1ResultActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.QuizLevel2Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.QuizLevel2ResultActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.QuizLevel3Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.QuizLevel3ResultActivity"
+            android:exported="true" />
+
+        <!-- New activities -->
+        <activity
+            android:name="com.example.android.firstresponse.SettingsActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.CreditsActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.SuggestionsActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.FirstAidKitActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.SafetyAndPreparedness"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.WhatsWrongActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.SearchResultsActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.PolanguiRhuActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.OasRhuActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.ZoneActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.LigaoRhuActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android.firstresponse.DuranHospitalActivity"
+            android:theme="@style/Theme.NoActionBar"
+            android:exported="true" />
+        <activity
+            android:name=".FlashlightActivity"
+            android:exported="true"
+            android:theme="@style/Theme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+        <!-- Register the LanguageChangeReceiver -->
+        <receiver android:name=".LanguageChangeReceiver"
+            android:exported="false"/>
+
+
+    </application>
+</manifest>

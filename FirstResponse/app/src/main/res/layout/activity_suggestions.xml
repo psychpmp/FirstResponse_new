@@ -1,0 +1,18 @@
+<!-- activity_suggestion.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".SuggestionsActivity">
+
+    <Button
+        android:id="@+id/btn_suggestion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Suggestion"
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_centerInParent="true"
+        android:background="@color/red"
+        android:textColor="@android:color/white"/>
+</RelativeLayout>

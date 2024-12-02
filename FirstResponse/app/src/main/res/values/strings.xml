@@ -1,0 +1,1374 @@
+<resources>
+    <string name="app_name">FirstResponse</string>
+    <string name="about_us">About Us</string>
+    <string name="website">Website</string>
+    <string name="url">https://redcrosskarnataka.org/</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="choose_language">Choose Language</string>
+
+    <string name="seizure2">A seizure can be caused by many things. These can include:
+        \n<b>■</b> An imbalance of nerve-signaling brain chemicals (neurotransmitters)
+        \n<b>■</b> Brain tumor
+        \n<b>■</b> Stroke
+        \n<b>■</b> Brain damage from illness or injury
+        \nEpilepsy may be caused by a combination of these. In most cases, the cause of epilepsy can’t be found.</string>
+
+    <string name="seizure3">"Your symptoms depend on the type of seizure. General symptoms or warning signs of a seizure can include:
+\n<b>■</b> Staring
+\n<b>■</b> Jerking movements of the arms and legs
+\n<b>■</b> Stiffening of the body
+\n<b>■</b> Loss of consciousness
+\n<b>■</b> Breathing problems or stopping breathing
+\n<b>■</b> Loss of bowel or bladder control
+\n<b>■</b> Falling suddenly for no apparent reason,especially when associated with loss of consciousness
+\n<b>■</b> Not responding to noise or words for brief periods
+\n<b>■</b> Appearing confused or in a haze
+\n<b>■</b> Nodding your head rhythmically, when associated with loss of awareness or loss of consciousness
+\n<b>■</b> Periods of rapid eye blinking and staring"</string>
+
+    <string name="seizure4">The goal of treatment is to control, stop, or reduce how often seizures occur. Treatment is most often done with medicine. There are many types of medicines used to treat epilepsy. Your healthcare provider will need to identify the type of seizure you are having. Medicines are selected based on the type of seizure, age of the person, side effects, cost, and ease of use.\n
+        \n<b>1.</b> Blood tests
+        \n<b>2.</b> Urine tests
+        \n<b>3.</b> Electroencephalogram (EEG)
+        \n<b>4.</b> Vagus Nerve Stimulation (VNS)
+        \n<b>5.</b> Surgery"</string>
+
+    <string name="earth_para1">An earthquake is a sudden shaking of Earth\'s surface caused by the movement of rocks deep underneath.
+        Most quakes are unnoticeable by people on Earth\'s surface. Thousands of quakes occur every day but are too weak to be felt.
+
+    </string>
+
+    <string name="earth_para2"><b>■Plate tectonics</b> - The Earth\’s outermost layer is fragmented into about 15 major slabs called tectonic plates. These slabs form the lithosphere, which is comprised of the crust (continental and oceanic) and the upper part of the mantle. Tectonic plates move very slowly relative to each other, typically a few centimetres per year, but this still causes a huge amount of deformation at the plate boundaries, which in turn results in earthquakes.\n
+       \n<b>■Elastic rebound theory</b> - Before an earthquake, the buildup of stress in the rocks on either side of a fault results in gradual deformation. Eventually, this deformation exceeds the frictional force holding the rocks together and sudden slip occurs along the fault. This releases the accumulated stress and the rocks on either side of the fault return to their original shape (elastic rebound) but are offset on either side of the fault.\n
+    </string>
+
+    <string name="earth_indoor"><b>Drop, Cover, and Hold On:</b> <b>Drop</b> to your hands and knees to prevent falling. <b>Cover</b> your head and neck (and entire body if possible) under a sturdy piece of furniture like a table or desk. <b>Hold</b> On to the furniture to keep it in place until the shaking stops.\n<b>Stay away from windows, glass, and exterior walls:</b> These can break or collapse, causing injury.\n<b>Do not run outside:</b> It’s often safer to stay indoors because falling debris can be hazardous near buildings.\n<b>Avoid elevators:</b> If the power goes out or the building is damaged, elevators can become trapped.\n
+    </string>
+
+    <string name="earth_outdoor"><b>Move away from buildings, trees, streetlights, and utility wires:</b> These structures can collapse or break during an earthquake.\n<b>Find an open space:</b> Stay in an open area until the shaking stops.\n<b>Drop to the ground:</b> Stay low to reduce the risk of being knocked down by the shaking.\n
+    </string>
+
+    <string name="earth_vehicle"><b>Pull over:</b> Stop as quickly and safely as possible, avoiding overpasses, bridges, or power lines.\n<b>Stay inside the vehicle:</b> The vehicle can offer protection from falling debris.\n<b>Avoid parking near buildings, trees, or large signs:</b> These could collapse onto your vehicle.\n<b>Proceed cautiously:</b> After the shaking stops, drive carefully, watching for road damage or hazards.\n
+    </string>
+
+    <string name="earth_building"><b>Stay inside:</b> Do not use elevators. Find cover under sturdy furniture.\n<b>Move away from windows and outside walls:</b> These are prone to shattering or collapsing.\n
+    </string>
+
+    <string name="earth_coast"><b>Be aware of tsunamis:</b> Earthquakes near coastlines can trigger tsunamis. After the shaking stops, move to higher ground as quickly as possible if you are near the ocean.\n
+    </string>
+
+    <string name="earth_afterearthquake"><b>Be prepared for aftershocks:</b> These smaller tremors can happen minutes or even days after the main quake.\n<b>Check for injuries and hazards:</b> Once the shaking stops, check yourself and others for injuries. Look for fire hazards like gas leaks or broken electrical wires.\n<b>Stay tuned to news or alerts:</b> Use a radio or mobile device (if available) to listen for emergency updates and instructions.\n
+    </string>
+
+    <string name="epi_para1">An epidemic is a sudden disease outbreak that affects a large number of people in a particular region, community, or population.
+        \nAn epidemic of an infectious disease can happen if the virus, bacteria, or other cause of the disease has recently grown stronger, is introduced somewhere it has never been before, or finds new ways to enter the bodies of those it is affecting. It also can happen if people somehow grow more susceptible to the cause of the disease or have greater exposure to it.
+        \nEpidemics typically are classified as common-source or propagated. A disease is labeled one or the other based on the way it spreads through a group of people.
+
+    </string>
+
+    <string name="epi_para2">An <b>EPIDEMIC</b> involves the wide-ranging spread of a disease throughout an entire area or particular community where it’s not permanently prevalent. <b>PANDEMIC</b> involves an even wider spread, often reaching across the entire world. The word <b>ENDEMIC</b> is used to describe a disease that persistently and regularly spreads within a particular area or region (that is, it never fully goes away).
+
+    </string>
+
+    <string name="epi_para3">
+      \n<b>Follow public health guidelines</b>
+        \n<b>■</b> Practice good hygiene
+        \n<b>■</b> Wear masks
+        \n<b>■</b> Maintain physical distancing
+        \n<b>■</b> Follow respiratory etiquette
+        \n<b>■</b> Clean and disinfect frequently touched surfaces
+        \n<b>■</b> Stay home if you\'re feeling unwell
+        \n<b>■</b> Stay informed and avoid misinformation
+        \n<b>■</b> Support vaccination efforts
+    </string>
+
+    <string name="epi_para4">
+        Due to Covid-19 pandemic many people have suffered, we have supported the community by donating them sanitizers, soaps, face masks, grocery kits etc., and also we have extended financial support of Rs.3,00,000 to all the Red Cross District branches.
+    </string>
+
+    <string name="flood_para1">Floods are the most frequent type of natural disaster and occur when an overflow of water submerges land that is usually dry. Floods are often caused by heavy rainfall, rapid snow-melt or a storm surge from a tropical cyclone or tsunami in coastal areas.
+    </string>
+
+    <string name="flood_para2">A flood can develop in a many ways. The most common is when rivers or streams overflow their banks. These floods are called riverine floods. Heavy rain, a broken dam or levee, rapid ice-melt in the mountains, or even a beaver dam in a vulnerable spot can overwhelm a river and send it spreading over nearby land. The land surrounding a river is called a flood plain.\n\nCoastal flooding, also called estuarine flooding, happens when a large storm or tsunami causes the sea to rush inland.
+    </string>
+    <string name="flood_para3"><b>To prepare for a flood, you should:</b>\n\n■Avoid building in flood prone areas unless you elevate and reinforce your home.\n■Elevate the furnace, water heater, and electric panel if susceptible to flooding.\n■Install "Check Valves" in sewer traps to prevent floodwater from backing up into the drains of your home.\n■Contact community officials to find out if they are planning to construct barriers (levees, beams and flood walls) to stop floodwater from entering the homes in your area.\n■Seal the walls in your basement with waterproofing compounds to avoid seepage.\n
+        <b>\nIf a flood is likely to hit  your area, you should:</b>\n\n■Listen to the radio or television for information.\n■Be aware that flash flooding can occur. If there is any possibility of a flash flood, move immediately to higher ground. Do not wait for instructions to move.\n■Be aware of streams, drainage channels, canyons, and other areas known to flood suddenly. Flash floods can occur in these areas with or without such typical warnings as rain clouds or heavy rain.\n
+        <b>\nIf you must prepare to evacuate, you should:</b>\n\n■Secure your home. If you have time, bring in outdoor furniture. Move essential items to an upper floor.\n■Turn off utilities at the main switches or valves if instructed to do so. Disconnect electrical appliances. Do not touch electrical equipment if you are wet or standing in water.\n
+        <b>\nIf you have to leave your home, remember these evacuation tips:</b>\n\n■Do not walk through moving water. Six inches of moving water can make you fall. If you have to walk in water, walk where the water is not moving. Use a stick to check the firmness of the ground in front of you.\n■Do not drive into flooded areas. If floodwaters rise around your car, abandon the car and move to higher ground if you can do so safely. You and the vehicle can be quickly swept away.\n</string>
+
+    <string name="volc_erupt1"><b>Lava flows:</b> Molten rock that moves down the volcano, destroying anything in its path.
+\n<b>Ashfall:</b> Fine volcanic ash that can spread over vast areas, causing respiratory issues, damaging crops, and affecting transportation.
+\n<b>Pyroclastic flows:</b> Extremely hot, fast-moving clouds of gas and volcanic matter that can devastate entire areas.
+\n<b>Volcanic gases:</b> Toxic gases like sulfur dioxide can be released, causing health problems and environmental damage.
+\n<b>Lahar:</b> Mudflows or debris flows caused by volcanic activity, especially in areas with heavy rain.
+    </string>
+
+    <string name="volc_erupt2"><b>Know your evacuation routes:</b> Identify safe zones and evacuation routes. Be aware of local volcano warning systems and emergency protocols.
+\n<b>Prepare an emergency kit:</b> Include items like a face mask (N95 to filter ash), goggles, food, water, a flashlight, a first aid kit, and a battery-powered radio.
+\n<b>Stay informed:</b> Regularly check updates from local authorities and geological agencies that monitor volcanic activity. These agencies provide alerts when an eruption is imminent.
+    </string>
+
+    <string name="volc_erupt3"><b>Evacuate if advised:</b> If authorities issue an evacuation order, leave the area immediately following the safest evacuation route.
+\n<b>Stay indoors:</b>
+\nIf evacuation isn’t possible, stay indoors with windows and doors closed to avoid ash and toxic gases.
+\nWear a mask and goggles to protect yourself from ash inhalation and irritation.
+\n<b>Avoid low-lying areas:</b> Pyroclastic flows and lahars tend to travel quickly downhill and through valleys. Stay away from riverbeds and low-lying areas.
+\n<b>Cover your skin:</b> If you must go outside, wear long sleeves, pants, and a hat to minimize skin exposure to falling ash.
+\n<b>Protect water sources:</b> Cover water containers and stay alert for ash contamination in local water supplies.
+    </string>
+
+    <string name="volc_erupt4"><b>Wait for the all-clear:</b> Only return to evacuated areas once authorities have declared it safe.
+\n<b>Clean up ash safely:</b>
+\nUse a mask and damp cloth to clean surfaces. Avoid sweeping dry ash, as it can resuspend into the air.
+\n<b>Check for structural damage:</b> Assess your home for damage from ashfall, debris, or earthquakes that may have accompanied the eruption.
+\n<b>Monitor your health:</b> If you experience respiratory or eye problems from ash exposure, seek medical care. Pay close attention to air quality advisories.
+    </string>
+
+    <string name="volc_erupt5">By being prepared and following safety protocols, you can reduce the risks posed by volcanic eruptions. It’s essential to stay informed and follow the instructions of local authorities before, during, and after an eruption to ensure safety for yourself and your community.
+    </string>
+
+    <string name="water_safety">Water safety is crucial for health, preventing waterborne diseases and reducing risks during floods.\nEnsuring access to clean drinking water and being prepared for floods helps protect against contamination. Prioritizing safe water practices and flood preparedness keeps individuals and families safe from water-related dangers.
+    </string>
+
+    <string name="water_safety1"><b>Use Clean Water Sources:</b> Drink only from trusted or treated sources.
+        \n<b>Boil or Purify Water:</b> Boil water for at least one minute or use purification methods if unsure of its quality.
+        \n<b>Clean Water Containers:</b> Regularly wash and seal containers to prevent contamination.
+        \n<b>Install Water Filters:</b> Use filters for added protection against bacteria and other impurities.
+        \n<b>Be Cautious with Ice and Street Food:</b> Ensure ice and food were prepared with clean water.
+        \n<b>Prepare for Floods:</b> Secure water supplies, avoid contact with floodwaters, and use bottled or purified water during emergencies.
+        \n<b>Stay Informed:</b> Follow local advisories on water safety, especially during natural disasters.
+    </string>
+
+    <string name="road_safety">"Road safety is essential for reducing accidents, injuries, and fatalities, while promoting responsible driving and safer travel for all. It improves transportation efficiency, reduces economic and healthcare burdens, and enhances overall quality of life by ensuring safer, more reliable roads.     "</string>
+
+    <string name="road_safety1"><b>For Civilians:</b>\n\n<b>Follow traffic laws:</b> Always obey pedestrian signals and cross at designated areas.\n<b>Stay alert:</b> Avoid distractions like using mobile phones when walking near or crossing roads.\n<b>Use pedestrian crossings:</b> Cross at zebra crossings or traffic lights for maximum safety.\n<b>Be aware of surroundings:</b> Watch for incoming vehicles and make eye contact with drivers before crossing.
+    </string>
+
+    <string name="road_safety2"><b>For Riders:</b>\n\n<b>Wear safety gear:</b> Always wear a helmet and protective clothing, especially for long rides.\n<b>Maintain vehicle condition:</b> Regularly inspect brakes, lights, and tires to ensure the vehicle is roadworthy.\n<b>Practice defensive driving:</b> Stay alert and anticipate potential hazards, like sudden stops or lane changes.\n<b>Be visible:</b> Use reflective clothing or lights at night to increase visibility.\n<b>Avoid risky behavior:</b> Never ride under the influence of alcohol or drugs, and avoid excessive speeding.\n
+    </string>
+
+    <string name="daily_food_safety">Daily food safety is essential for preventing foodborne illnesses, protecting public health, and ensuring the quality of what we consume. Proper hygiene, safe cooking, and correct food storage reduce contamination risks, safeguarding vulnerable groups and supporting overall well-being while minimizing healthcare burdens.
+    </string>
+
+    <string name="daily_food_safety1"><b>Wash hands and utensils:</b> Clean hands, cooking tools, and surfaces before and after handling food.\n<b>Cook food thoroughly:</b> Ensure food reaches safe internal temperatures to kill harmful bacteria.\n<b>Store food properly:</b> Refrigerate perishable items within two hours to prevent spoilage.\n<b>Separate raw and cooked foods:</b> Avoid cross-contamination by using different cutting boards and utensils for raw meats and cooked foods.\n<b>Check expiration dates:</b> Regularly inspect and discard expired or spoiled products.\n<b>Clean fresh produce:</b> Wash fruits and vegetables thoroughly under running water before consumption.\n
+    </string>
+
+    <string name="emergency_food_safety">Emergency food safety is essential during crises to prevent foodborne illnesses, ensure proper storage, and maintain access to safe water. It helps avoid contamination and spoilage when infrastructure is compromised, protecting public health and supporting recovery efforts. Safe handling practices and proper food storage reduce the risk of malnutrition and disease outbreaks in emergency situations.
+    </string>
+
+    <string name="emergency_food_safety1"><b>Store emergency food supplies:</b> Keep non-perishable, sealed food items like canned goods, dried fruits, and ready-to-eat meals.\n<b>Use safe water:</b> Ensure access to bottled or treated water for drinking and food preparation.\n<b>Proper food storage:</b> Store food in clean, airtight containers and maintain safe temperatures, using coolers or ice packs if necessary.\n<b>Inspect food before consumption:</b> Check for signs of spoilage, such as unusual odors, color changes, or damaged packaging.\n<b>Maintain hygiene:</b> Wash hands and utensils with clean water before handling food to prevent contamination.\n<b>Use heat or fire safely:</b> If cooking is necessary, ensure food is heated to safe temperatures, and use safe cooking methods in emergency conditions.\n
+    </string>
+
+    <string name="heatwave">Heatwaves can lead to serious health risks like heat exhaustion, dehydration, and heatstroke, especially for vulnerable groups such as the elderly and children. Prolonged heat can worsen chronic conditions, strain energy supplies, and cause power outages, limiting access to cooling and clean water. Additionally, it impacts agriculture, reducing crop yields and increasing the risk of food shortages.
+    </string>
+
+    <string name="heatwave1"><b>Stay hydrated:</b> Drink plenty of water to avoid dehydration, especially during peak heat hours.\n<b>Limit outdoor activities:</b> Avoid strenuous tasks outdoors, particularly during the hottest parts of the day.\n<b>Wear light, breathable clothing:</b> Choose loose-fitting, light-colored clothing to stay cool.\n<b>Use cooling systems efficiently:</b> Keep fans or air conditioners in good condition and use them to maintain a cool indoor environment.\n<b>Create shaded areas:</b> Use umbrellas, tents, or vegetation to provide shade in outdoor spaces.\n<b>Check on vulnerable individuals:</b> Ensure the elderly, children, and those with health conditions are cared for during extreme heat.\n<b>Plan for power outages:</b> Prepare backup options, such as portable fans, to handle potential power cuts during heatwaves.\n
+    </string>
+
+    <string name="acute_grief"><b>Offer a listening ear:</b> Allow them to express their feelings without judgment or trying to fix the situation.\n<b>Be patient and present:</b> Grief is a process that takes time, so offer ongoing support rather than expecting quick recovery.\n<b>Encourage professional help:</b> Suggest they talk to a therapist or grief counselor if needed for additional support.\n<b>Help with practical tasks:</b> Offer assistance with daily activities like cooking, cleaning, or errands to relieve their burden.\n<b>Respect their grief process:</b> Avoid pushing them to move on or minimizing their pain; everyone grieves differently.\n<b>Check in regularly:</b> Stay in touch with them over time, as grief can be a long-term process, and ongoing support is valuable.\n<b>Share memories:</b> If appropriate, talk about the person they lost, which can help them feel connected and supported.\n
+    </string>
+
+    <string name="acute_grief_intro">Acute grief is an intense emotional reaction that occurs soon after a significant loss, typically marked by deep sadness, longing, and distress. It can include physical symptoms like fatigue and sleep disturbances, and individuals often feel preoccupied with thoughts of the deceased. Though highly painful, it is a normal part of the grieving process and usually lasts for weeks to a few months as the person begins to adjust to life without their loved one.
+    </string>
+
+    <string name="panic_attack">A panic attack is a sudden, intense surge of fear or anxiety that triggers physical symptoms like a racing heart, shortness of breath, sweating, and dizziness. It often feels overwhelming, with a sense of impending doom or loss of control. These episodes typically peak within minutes and can happen unexpectedly, even without an obvious cause. While not dangerous, they can severely impact a person\'s well-being if not managed properly.
+    </string>
+
+    <string name="panic_attack1"><b>Stay calm and reassuring:</b> Your calm presence can help reduce their anxiety.\n<b>Encourage deep breathing:</b> Guide them through slow, deep breaths to help control hyperventilation.\n<b>Offer grounding techniques:</b> Ask them to focus on their surroundings or describe objects they see to shift focus away from the panic.
+    </string>
+
+    <string name="panic_attack2"><b>Speak softly and comfortingly:</b> Remind them that the panic attack will pass and that they are not in danger.\n<b>Give them space if needed:</b> Some may prefer solitude during an attack, so be respectful of their wishes.\n<b>Avoid telling them to "calm down":</b> This may increase their stress; instead, focus on reassurance and support.\n<b>Encourage professional help:</b> If panic attacks are frequent, suggest seeking help from a therapist or counselor.\n
+    </string>
+
+    <string name="anxiety_management">Anxiety is a feeling of worry or fear that can range from mild unease to intense nervousness. It is a natural response to stress but can become overwhelming if persistent. Symptoms include restlessness, rapid heartbeat, and difficulty focusing. While normal in certain situations, chronic anxiety may interfere with daily life and could indicate an anxiety disorder if not managed.
+    </string>
+
+    <string name="anxiety_management1"><b>Listen without judgment:</b> Allow them to express their feelings openly without offering immediate solutions.\n<b>Offer reassurance:</b> Remind them that it is okay to feel anxious and that they are not alone.\n<b>Encourage deep breathing:</b> Help them practice slow, deep breaths to reduce anxiety symptoms.\n<b>Avoid minimizing their feelings:</b> Avoid saying things like "just relax" or "don't worry," as it can make them feel misunderstood.\n<b>Suggest grounding techniques:</b> Encourage them to focus on the present, such as by using the "5-4-3-2-1" grounding method(for further understanding, go to the Grounding Techniques page).
+    </string>
+
+    <string name="anxiety_management2"><b>Help them create a calm environment:</b> Reduce triggers such as loud noises or stressful stimuli.\n<b>Encourage seeking professional help:</b> Suggest therapy or counseling if anxiety is interfering with their daily life.\n
+    </string>
+
+    <string name="trauma_informed_care">Trauma-informed care is an approach that recognizes the impact of trauma and integrates this awareness into care practices. Its importance lies in creating a safe, supportive environment that prevents re-traumatization and fosters healing. By prioritizing trust, empowerment, and understanding, trauma-informed care improves outcomes and encourages individuals to engage in their recovery.
+    </string>
+
+    <string name="trauma_informed_care1"><b>Ensure physical and emotional safety:</b> Create an environment where individuals feel safe, both physically and emotionally, to foster trust and reduce anxiety.\n<b>Build trust and transparency:</b> Communicate clearly and openly to develop a trusting relationship between caregivers and individuals.\n<b>Provide choice and empowerment:</b> Give individuals control over their care decisions and offer choices, helping them feel empowered and respected.\n<b>Collaborate and share power:</b> Work together with individuals, respecting their autonomy and input in the treatment process.\n<b>Recognize cultural, historical, and gender factors:</b> Be aware of cultural backgrounds and past experiences, including historical trauma, to offer more personalized care.\n<b>Understand trauma’s widespread impact:</b> Recognize that trauma affects everyone differently and can have a deep impact on emotional and physical well-being.\n<b>Avoid re-traumatization:</b> Ensure practices and interactions don’t unintentionally trigger or worsen an individual’s trauma.\n
+    </string>
+
+    <string name="stress_reduction">Stress is the body\'s natural response to perceived challenges or threats, triggering the release of hormones like cortisol. It can help motivate short-term action, but prolonged stress can lead to negative effects such as headaches, irritability, and difficulty concentrating. Chronic stress increases the risk of health issues like heart disease and anxiety, making it important to manage effectively.
+    </string>
+
+    <string name="stress_reduction1"><b>Practice mindfulness and meditation:</b> Engage in deep breathing, meditation, or mindfulness exercises to calm the mind and reduce anxiety.\n<b>Exercise regularly:</b> Physical activity helps lower stress hormones like cortisol and boosts endorphins, which improve mood.\n<b>Get enough sleep:</b> Ensure consistent, restful sleep to help the body recover and handle stress more effectively.\n<b>Manage time effectively</b>: Organize tasks, set priorities, and break larger tasks into manageable steps to reduce feelings of overwhelm.\n<b>Stay connected with supportive people:</b> Talk to friends, family, or professionals to share your concerns and lighten emotional burdens.\n<b>Engage in hobbies:</b> Take time for activities that bring joy and relaxation, such as reading, cooking, or gardening.\n<b>Eat a healthy diet:</b> Balanced nutrition can improve mood and energy levels, helping the body cope with stress.\n<b>Avoid excessive caffeine or alcohol:</b> These substances can increase stress and anxiety, so it is important to consume them in moderation.\n<b>Practice relaxation techniques:</b> Progressive muscle relaxation, yoga, or guided imagery can help relax the body and mind.\n<b>Set boundaries:</b> Learn to say no to avoid overcommitting yourself and adding unnecessary stress.\n
+    </string>
+
+    <string name="grounding_techniques">Grounding techniques help individuals focus on the present moment by using their senses, such as through touch or sight, to manage anxiety or stress. These techniques are important because they reduce overwhelming emotions and restore a sense of control during moments of distress, helping individuals stay calm and clear-minded.
+    </string>
+
+    <string name="grounding_techniques1">Here are some common grounding techniques:\n\n<b>5-4-3-2-1 technique:</b> Identify five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste.\n<b>Deep breathing:</b> Focus on slow, deep breaths to calm the mind and body.\n<b>Hold a textured object:</b> Feel an object with a distinct texture (like a stone or fabric) to bring attention to the sensation.\n<b>Count backward:</b> Start from 100 and count backward to divert attention from distressing thoughts.\n<b>Move your body:</b> Stretch, walk, or engage in light physical activity to focus on bodily sensations.\n<b>Describe your surroundings:</b> Verbally describe what you see around you to help stay in the present moment.\n<b>Clench and release:</b> Tense and then release different muscle groups to focus on physical sensations.\n<b>Recite a mantra:</b> Repeat a comforting phrase or affirmation to shift focus from anxiety to a positive thought.\n<b>Splash cold water on your face:</b> Engage your sense of touch and temperature to bring immediate awareness to your body.\n<b>Listen to music:</b> Play calming or familiar music to divert attention from overwhelming emotions.\n<b>Savor a small snack:</b> Focus on the taste and texture of food or drink to reconnect with the present moment.\n<b>Write in a journal:</b> Express your thoughts or describe your surroundings to engage your mind.\n<b>Trace your hand:</b> Use a finger to trace the outline of your hand while focusing on the sensation of touch.\n<b>Use a grounding phrase:</b> Repeat to yourself, “I am here, I am safe, I am in control,” to affirm your sense of stability.\n<b>Visualize a safe place:</b> Imagine a peaceful or safe place and focus on the details to create a sense of calm.\n
+    </string>
+
+    <string name="bleeding">Bleeding refers to the loss of blood from the circulatory system, typically caused by injury to blood vessels. It can occur internally, where blood leaks from blood vessels inside the body, or externally through a break in the skin or other body openings like the mouth or nose. There are 3 types of bleeding:
+    </string>
+
+    <string name="bleeding1">This is the least severe form of bleeding, characterized by slow oozing of blood from small vessels (capillaries). It typically occurs from minor cuts and abrasions. It often stops on its own or with minimal first aid.
+    </string>
+
+    <string name="bleeding2">In this type, blood flows steadily and is darker in color due to its lower oxygen content. While it is usually less severe than arterial bleeding, it can still result in significant blood loss if not controlled promptly.
+    </string>
+
+    <string name="bleeding3">This is the most severe type of bleeding, where blood spurts out forcefully in rhythm with the heartbeat. The blood is bright red due to its high oxygen content. Arterial bleeding can be life-threatening and requires immediate medical attention.
+    </string>
+
+    <string name="capillaries_bleeding"><b>Clean the wound:</b> Wash the area gently with soap and water to prevent infection.\n<b>Apply a sterile dressing or band-aid:</b> Place a clean bandage or adhesive strip over the wound to protect it.\n<b>Direct pressure (if needed):</b> If the bleeding is slow to stop, apply light pressure to control it.\n<b>Monitor for infection:</b> Capillary bleeding is often minor, but make sure to check for signs of infection like redness or swelling as the wound heals.\n
+    </string>
+
+    <string name="venous_bleeding"><b>Direct pressure:</b> Apply firm, consistent pressure with a sterile cloth or bandage.\n<b>Elevate the injury:</b> If the bleeding is from a limb, elevate it above the level of the heart to slow the bleeding.\n<b>Monitor and control bleeding:</b> Continue applying pressure until the bleeding stops. Replace the dressing if it becomes soaked, but try to avoid disturbing the clotting process by lifting the bandage unnecessarily.\n<b>Seek medical attention:</b> If bleeding is profuse or does not stop with pressure, seek medical help.\n
+    </string>
+
+    <string name="arterial_bleeding"><b>Immediate pressure:</b> Apply direct, firm pressure to the wound using a sterile cloth or dressing to try and control the bleeding.\n<b>Use a tourniquet:</b> If pressure doesn’t stop the bleeding and it’s on a limb, use a tourniquet above the wound (between the heart and the injury) if trained to do so.\n<b>Call for emergency help:</b> This type of bleeding can be life-threatening, so call for emergency medical services immediately.\n<b>Keep the person calm and lying down:</b> To reduce shock, keep the injured person still and lying flat if possible.\n
+    </string>
+
+    <string name="snake_bite">A snakebite occurs when a snake punctures the skin with its fangs, injecting venom in some cases. Snakebites can vary widely in severity, depending on the species of snake, whether venom was injected, and the size or health of the person bitten. There are 2 types of Snake Bites:
+    </string>
+
+    <string name="dry_bite">This occurs when a snake strikes but does not inject venom. Although painful and alarming, dry bites generally do not cause significant harm beyond localized pain or minor swelling.
+    </string>
+
+    <string name="venomous_bite">These bites involve the injection of venom, which can have various effects depending on the snake\'s species. Venomous snakebites are more dangerous and require immediate medical attention.
+    </string>
+
+    <string name="dry_bite1"><b>Stay calm:</b> The bite can still be painful, but there’s no venom to cause serious harm.\n<b>Clean the wound:</b> Use soap and water to clean the bite site to reduce the risk of infection.\n<b>Apply a bandage:</b> Cover the wound with a clean bandage to protect it from further irritation.\n<b>Monitor the area:</b> If swelling or unusual symptoms occur, seek medical advice just in case venom was injected but the effects are delayed.\n
+    </string>
+
+    <string name="venomous_bite1"><b>Stay calm and still:</b> Movement can spread the venom more quickly through the body. Try to limit activity as much as possible.\n<b>Call emergency services immediately:</b> Venomous bites require professional medical treatment, usually antivenom.\n<b>Keep the bite area below the heart:</b> This helps slow the spread of venom.\n<b>Remove tight clothing and jewelry:</b> As swelling may occur, remove anything that could become constricting.\n<b>Immobilize the affected area:</b> Use a splint to keep the limb still if the bite is on a leg or arm.\n<b>Apply a clean bandage:</b> Place a loose bandage over the bite but avoid using a tourniquet, as it can restrict blood flow and cause further damage.\n<b>Do not suck out the venom:</b> This outdated method can cause more harm than good and isn’t effective.\n
+    </string>
+
+    <string name="snake_bite1">The basic first-aid measures are generally the same: immobilize the person, keep calm, and seek medical attention immediately. Treatment at a hospital will depend on the specific snake and venom, often involving antivenom or supportive care. Never try to catch or kill the snake. Instead, if possible, take a photo or note its appearance for identification by medical professionals.
+    </string>
+
+    <string name="sprain">A sprain is an injury to a ligament, which is the tissue that connects two bones in a joint. Sprains occur when a ligament is stretched or torn due to excessive force, such as twisting, falling, or an impact to the joint. The most common locations for sprains are the ankles, knees, wrists, and thumbs. There are levels of severity sprain has:
+    </string>
+
+    <string name="grade_1_sprain">A Grade 1 sprain is the least severe form of a sprain, involving a slight overstretching or microscopic tearing of the ligament. The ligament remains intact, but it has been stretched beyond its normal range of motion.
+    </string>
+
+    <string name="grade_1_sprain_symptoms">■Mild pain\n■Swelling\n■Stiffness around the joint, but typically no instability. You can still bear weight on the joint, but it may be slightly uncomfortable.
+    </string>
+
+    <string name="grade_2_sprain">A Grade 2 sprain is more serious and involves a partial tear of the ligament. The fibers of the ligament are damaged but not completely torn, which results in some loss of joint function and stability.
+    </string>
+
+    <string name="grade_2_sprain_symptoms">■Moderate to significant pain\n■Swelling\n■Bruising around the joint. \n■Joint mobility may be restricted, and the person may feel some instability or difficulty bearing weight on the joint.
+    </string>
+
+    <string name="grade_3_sprain">A Grade 3 sprain is the most severe type, involving a complete tear or rupture of the ligament. The ligament no longer provides any stability to the joint, and the joint may feel completely unstable or non-functional.
+    </string>
+
+    <string name="grade_3_sprain_symptoms">■Severe pain (though sometimes less painful if the ligament is completely torn)
+        \n■Significant swelling
+        \n■Bruising
+        \n■Total loss of joint function (The person is typically unable to bear any weight on the joint, and the joint feels very unstable).
+    </string>
+
+    <string name="grade_1_sprain1"><b>Rest:</b> Avoid activities that may strain the joint for a few days to allow healing.\n<b>Ice:</b> Apply ice to the affected area for 15-20 minutes every 1-2 hours for the first 48 hours to reduce swelling and pain.\n<b>Compression:</b> Use an elastic bandage to wrap the injured joint to limit swelling but not too tight as to cut off circulation.\n<b>Elevation:</b> Keep the injured joint elevated above heart level as much as possible to reduce swelling.\n<b>Over-the-counter pain relief:</b> You can take ibuprofen or acetaminophen to manage pain and swelling.\n<b>Gentle exercise:</b> After a few days, start gentle movement exercises to prevent stiffness, but avoid anything that causes pain.\n
+    </string>
+
+    <string name="grade_2_sprain1"><b>Rest:</b> Avoid activities that may strain the joint for a few days to allow healing.\n<b>Ice:</b> Apply ice to the affected area for 15-20 minutes every 1-2 hours for the first 48 hours to reduce swelling and pain.\n<b>Compression:</b> Use an elastic bandage to wrap the injured joint to limit swelling but not too tight as to cut off circulation.\n<b>Elevation:</b> Keep the injured joint elevated above heart level as much as possible to reduce swelling.\n<b>Immobilization:</b> The joint may need to be immobilized with a brace or splint for support while healing.\n<b>Physical Therapy:</b> Once the pain and swelling have subsided, guided physical therapy may be necessary to restore mobility, strength, and stability to the joint.\n<b>Pain management:</b> Non-steroidal anti-inflammatory drugs (NSAIDs) can help with pain and swelling.\n<b>Recovery time:</b> A moderate sprain may take several weeks (4-6 weeks) to fully heal.\n
+    </string>
+
+    <string name="grade_3_sprain1"><b>Immediate medical attention:</b> A severe sprain often requires professional medical care, including diagnostic imaging like an X-ray or MRI to assess ligament damage.\n<b>Immobilization or surgery:</b> The joint may need to be immobilized for a longer period, and in some cases, surgery may be required to repair torn ligaments.\n<b>Rehabilitation:</b> Physical therapy will be critical to restoring full function, which may take several months.\n<b>Avoid weight-bearing activities:</b> Use crutches or other mobility aids to avoid putting weight on the injured joint.\n<b>Long-term management:</b> Even after healing, ongoing exercises to strengthen the joint and maintain flexibility may be necessary to prevent future injuries.\n
+    </string>
+
+    <string name="sprain1">Each grade requires different levels of care and recovery. While Grade 1 sprains often heal with simple first aid, Grade 2 and 3 sprains may need medical intervention and rehabilitation to ensure proper recovery.
+    </string>
+
+    <string name="nose_bleed">A nosebleed is the loss of blood from the tissue lining inside the nose. It can happen when the tiny blood vessels in the nose are broken due to trauma, irritation, dry air, or other causes. Nosebleeds are common and generally not serious.
+    </string>
+
+    <string name="nose_bleed1"><b>Stay calm:</b> Keep yourself or the person calm to avoid raising blood pressure, which can worsen the bleeding.\n<b>Sit upright and lean forward:</b> This helps prevent swallowing blood, which can irritate the stomach or cause choking. Leaning forward allows the blood to drain out of the nose.\n<b>Pinch the nose:</b> Using your thumb and index finger, pinch the soft part of the nose just below the nasal bridge. Hold it for about 10-15 minutes without interruption.\n<b>Breathe through the mouth:</b> Continue breathing through your mouth while pinching the nose.\n<b>Cold compress:</b> Apply a cold compress to the bridge of the nose to constrict blood vessels and help slow the bleeding.\n<b>Avoid blowing your nose:</b> Once the bleeding stops, avoid blowing or picking your nose, as this could restart the bleeding.\n
+    </string>
+
+    <string name="nose_bleed2">Call your Local Hotline or Seek for Professional Help if the bleeding lasts more than 20 minutes, happens frequently, or if it occurs after a head injury or due to a significant trauma.
+    </string>
+
+    <string name="minor_concussion">A minor concussion is a mild form of traumatic brain injury that occurs when the brain is shaken inside the skull due to a blow or jolt to the head or body. While a minor concussion is less severe than other types of brain injuries, it still temporarily affects brain function. Symptoms can last for a few hours to several days.
+    </string>
+
+    <string name="minor_concussion_symptoms">■Headache\n■Dizziness or feeling lightheaded\n■Nausea or vomiting\n■Confusion or disorientation\n■Sensitivity to light or noise\n■Blurred vision\n■Difficulty concentrating or remembering\n■Fatigue or drowsiness\n
+    </string>
+
+    <string name="minor_concussion1"><b>Rest and monitor:</b> Rest is crucial for recovery. Avoid physically demanding activities or anything that requires intense mental focus, such as reading or using a computer. The person should be monitored for 24-48 hours after the injury to ensure symptoms don’t worsen.\n<b>Limit screen time:</b> Avoid using electronic devices like phones, tablets, or computers, as they can aggravate symptoms such as headaches and difficulty concentrating.\n<b>Avoid sports and strenuous activities:</b> Physical activities, especially contact sports, should be avoided until cleared by a healthcare provider, as they can lead to further injury or complications.\n<b>Stay in a calm, quiet environment:</b> Loud noises or bright lights can worsen symptoms. Try to rest in a quiet, dimly lit room.\n<b>Gradual return to normal activities:</b> Once symptoms start to improve, slowly resume daily activities, but stop if symptoms worsen. Return to full physical activity only after being cleared by a healthcare provider.\n
+    </string>
+
+    <string name="minor_concussion2">Call your Local Hotline if symptoms worsen over time, such as increasing headache or confusion, vomiting, seizure, or loss of consciousness occurs, significant drowsiness or inability to stay awake, difficulty speaking or walking, persistent or worsening symptoms after a few days. Even with a minor concussion, it’s important to take symptoms seriously, rest, and follow up with a healthcare provider to ensure complete recovery.
+    </string>
+
+    <string name="headache">A headache is a pain or discomfort in the head, scalp, or neck. It can be caused by a variety of factors, including stress, dehydration, muscle tension, or underlying medical conditions. Headaches are common and can range from mild to severe.
+    </string>
+
+    <string name="headache1"><b>Rest:</b> Find a quiet, dark room to rest and relax. Reducing sensory input can help relieve the pain.\n<b>Hydration:</b> Drink water, especially if dehydration may be a cause.\n<b>Over-the-counter pain relievers:</b> Medications like acetaminophen, ibuprofen, or aspirin can help alleviate headache pain.\n<b>Cold or warm compress:</b> Use a cold compress on the forehead or a warm compress on the back of the neck, depending on what feels better for you.\n<b>Relaxation techniques:</b> Deep breathing, meditation, or gentle stretching can help ease tension headaches.\n<b>Avoid triggers:</b> Pay attention to potential headache triggers, such as stress, certain foods, or lack of sleep, and try to minimize exposure.\n
+    </string>
+
+    <string name="headache2">If headaches become frequent or particularly severe, it’s important to consult with a healthcare provider to rule out underlying issues.
+    </string>
+
+    <string name="musclecramps">Muscle cramps are sudden, involuntary contractions or spasms in one or more muscles, usually causing sharp pain. They often occur in the legs, particularly the calf muscles, but can also affect other parts of the body, like the hands, feet, and arms. Muscle cramps can last from a few seconds to several minutes and are common during exercise or at night.
+    </string>
+
+    <string name="cause_musclecramps"><b>Dehydration:</b> Loss of fluids and electrolytes (like sodium, potassium, or magnesium) can cause cramping.\n<b>Overuse of muscles:</b> Strenuous exercise, especially if muscles aren\'t used to the intensity, can trigger cramps.\n<b>Poor circulation:</b> Reduced blood flow to muscles can cause cramps, especially during exercise.\n<b>Holding a position for too long:</b> Staying in one position, such as sitting or standing, can lead to cramps.\n<b>Nutrient deficiencies:</b> Lack of essential minerals like potassium, calcium, or magnesium can cause cramping.\n
+    </string>
+
+    <string name="musclecramps1"><b>Gentle stretching:</b> Slowly stretch the affected muscle. For example, if your calf muscle is cramping, flex your foot and stretch the calf by pulling your toes toward you.\n<b>Massage:</b> Gently rub or knead the cramped muscle to help relax it.\n<b>Apply Heat:</b> Apply a warm towel, heating pad, or take a warm bath to relax tight muscles.\n<b>Apply some Cold:</b> Use an ice pack on the affected muscle if it remains sore after the cramp subsides.\n<b>Hydrate:</b> Drink water or an electrolyte-rich sports drink to replenish fluids and minerals lost due to dehydration.\n<b>Walk or Move:</b> Walking around or gently moving the affected area can increase blood circulation, helping relieve the cramp.\n<b>Pain Relief:</b> If the muscle remains sore after the cramp, over-the-counter pain relievers such as ibuprofen or acetaminophen may help reduce the discomfort.\n
+    </string>
+
+    <string name="musclecramps2">Muscle cramps are usually harmless and can be managed with these steps, but if they happen frequently or are severe, it’s a good idea to consult a healthcare professional.
+    </string>
+
+    <string name="blister">A blister is a small pocket of fluid that forms on the upper layers of the skin, typically due to friction, heat, or chemical exposure. Blisters act as a protective barrier, allowing the skin underneath to heal. The fluid inside is usually clear, but in some cases, it can contain blood if small blood vessels are damaged, or pus if the blister becomes infected. </string>
+
+    <string name="blister_cause"><b>Friction:</b> Repeated rubbing of the skin, such as from poorly fitting shoes, can cause friction blisters.\n<b>Burns:</b> Exposure to heat, including sunburns, can lead to the formation of blisters.\n<b>Chemical Exposure:</b> Certain irritants or chemicals can cause blisters when they come into contact with the skin.\n<b>Medical Conditions:</b> Some conditions, like chickenpox or eczema, can cause blisters as part of their symptoms.\n
+    </string>
+
+    <string name="blister1"><b>Leave the blister intact:</b> If the blister is small and not too painful, it is best to leave it alone. The blister acts as a natural barrier to infection, and the fluid inside promotes healing. Cover it with a clean, loose bandage or blister pad to protect it from further friction.\n<b>Do not pop the blister:</b> Popping a blister can increase the risk of infection. If the blister is large, painful, or in a location where it’s likely to burst, you can consult a healthcare professional for advice.\n<b>Clean the area:</b> If the blister bursts, wash the area with soap and water to reduce the risk of infection. Gently pat the area dry and apply an antibiotic ointment to protect the skin.\n<b>Cover with a bandage:</b> Use a sterile bandage or blister pad to protect the area. Change the bandage daily or if it becomes wet or dirty.\n<b>Pain relief:</b> Over-the-counter pain relievers like ibuprofen can help reduce pain and inflammation associated with a blister.\n<b>Watch for infection:</b> Signs of infection include redness, warmth, increased pain, and yellow or green discharge. If these symptoms occur, seek medical attention.\n
+    </string>
+
+    <string name="blister2">Blisters usually heal on their own in a few days, but proper care can help speed recovery and prevent complications.
+    </string>
+
+    <string name="bruise">A bruise occurs when small blood vessels under the skin break due to an impact or injury, causing blood to leak into the surrounding tissue. This leads to the characteristic black, blue, or purple discoloration of the skin. Over time, the body reabsorbs the blood, and the bruise gradually fades, changing colors as it heals.
+    </string>
+
+    <string name="bruise1"><b>Rest and protect the injured area:</b> Minimize use of the injured area to prevent further trauma and allow the tissue to heal.\n<b>Ice the bruise:</b> Apply an ice pack (wrapped in a cloth) to the bruised area for 10-20 minutes. This helps reduce swelling and limits the size of the bruise by constricting blood vessels and slowing blood flow to the area. Do not apply ice directly to the skin, as this can cause frostbite.\n<b>Elevate the bruised area:</b> If possible, elevate the bruised area above heart level to reduce blood flow and limit swelling.\n<b>Compression:</b> Lightly wrap the bruised area with a bandage to provide mild compression, which can help reduce swelling. Make sure not to wrap it too tightly, as it may impair circulation.\n<b>Pain relief:</b> Over-the-counter pain relievers like acetaminophen can help alleviate discomfort. Avoid NSAIDs like ibuprofen or aspirin shortly after the injury, as they may increase bleeding.\n<b>Monitor the bruise:</b> Most bruises heal on their own in about 1-2 weeks. However, if a bruise is unusually large, very painful, or doesn’t improve, consult a healthcare provider. Bruising easily or without a known cause could also indicate an underlying medical issue.\n
+    </string>
+
+    <string name="bruise2">Bruises are usually harmless, but paying attention to their healing and treating them with care can help reduce discomfort and promote faster recovery.
+    </string>
+
+    <string name="allergic_reaction">An allergic reaction occurs when the immune system mistakenly identifies a harmless substance (an allergen) as harmful and overreacts to it. Common allergens include pollen, food, insect stings, pet dander, medications, and latex. The reaction can range from mild to severe and can affect different parts of the body, such as the skin, respiratory system, and digestive system.
+    </string>
+
+    <string name="mild_symptoms">■Sneezing, runny or stuffy nose\n■Itchy or watery eyes\n■Rash, hives (raised, itchy welts on the skin)\nMild swelling, usually localized\n■Coughing, wheezing\n
+    </string>
+
+    <string name="severe_symptoms">■Difficulty breathing or shortness of breath\n■Swelling of the lips, tongue, or throat\n■Rapid or weak pulse\nNausea, vomiting, or diarrhea\n■Dizziness or fainting\n■Loss of consciousness\n■Having a severe symptom is a life-threatening emergency that requires immediate medical intervention.\n
+    </string>
+
+    <string name="mild_symptoms1"><b>Antihistamines:</b> Over-the-counter antihistamines (like diphenhydramine or loratadine) can help reduce itching, sneezing, and swelling.\n<b>Cold compresses:</b> Apply a cool, damp cloth to rashes or areas with swelling to reduce irritation.\n<b>Avoid the allergen:</b> Once you identify what caused the reaction (e.g., a specific food or pollen), avoid exposure to the allergen in the future.\n<b>Topical creams:</b> Hydrocortisone creams or calamine lotion can help soothe itching and skin irritation.\n
+    </string>
+
+    <string name="severe_symptoms1"><b>Administer an epinephrine auto-injector (e.g., EpiPen):</b> If you have been prescribed an epinephrine auto-injector, use it immediately at the first sign of a severe allergic reaction.\n<b>Call emergency services:</b> Dial emergency medical services immediately after administering epinephrine or if severe symptoms arise.\n
+    </string>
+
+    <string name="severe_symptoms2"><b>Positioning:</b> Keep the person lying down with their legs elevated unless they are having difficulty breathing, in which case they should be sitting upright.\n<b>Monitor breathing:</b> If breathing stops or the person becomes unconscious, perform CPR if you are trained until medical help arrives.\n
+    </string>
+
+    <string name="allergic_reaction2">It’s important to consult with a healthcare provider if you suspect allergies or experience frequent allergic reactions. In severe cases, a professional diagnosis and prescription medications may be necessary to manage the condition safely.
+    </string>
+
+    <string name="strain">A Strain is an injury to a muscle or tendon (the tissue that connects muscles to bones), usually caused by overstretching or tearing due to excessive force or overuse. Strains commonly occur in areas like the back, hamstrings, or shoulders and can happen during physical activities like lifting heavy objects, sports, or even sudden movements.
+    </string>
+
+    <string name="strain_symptoms">"■Pain and tenderness in the affected muscle or tendon
+■Swelling, bruising, or redness
+■Muscle weakness or difficulty moving the affected area
+■Muscle spasms or cramping      "</string>
+
+    <string name="strain1"><b>Rest:</b> Avoid using the injured area to prevent further damage. Give the muscle or tendon time to heal by reducing activity, especially in the first 48 hours after the injury.\n<b>Ice:</b> Apply ice to the strained area for 15-20 minutes every 1-2 hours for the first 48 hours. This helps reduce swelling and numbs the pain. Use a cold pack or ice wrapped in a cloth to avoid direct contact with the skin.\n<b>Compression:</b> Wrap the injured area with an elastic bandage (like an Ace wrap) to limit swelling. Make sure the wrap is snug but not so tight that it restricts blood flow.\n<b>Elevation:</b> If possible, elevate the injured area above heart level to reduce swelling and inflammation. For example, if the strain is in your leg, prop it up on pillows.\n<b>Over-the-counter pain relief:</b> Non-steroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen or aspirin, can help reduce pain and inflammation.\n<b>Gentle stretching and physical therapy:</b> After the initial inflammation subsides, gentle stretching and strengthening exercises may help restore muscle function. Consult a healthcare provider or physical therapist to ensure you are doing the appropriate exercises for your recovery.\n<b>Avoid strenuous activity:</b> Do not rush back into full activity too soon, as this can delay healing and lead to re-injury. Gradually return to your usual activities as the strain heals.\n
+    </string>
+
+    <string name="strain2">Strains typically heal with rest and proper care, but more severe strains may require medical evaluation or even physical therapy to recover fully.
+    </string>
+
+    <string name="splints">A splint is a supportive device used to keep in place any suspected fracture in one’s arm or leg.\n
+        \n<b>Splint is used to:</b>\n
+        \n■Provide pain relief of the fractured limb.
+        \n■Support bone ends of the fracture site. Bones ends of the fracture site are very sharp. A splint helps prevent bone protruding through the skin, soft skin and tissue damage, as well as bleeding.
+        \n■Facilitate safe and seamless causality transport.\n
+        \n<b>Types of Splints</b>:\n
+        \n■<b>Rigid Splint:</b> Any rigid object, such as wood or plastic boards, broomstick, book or a rolled-out newspapers, which can be used to splint a fractured arm or leg.
+        \n■<b>Flexible Splint:</b> Any flexible object, like a pillow or a bed sheet with several folds. This type is used for foot, ankle and joint fractures.
+    </string>
+
+    <string name="splints1">Here are some general principles to be applied when splinting as follows:
+    </string>
+
+    <string name="splints2">■Identify the fracture site.
+    </string>
+
+    <string name="splints3">■Stop the bleeding using bandages, but avoid pressing on the fractured painful and deformed site.
+    </string>
+
+    <string name="splints4">■In case of bone fractures where bone ends protrude through the skin, do not push these ends back in place as this will cause inflammation and acute bleeding.
+    </string>
+
+    <string name="splints5">■Keep the fractured bone (including the joints above and below the fracture site) motionless as indicated here under:
+\n1. If the lower-arm is fractured, keep the wrist and elbow joints motionless.
+\n2. If the upper-arm is fractured, keep the shoulder and elbow joints motionless.
+\n3. If the lower-leg is fractured, keep the knee and ankle joints motionless.
+\n4. If the upper-leg is fractured, keep the knee and femoral joints motionless.
+    </string>
+
+    <string name="splints6">■If the fractured limb is bent with a sharp bone end protruding through the skin, keep it motionless. Splint a limb as you find it to make it as comfortable to the patient as you possible.
+    </string>
+
+    <string name="splints7">■If an ambulance is called and is on its way, do not splint the fractured limb and wait for the ambulance team to use their specialized medical splints.
+    </string>
+
+    <string name="insectbite1">An insect bite or sting occurs when an insect either bites to feed on blood (e.g., mosquitoes) or stings as a defense mechanism (e.g., bees or wasps). Most insect bites or stings cause mild reactions such as redness, itching, and swelling, but some people may have more severe allergic reactions.
+    </string>
+
+    <string name="insectbite_mild1">■Redness and swelling around the bite or sting.
+\n■Itching or mild pain.
+\n■Small, raised bumps or welts.
+    </string>
+
+    <string name="insectbite_severe1">■Swelling of the face, lips, or throat.
+\n■Difficulty breathing or swallowing.
+\n■Dizziness or fainting.
+\n■Hives, rash, or widespread itching.
+    </string>
+
+    <string name="insectbite_mild2"><b>Wash the area:</b> Clean the bite or sting site with soap and water to reduce the risk of infection.
+\n<b>Apply a cold compress:</b> Use a cold pack or a cloth with ice for 10-15 minutes to reduce swelling and pain.
+\n<b>Take antihistamines:</b> Over-the-counter antihistamines (e.g., diphenhydramine or loratadine) can help reduce itching and swelling.
+\n<b>Use hydrocortisone cream:</b> A 1% hydrocortisone cream or calamine lotion can help soothe the skin and reduce itching.
+\n<b>Avoid scratching:</b> Scratching can lead to infection or worsen irritation.
+    </string>
+
+    <string name="insectbite_severe2"><b>Administer an epinephrine auto-injector:</b> If the person has a known allergy and carries an epinephrine auto-injector (EpiPen), use it immediately.
+\n<b>Call emergency services:</b> Seek medical help immediately if the person shows signs of anaphylaxis, such as difficulty breathing, swelling of the throat, or dizziness.
+    </string>
+
+    <string name="insectbite_severe3"><b>Monitor the person:</b> Keep the person lying down and calm while waiting for emergency help.
+    </string>
+
+    <string name="insect_sting"><b>Remove the stinger (if present):</b>  If a bee stings you, remove the stinger as soon as possible using a flat object like a credit card or your fingernail. Avoid using tweezers, as squeezing the stinger may release more venom.
+\n<b>Clean and apply a cold compress:</b>  As with bites, clean the area and apply a cold compress to reduce swelling.
+    </string>
+
+    <string name="insect_ticks"><b>Remove the tick:</b> Use tweezers to grasp the tick close to the skin and pull it out steadily. Do not twist or crush the tick.
+\n<b>Watch for signs of infection:</b> After removing a tick, keep an eye on the bite for any signs of infection or rashes. If you see a bullseye-shaped rash or develop flu-like symptoms, seek medical attention, as these could be signs of Lyme disease.
+    </string>
+
+    <string name="insectbite2">Most insect bites and stings can be treated with basic first aid, but in cases of severe allergic reactions or bites from disease-carrying insects, prompt medical attention is necessary.
+    </string>
+
+    <string name="basic_sanitation">A number of infectious diseases can be spread from one person to another by contaminated hands.These diseases include gastrointestinal infections, such as salmonellosis, and respiratory infections, such as influenza, colds and coronavirus (COVID-19).Washing your hands properly with soap and water can help prevent the spread of the germs (like bacteria and viruses) that cause these diseases.
+Some forms of gastrointestinal and respiratory infections can cause serious complications, especially for young children, the elderly, or those with a weakened immune system."
+    </string>
+
+    <string name="basic_sanitation1">Step 1.WET HANDS WITH WARM WATER
+    </string>
+
+    <string name="basic_sanitation2">Step 2.APPLY SOAP AND WASH HANDS FOR AT LEAST 15 SECONDS
+    </string>
+
+    <string name="basic_sanitation3">Rub hands vigorously, covering all surfaces of the hands, giving added attention to fingernails. Use liquid soap and warm running water.Scrub nails by rubbing them against the palms. Lather the backs of your hands, between your fingers, and under your nails. Scrub your hands for at least 20 seconds.
+    </string>
+
+    <string name="basic_sanitation4">Step 3.RINSE HANDS WITH WATER
+    </string>
+
+    <string name="basic_sanitation5">Rinse your hands well under clean, running water.Make sure all traces of soap are removed.
+    </string>
+
+    <string name="basic_sanitation6">Step 4.DRY HANDS THOROUGHLY WITH A PAPER TOWEL
+    </string>
+
+    <string name="basic_sanitation7">Dry your hands using a clean towel or air dry them. It is best to use paper towels (or single-use cloth towel). Dry under any rings, as they can be a source of future contamination if they remain moist. Hot air driers can be used.
+    </string>
+
+    <string name="basic_sanitation8">Step 5.TURN OFF FAUCET USING THE PAPER TOWEL
+    </string>
+
+    <string name="basic_sanitation9">You should wash your hands thoroughly:\n
+\n■ After using the toilet
+\n■ After changing nappies
+\n■ Before, during and after preparing food
+\n■ Between handling raw and cooked or ready-to-eat food
+\n■ Before eating
+\n■ After blowing your nose, coughing or sneezing
+\n■ After using a tissue or handkerchief
+\n■ Before and after attending to sick children or other family members
+\n■ After smoking
+\n■ After handling rubbish or working in the garden
+\n■ After handling animals
+\n■ @hen you get home, arrive at other people\’s homes, at venues or at work.
+    </string>
+
+    <string name="first_db">First-degree burns damage the outer layer of your skin, better known as the epidermis. Typically, these burns heal themselves within a week. A good example of a first-degree burn would be sunburn. So, don\’t forget your tanning lotion.
+    </string>
+
+    <string name="second_db">Second-degree burns damage both the outer layer and the layer beneath it, which is called the dermis. With these burns, a skin graft is sometimes needed. A skin graft is essentially a procedure in which healthy skin is transplanted to cover the burn, allowing it to heal.
+    </string>
+
+    <string name="third_db">Third-degree burns are more severe, as they destroy both layers of your skin. Hair follicles, sweat glands, and other tissues tend to result in damage as well. Remember those skin-grafts we talked about? They are always required with third-degree burns.
+    </string>
+
+    <string name="burn1">Stop the burning process as soon as possible. This may mean removing the person from the area, dousing flames with water, or smothering flames with a blanket. Do not put yourself at risk of getting burnt as well.
+    </string>
+
+    <string name="burn2">Remove any clothing or jewellery near the burnt area of skin, including babies\' nappies. But do not try to remove anything that is stuck to the burnt skin, as this could cause more damage.
+    </string>
+
+    <string name="burn3">Cool the burn with cool or lukewarm running water for 20 minutes as soon as possible after the injury. Never use ice, iced water, or any creams or greasy substances like butter.
+    </string>
+
+    <string name="burn4">Keep yourself or the person warm. Use a blanket or layers of clothing, but avoid putting them on the injured area. Keeping warm will prevent hypothermia, where a person\'s body temperature drops below 35C (95F). This is a risk if you\'re cooling a large burnt area, particularly in young children and elderly people.
+    </string>
+
+    <string name="burn5">Cover the burn with cling film. Lay the cling film over the burn, rather than wrapping it around a limb. A clean, clear plastic bag can be used for burns on your hand.
+    </string>
+
+    <string name="burn6">Treat the pain from a burn with paracetamol or ibuprofen. Always check the manufacturer\'s instructions when using over-the-counter medication. Children under 16 years of age should not be given aspirin. Raise the affected area, if possible. This will help to reduce swelling.
+    </string>
+
+    <string name="burn7">Once you have taken these steps, you\'ll need to decide whether further medical treatment is necessary.
+    </string>
+
+    <string name="burn8">Large burns bigger than the size of the affected person\'s hand deep burns of any size that cause white or charred skin.
+    </string>
+
+    <string name="burn9">Burns on the face, neck, hands, feet, any joints, or genitals all chemical and electrical burns any other injuries that need treating.
+    </string>
+
+    <string name="burn10">Any signs of shock – symptoms include cold, clammy skin, sweating, rapid, shallow breathing, and weakness or dizziness.
+    </string>
+
+    <string name="choking1">Step 1: If someone is choking, encourage them to cough.
+    </string>
+
+    <string name="choking2">If the blockage is severe, they may be holding their chest or neck and won\'t be able to speak, breathe or cough, and you will need to help them.
+    </string>
+
+    <string name="choking3">Step 2: Bend them forwards and give up to 5 back blows to try and dislodge the blockage.
+    </string>
+
+    <string name="choking4">Hit them firmly on their back with the heel of your hand between the shoulder blades.
+    </string>
+
+    <string name="choking5">Step 3: If they are still choking, give up to 5 abdominal thrusts.
+    </string>
+
+    <string name="choking6">Hold around the waist and pull inwards and upwards above their belly button.
+    </string>
+
+    <string name="choking7">Step 4: If they are still choking call your Local Hotline.
+    </string>
+
+    <string name="choking8">Repeat the steps until they can breathe again or until help arrives.
+    </string>
+
+    <string name="choking9">Step 1: Give up to five back blows
+    </string>
+
+    <string name="choking10">Hold the baby face-down along your thigh with their head lower than their bottom. Hit them firmly on their back between the shoulder blades up to five times. If back blows do not dislodge the blockage, move on to step 2.
+    </string>
+
+    <string name="choking11">Step 2: Give up to five chest thrusts.
+    </string>
+
+    <string name="choking12">Turn the baby over so they are facing upwards. Place two fingers in the middle of their chest just below the nipples. Push sharply downwards up to five times.
+    </string>
+
+    <string name="choking13">Step 3: Call the hotline if the blockage does not dislodge.
+    </string>
+
+    <string name="choking14">Continue with cycles of back blows and chest thrusts until the blockage dislodges, help arrives or the baby becomes unresponsive. If you can’t call your local hotline; get someone else to do it.
+    </string>
+
+    <string name="cpr">CPR: Cardiopulmonary Resuscitation is an emergency lifesaving procedure performed when the heart stops beating. Immediate CPR can double or triple chances of survival after cardiac arrest.
+    </string>
+
+    <string name="cpr1">Step 1.Call an Ambulance (Dial your Local Hotline)
+    </string>
+
+    <string name="cpr2">Step 2.Place the person on their back and open their airway
+    </string>
+
+    <string name="cpr3">Place the person carefully on their back and kneel beside their chest. Tilt their head back slightly by lifting their chin. Open their mouth and check for any obstruction, such as food or vomit. Remove any obstruction if it is loose. If it is not loose, trying to grasp it may push it farther into the airway.
+    </string>
+
+    <string name="cpr4">Step 3.Check for breathing
+    </string>
+
+    <string name="cpr5">Place your ear next to the person’s mouth and listen for no more than 10 seconds. If you do not hear breathing, or you only hear occasional gasps, begin CPR. If someone is unconscious but still breathing, do not perform CPR. Instead, if they do not seem to have a spinal injury, place them in the recovery position. Keep monitoring their breathing and perform CPR if they stop breathing.
+    </string>
+
+    <string name="cpr6">Step 4.Perform chest compressions 30 times
+    </string>
+
+    <string name="cpr7">Place one of your hands on top of the other and clasp them together. With the heel of the hands and straight elbows, push hard and fast in the center of the chest, slightly below the nipples. Push at least 2 inches deep. Compress their chest at a rate of least 100 times per minute. Let the chest rise fully between compressions.
+    </string>
+
+    <string name="cpr8">Step 5.Perform two rescue breaths
+    </string>
+
+    <string name="cpr9">Making sure their mouth is clear, tilt their head back slightly and lift their chin. Pinch their nose shut, place your mouth fully over theirs, and blow to make their chest rise. If their chest does not rise with the first breath, retilt their head. If their chest still does not rise with a second breath, the person might be choking. Repeat above steps till an ambulance arrives.
+    </string>
+
+    <string name="shock">If you suspect someone has received an electric shock you must ensure all power sources are isolated before you can treat the casualty. The action you take will depend on whether the risk is posed by high voltage or low voltage electricity.\n
+\n<b>■High Voltage</b>\nOverhead power cables are an example of a power source generating high voltage electricity. High voltage electricity has the ability to jump or arc up to distances of 18 metres or more. If faced with a casualty as a result of, or in the vicinity of, dangerous high voltage electricity, DO NOT APPROACH! Stay at least 25 metres away from the casualty until the power has been switched off by an official agency i.e. the Electricity Board.
+\n\n<b>■Low Voltage</b>\nIf faced with a casualty who is in the process of receiving a low voltage electric shock you should:
+Act to break the contact between the casualty and the electrical supply. If possible to do so safely, you should turn off the source of electricity, either by switching off the current at the mains, turning the power off at the circuit board, removing the plug or wrenching the cable free.\n\nAlternatively, move the source of the shock (i.e. hairdryer, power tool) away from yourself and the casualty using an object of low conductivity. First, stand on a dry insulating material, such as a book, newspapers or rubber matting. Then, use a long, low-conductivity object like a wooden broom or specially designed Electric Shock Rescue Hook to push the power source away from the casualty or move the casualty\'s limbs away from the power source.
+    </string>
+
+    <string name="shock1"><b>■DO NOT TOUCH</b> the casualty if you have been unable to isolate them from the source of the electrical shock or turn off the electricity
+    </string>
+
+    <string name="shock2">■Casualty is Responsive
+    </string>
+
+    <string name="shock3">1. Ask hello, can you hear me? and call their name if you know it.\n2. Ask in both the casualty\'s ears for them to open their eyes.\n3. Pinch an ear lobe or tap the shoulders.\n4. Shout for HELP!\n5. DO NOT move the casualty unless the environment or situation is dangerous.\nCall emergency services now.
+    </string>
+
+    <string name="shock4">■Unresponsive but breathing
+    </string>
+
+    <string name="shock5">If the casualty is unresponsive and breathing normally, turn the casualty to the recovery position. This allows the head to be tilted back and down, stopping the tongue from blocking the airway and allowing any vomit or fluid to drain safely from the mouth.\n\n1. Check for any other obvious injuries and call emergency services\n2. Remove sharp objects from casualty\'s pockets\n3. Turn the casualty into the recovery position as follows:\n4. Place the nearest arm at a right angle to the body\n5. Draw the furthest arm across the chest and place the back of the hand across the cheek nearest to you\n6. Keep this here whilst you raise the furthest leg by grasping the top of the knee\n7. Gently pull on the knee so the casualty pivots over onto their side facing you\n8. The casualty should be fully onto their side and stable\n9. Adjust the upper leg so the hip and the knee are bent at right angles\n10. Re-check the airway, breathing and circulation. Ensure the airway is open\n11. Check for continued breathing.
+    </string>
+
+    <string name="shock6">■Unresponsive and NOT breathing
+    </string>
+
+    <string name="shock7">Begin CPR with chest compressions as soon as possible. Do not leave the casualty to search for an AED.\nWhen phoning emergency services, DO NOT hang up at any stage of the conversation. The operator will terminate the call when appropriate. You should determine responsiveness and whether the casualty is breathing before speaking to the emergency services because this enables them to assign the appropriate priority to your situation.
+    </string>
+
+    <string name="shock8">■BURNS
+    </string>
+
+    <string name="shock9">■Exposure to electricity can cause burns to the skin, and in severe cases, the internal organs. The electricity may cause entry and exit burns - for example, entering via a hand and leaving via the feet.\n\n■For responsive casualties:\nCool burns for a minimum of 10 minutes under cold water\n\n■For unresponsive casualties:\nCool the burn with wet dressings (or special burn dressings) after placing them in the recovery position.\n\n<b>■DO NOT</b>\n1.Burst any blisters\n2.Apply adhesive dressings\n3.Remove damaged skin\n4.Apply ointments/creams\n5.Cover with fluffy dressings\n6.Affix dressings too tightly\n7.Apply butter/fats/margarine or other substances commonly believed to cool burns\n8.Remove damaged clothing\n9.Apply ice
+    </string>
+
+
+    <!-- Quiz Questions -->
+    <string-array name="quiz_questions">
+        <item>What is the first step to take when you encounter someone who is unconscious but breathing?</item>
+        <item>What should you do if someone is choking and cannot breathe?</item>
+        <item>What is the main purpose of performing CPR?</item>
+        <item>How should you treat a burn?</item>
+        <item>What is the recommended way to treat a sprain?</item>
+        <item>What is the first thing you should do in case of a severe allergic reaction?</item>
+        <item>How should you manage a bleeding wound?</item>
+        <item>What is the most common symptom of shock?</item>
+        <item>How do you treat a nosebleed?</item>
+        <item>What should you do if you suspect someone has a spinal injury?</item>
+    </string-array>
+
+    <!-- Quiz Answers -->
+    <string-array name="quiz_answers_1">
+        <item>Call for medical help</item>
+        <item>Perform CPR</item>
+        <item>Check their airway</item>
+        <item>Give them food</item>
+    </string-array>
+    <string-array name="quiz_answers_2">
+        <item>Perform abdominal thrusts</item>
+        <item>Give them water</item>
+        <item>Pat their back</item>
+        <item>Perform chest compressions</item>
+    </string-array>
+    <string-array name="quiz_answers_3">
+        <item>To restart the heart</item>
+        <item>To remove an obstruction from the airway</item>
+        <item>To stabilize the patient’s condition</item>
+        <item>To restore breathing and circulation</item>
+    </string-array>
+    <string-array name="quiz_answers_4">
+        <item>Apply ice directly</item>
+        <item>Use a bandage</item>
+        <item>Cool the burn with running water</item>
+        <item>Apply ointment</item>
+    </string-array>
+    <string-array name="quiz_answers_5">
+        <item>Apply heat</item>
+        <item>Rest, ice, compress, and elevate</item>
+        <item>Massage the area</item>
+        <item>Keep moving the joint</item>
+    </string-array>
+    <string-array name="quiz_answers_6">
+        <item>Administer antihistamines</item>
+        <item>Call emergency services</item>
+        <item>Apply a cold compress</item>
+        <item>Give them water</item>
+    </string-array>
+    <string-array name="quiz_answers_7">
+        <item>Apply pressure and elevate</item>
+        <item>Clean with soap and water</item>
+        <item>Use a tourniquet</item>
+        <item>Apply ice directly</item>
+    </string-array>
+    <string-array name="quiz_answers_8">
+        <item>Fever</item>
+        <item>Rapid heartbeat</item>
+        <item>Nausea</item>
+        <item>Headache</item>
+    </string-array>
+    <string-array name="quiz_answers_9">
+        <item>Tilt the head back</item>
+        <item>Pinch the nostrils and lean forward</item>
+        <item>Apply ice to the back of the neck</item>
+        <item>Swallow the blood</item>
+    </string-array>
+    <string-array name="quiz_answers_10">
+        <item>Move them to a comfortable position</item>
+        <item>Keep them still and immobilized</item>
+        <item>Encourage them to walk slowly</item>
+        <item>Apply heat to the area</item>
+    </string-array>
+
+    <!-- Correct Answers Indexes -->
+    <integer-array name="correct_answers">
+        <item>0</item> <!-- Answer for Question 1 -->
+        <item>0</item> <!-- Answer for Question 2 -->
+        <item>3</item> <!-- Answer for Question 3 -->
+        <item>2</item> <!-- Answer for Question 4 -->
+        <item>1</item> <!-- Answer for Question 5 -->
+        <item>1</item> <!-- Answer for Question 6 -->
+        <item>0</item> <!-- Answer for Question 7 -->
+        <item>1</item> <!-- Answer for Question 8 -->
+        <item>1</item> <!-- Answer for Question 9 -->
+        <item>1</item> <!-- Answer for Question 10 -->
+    </integer-array>
+
+
+    <string-array name="first_aid_supplies">
+        <item>Adhesive Bandages</item>
+        <item>Sterile Gauze Pads</item>
+        <item>Antiseptic Wipes</item>
+        <item>Medical Tape</item>
+        <item>Elastic Bandages</item>
+        <item>Disposable Gloves</item>
+        <item>CPR Face Shield</item>
+        <item>Tweezers</item>
+        <item>Scissors (Trauma Shears)</item>
+        <item>Instant Cold Packs</item>
+        <item>Hydrocortisone Cream</item>
+        <item>Antibiotic Ointment</item>
+        <item>Pain Relievers</item>
+        <item>Thermometer</item>
+        <item>Emergency Blanket</item>
+    </string-array>
+
+    <string-array name="first_aid_questions">
+        <item>Which item is used to cover small cuts or abrasions?</item>
+        <item>Which item is used to clean wounds to prevent infection?</item>
+        <item>What is used to secure dressings or gauze?</item>
+        <item>What is used to provide support to sprains?</item>
+        <item>Which item should you wear to avoid contact with blood or bodily fluids?</item>
+        <item>What is used for safe mouth-to-mouth resuscitation?</item>
+        <item>Which tool is best for removing splinters?</item>
+        <item>What is used for cutting bandages or clothing?</item>
+        <item>What item helps reduce swelling in injuries?</item>
+        <item>Which cream is used for treating insect bites?</item>
+        <item>Which ointment prevents infection in cuts?</item>
+        <item>Which item is for pain relief during emergencies?</item>
+        <item>Which device helps check for fever?</item>
+        <item>Which item keeps a person warm during shock?</item>
+        <item>Which item is primarily used to cover wounds to control bleeding?</item>
+    </string-array>
+
+    <!-- Correct answers index for Level 2 -->
+    <integer-array name="first_aid_correct_answers">
+        <item>0</item> <!-- Adhesive Bandages -->
+        <item>2</item> <!-- Antiseptic Wipes -->
+        <item>3</item> <!-- Medical Tape -->
+        <item>4</item> <!-- Elastic Bandages -->
+        <item>5</item> <!-- Disposable Gloves -->
+        <item>6</item> <!-- CPR Face Shield -->
+        <item>7</item> <!-- Tweezers -->
+        <item>8</item> <!-- Scissors -->
+        <item>9</item> <!-- Instant Cold Packs -->
+        <item>10</item> <!-- Hydrocortisone Cream -->
+        <item>11</item> <!-- Antibiotic Ointment -->
+        <item>12</item> <!-- Pain Relievers -->
+        <item>13</item> <!-- Thermometer -->
+        <item>14</item> <!-- Emergency Blanket -->
+        <item>1</item> <!-- Sterile Gauze Pads -->
+    </integer-array>
+
+    <!-- First Aid Kit Descriptions -->
+    <string name="bandage_description">Bandages are essential for covering and protecting wounds. They are ideal for treating minor cuts, abrasions, and burns. Use them to keep injuries clean and prevent further damage.</string>
+    <string name="antiseptic_description">Antiseptic solutions are crucial for cleaning wounds to prevent infections. They help to kill germs and bacteria, reducing the risk of complications and speeding up the healing process.</string>
+    <string name="gauze_description">Gauze pads are used to absorb blood, fluids, and exudate from wounds. They are ideal for covering wounds, applying medication, and providing protection to injured areas.</string>
+    <string name="adhesive_tape_description">Adhesive tape is used to secure bandages, gauze, and other dressings in place. It ensures that wound coverings stay intact and are not displaced, which is important for effective healing.</string>
+    <string name="scissors_description">Medical scissors are designed for cutting tape, bandages, gauze, and other materials. They are essential for quickly and safely preparing first aid supplies during emergencies.</string>
+    <string name="pain_reliever_description">Pain relievers are used to alleviate pain and discomfort caused by injuries. They help manage pain levels and improve the overall comfort of individuals who have sustained minor injuries.</string>
+    <string name="thermometer_description">Thermometers are used to measure body temperature, which is crucial for detecting fever and other health conditions. Accurate temperature readings help in assessing the severity of illness or injury.</string>
+    <string name="alcohol_wipes_description">Alcohol wipes are used for disinfecting and cleaning wounds. They are essential for preventing infection and maintaining a sterile environment when treating injuries.</string>
+    <string name="gloves_description">Medical gloves are worn to protect hands and prevent contamination during first aid. They are crucial for maintaining hygiene and safety when dealing with blood or other bodily fluids.</string>
+    <string name="first_aid_manual_description">A first aid manual provides essential instructions and guidelines for treating common injuries and medical emergencies. It is a valuable resource for ensuring proper care during emergencies.</string>
+    <string name="cold_compress_description">Cold compresses are used to reduce swelling, numb pain, and treat bruises. Applying a cold compress helps to manage pain and minimize the effects of minor injuries.</string>
+    <string name="tweezers_description">Tweezers are used for removing splinters, foreign objects, and debris from wounds. They are precision tools that help in safely extracting small particles from the skin.</string>
+    <string name="safety_pins_description">Safety pins are versatile tools used for securing bandages, dressings, and other first aid supplies. They are helpful in holding materials in place during wound care.</string>
+    <string name="emergency_blanket_description">Emergency blankets provide warmth in critical situations, such as when exposed to cold weather or after shock. They are compact and essential for outdoor and survival situations.</string>
+    <string name="mask_description">Medical masks are used to protect against airborne particles and reduce the risk of infection. They are crucial for preventing the spread of respiratory illnesses and ensuring safety in medical environments.</string>
+    <string name="splint_description">A splint is used to immobilize and protect an injured limb, reducing movement and preventing further injury until medical assistance can be provided.</string>
+    <string name="eye_wash_description">Eye wash solutions are used to rinse and cleanse the eyes in case of exposure to harmful substances or debris, helping to reduce irritation and prevent serious eye damage.</string>
+    <string name="hand_sanitizer_description">Hand sanitizer is a quick and effective solution for disinfecting hands, eliminating bacteria and viruses when soap and water are not available.</string>
+    <string name="cotton_balls_description">Cotton balls are soft, absorbent tools used for cleaning wounds, applying antiseptics, or other medical purposes in a first aid kit.</string>
+    <string name="burn_gel_description">Burn gel is used to soothe and protect minor burns, cooling the skin and relieving pain while preventing infection.</string>
+    <string name="trauma_pad_description">Trauma pads are large, absorbent pads designed to manage heavy bleeding and provide protection for large wounds or injuries.</string>
+    <string name="finger_splint_description">A finger splint immobilizes and protects injured fingers, helping to reduce pain and prevent further damage during the healing process.</string>
+
+
+    <string name="shop_now">Shop Now</string>
+    <string name="kit_image_desc">Description of the first aid kit image</string>
+    <string name="dialog_image_desc">Information icon</string>
+    <string name="topic_icon">Topic Icon</string>
+    <string name="volc_erupt">"A volcanic eruption occurs when magma, gases, and ash are expelled from a volcano. Eruptions can be explosive or relatively mild, depending on the type of volcano and the pressure of gases trapped beneath the surface. Volcanic eruptions can cause widespread damage through lava flows, ashfall, pyroclastic flows, and volcanic gases.     "</string>
+    <string name="seizure1">" Epilepsy is a brain condition that causes a person to have seizures. It is one of the most common disorders of the nervous system. There are different types of seizures. The type of seizure depends on which part and how much of the brain is affected and what happens during the seizure. The 2 main categories of epileptic seizures are <b>focal (partial) seizure</b> and <b>generalized seizure</b>."</string>
+
+
+    <string name="polangui_rhu_content">Polangui Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="oas_rhu_content">Oas Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="ligao_city_hospital_content">Zone medical and Intervention Hospital is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="duran_hospital_content">Josefine Belmonte Duran Albay Provincial Hospital is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="ligao_rhu_content">Ligao Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+
+    //OTHER ONES
+        <string name="start_text">Start</string>
+        <string name="saved">Saved</string>
+        <string name="home">Home</string>
+        <string name="helpline">Helpline</string>
+        <string name="first_aid_kits">FIRST AID KITS YOU NEED</string>
+        <string name="basic_first_aid">BASIC FIRST AID</string>
+        <string name="psychological_first_aid">PSYCHOLOGICAL FIRST AID</string>
+        <string name="disaster_management">DISASTER MANAGEMENT</string>
+        <string name="basic_sanitation_t">BASIC SANITATION</string>
+        <string name="test_your_knowledge">TEST YOUR KNOWLEDGE!</string>
+        <string name="safety_preparedness">SAFETY AND &#10;PREPAREDNESS</string>
+        <string name="whats_wrong">WHAT\'S WRONG?</string>
+        <string name="safety_preparedness_t">SAFETY AND PREPAREDNESS</string>
+
+
+        <string name="burns_t">BURNS</string>
+        <string name="choking_t">CHOKING</string>
+        <string name="cpr_t">CPR</string>
+        <string name="splints_t">SPLINTS</string>
+        <string name="seizures_t">SEIZURES</string>
+        <string name="shock_t">SHOCK</string>
+        <string name="bleeding_t">BLEEDING</string>
+        <string name="snake_bite_t">SNAKE BITE</string>
+        <string name="insect_bites_t">INSECT BITES/STING</string>
+        <string name="bruises_t">BRUISES</string>
+        <string name="sprains_t">SPRAINS</string>
+        <string name="strains_t">STRAINS</string>
+        <string name="nose_bleeds_t">NOSE BLEEDS</string>
+        <string name="allergic_reactions_t">ALLERGIC REACTIONS</string>
+        <string name="headaches_t">HEADACHES</string>
+        <string name="minor_concussions_t">MINOR CONCUSSIONS</string>
+        <string name="muscle_cramps_t">MUSCLE CRAMPS</string>
+        <string name="blisters_t">BLISTERS</string>
+
+    <string name="acute_grief_t">ACUTE GRIEF</string>
+    <string name="anxiety_management_t">ANXIETY MANAGEMENT</string>
+    <string name="panic_attack_response_t">PANIC ATTACK RESPONSE</string>
+    <string name="trauma_informed_care_t">TRAUMA-\nINFORMED CARE</string>
+    <string name="grounding_techniques_t">GROUNDING TECHNIQUES</string>
+    <string name="stress_reduction_t">STRESS REDUCTION</string>
+
+    <string name="floods_t">FLOODS</string>
+    <string name="earthquake_t">EARTHQUAKE</string>
+    <string name="volcanic_eruption_t">VOLCANIC ERUPTION</string>
+    <string name="epidemic_t">EPIDEMIC</string>
+
+    <string name="water_safety_t">WATER SAFETY</string>
+    <string name="road_safety_t">ROAD SAFETY</string>
+    <string name="daily_food_safety_t">DAILY FOOD SAFETY</string>
+    <string name="emergency_food_safety_t">EMERGENCY FOOD SAFETY</string>
+    <string name="heatwave_t">HEATWAVE</string>
+
+    <string name="location_t">Location</string>
+    <string name="language_t">Language</string>
+    <string name="credits_t">Credits</string>
+    <string name="suggestions_t">Suggestions</string>
+
+    <string name="quiz_level">Quiz Level</string>
+
+    <string name="when_symptoms_happen">When did the symptom start?</string>
+    <string name="where_pain_originate">Where does the pain or discomfort originate?</string>
+    <string name="head">Head</string>
+    <string name="chest">Chest</string>
+    <string name="head_question_1">Do you have a headache?</string>
+    <string name="head_question_2">Is the pain localized or diffuse?</string>
+    <string name="head_question_3">Do you experience nausea?</string>
+    <string name="head_question_4">Do you have sensitivity to light?</string>
+    <string name="head_question_5">Is the headache severe?</string>
+    <string name="head_question_6">Does the pain get worse with activity?</string>
+    <string name="head_question_7">Have you had similar headaches before?</string>
+    <string name="head_question_8">Are you experiencing any vision changes?</string>
+    <string name="head_question_9">Do you have any other symptoms?</string>
+    <string name="head_question_10">Is there a family history of headaches?</string>
+
+    <string name="chest_question_1">Do you have chest pain?</string>
+    <string name="chest_question_2">Is the pain sharp or dull?</string>
+    <string name="chest_question_3">Does the pain radiate to other areas?</string>
+    <string name="chest_question_4">Do you have difficulty breathing?</string>
+    <string name="chest_question_5">Is the pain constant or intermittent?</string>
+    <string name="chest_question_6">Do you experience nausea?</string>
+    <string name="chest_question_7">Is the pain related to physical activity?</string>
+    <string name="chest_question_8">Do you have a history of any chronic health conditions?</string>
+    <string name="chest_question_9">Are you experiencing sweating/bloating/wheezing/tenderness?</string>
+    <string name="chest_question_10">Do you have any other symptoms?</string>
+
+
+    <!-- Pain Locations -->
+    <string name="abdomen">Abdomen</string>
+    <string name="back">Back</string>
+    <string name="legs">Legs</string>
+    <string name="arms">Arms</string>
+    <string name="joints">Joints</string>
+    <string name="feet">Feet</string>
+    <string name="neck">Neck</string>
+    <string name="hands">Hands</string>
+    <string name="stomach">Stomach</string>
+
+    <!-- Abdomen Questions -->
+    <string name="abdomen_question_1">Do you feel any abdominal pain?</string>
+    <string name="abdomen_question_2">Is the pain localized or diffuse?</string>
+    <string name="abdomen_question_3">Is the pain cramping or sharp?</string>
+    <string name="abdomen_question_4">Is there any nausea associated with the pain?</string>
+    <string name="abdomen_question_5">Do you have a loss of appetite?</string>
+    <string name="abdomen_question_6">Is the pain worsened by movement?</string>
+    <string name="abdomen_question_7">Have you experienced any weight loss?</string>
+    <string name="abdomen_question_8">Is there any swelling in your abdomen?</string>
+    <string name="abdomen_question_9">Do you have any fever?</string>
+    <string name="abdomen_question_10">Is the pain affecting your daily activities?</string>
+
+
+    <string name="back_question_1">Do you have back pain?</string>
+    <string name="back_question_2">Is the pain in the upper or lower back?</string>
+    <string name="back_question_3">Is the pain sharp or dull?</string>
+    <string name="back_question_4">Does the pain radiate down your legs?</string>
+    <string name="back_question_5">Is there any tingling or numbness?</string>
+    <string name="back_question_6">Does the pain worsen with certain positions?</string>
+    <string name="back_question_7">Is the pain worse when standing or sitting?</string>
+    <string name="back_question_8">Does physical activity relieve the pain?</string>
+    <string name="back_question_9">Is the pain affecting your sleep?</string>
+    <string name="back_question_10">Do you have any other symptoms like fever or chills?</string>
+
+
+    <!-- Legs Questions -->
+    <string name="legs_question_1">Do you have leg pain?</string>
+    <string name="legs_question_2">Is the pain in one or both legs?</string>
+    <string name="legs_question_3">Is the pain sharp or dull?</string>
+    <string name="legs_question_4">Is there swelling in the leg?</string>
+    <string name="legs_question_5">Is the pain worse with movement?</string>
+    <string name="legs_question_6">Do you have any numbness or tingling?</string>
+    <string name="legs_question_7">Have you had any injuries to your leg?</string>
+    <string name="legs_question_8">Is the pain affecting your walking?</string>
+    <string name="legs_question_9">Do you have a history of blood clots?</string>
+    <string name="legs_question_10">Is there redness or warmth in the leg?</string>
+
+    <!-- Arms Questions -->
+    <string name="arms_question_1">Do you have arm pain?</string>
+    <string name="arms_question_2">Is the pain in one or both arms?</string>
+    <string name="arms_question_3">Is the pain sharp or dull?</string>
+    <string name="arms_question_4">Is there any swelling in the arm?</string>
+    <string name="arms_question_5">Is the pain worse with movement?</string>
+    <string name="arms_question_6">Do you have any numbness or tingling?</string>
+    <string name="arms_question_7">Have you had any injuries to your arm?</string>
+    <string name="arms_question_8">Is the pain affecting your grip strength?</string>
+    <string name="arms_question_9">Do you have a history of heart problems?</string>
+    <string name="arms_question_10">Is there redness or warmth in the arm?</string>
+
+
+    <!-- Joints Questions -->
+    <string name="joints_question_1">Do you have joint pain?</string>
+    <string name="joints_question_2">Is the pain in one or multiple joints?</string>
+    <string name="joints_question_3">Does the pain worsen with activity?</string>
+    <string name="joints_question_4">Is there any swelling in the joint?</string>
+    <string name="joints_question_5">Is the pain constant or intermittent?</string>
+    <string name="joints_question_6">Have you had any recent injuries?</string>
+    <string name="joints_question_7">Do you have a history of arthritis?</string>
+    <string name="joints_question_8">Is the pain affecting your range of motion?</string>
+    <string name="joints_question_9">Do you have any fever or chills?</string>
+    <string name="joints_question_10">Is the pain affecting your daily activities?</string>
+
+    <!-- Feet Questions -->
+    <string name="feet_question_1">Do you have foot pain?</string>
+    <string name="feet_question_2">Is the pain in one or both feet?</string>
+    <string name="feet_question_3">Is there swelling in the foot?</string>
+    <string name="feet_question_4">Does the pain worsen with walking?</string>
+    <string name="feet_question_5">Is the pain sharp or dull?</string>
+    <string name="feet_question_6">Have you had any injuries to your foot?</string>
+    <string name="feet_question_7">Is the pain affecting your balance?</string>
+    <string name="feet_question_8">Do you have a history of diabetes?</string>
+    <string name="feet_question_9">Is there redness or warmth in the foot?</string>
+    <string name="feet_question_10">Is the pain affecting your daily activities?</string>
+
+    <!-- Neck Questions -->
+    <string name="neck_question_1">Do you have pain in your neck?</string>
+    <string name="neck_question_2">Is the pain sharp or dull?</string>
+    <string name="neck_question_3">Does the pain radiate to your arms?</string>
+    <string name="neck_question_4">Is there any stiffness in your neck?</string>
+    <string name="neck_question_5">Have you had any recent injuries?</string>
+    <string name="neck_question_6">Does the pain worsen with movement?</string>
+    <string name="neck_question_7">Do you have any numbness or tingling?</string>
+    <string name="neck_question_8">Is the pain affecting your sleep?</string>
+    <string name="neck_question_9">Do you have any headache associated with the pain?</string>
+    <string name="neck_question_10">Is the pain affecting your daily activities?</string>
+
+
+    <!-- Hands Questions -->
+    <string name="hands_question_1">Do you have hand pain?</string>
+    <string name="hands_question_2">Is the pain in one or both hands?</string>
+    <string name="hands_question_3">Do you experience tingling or numbness?</string>
+    <string name="hands_question_4">Is there any swelling in the hand?</string>
+    <string name="hands_question_5">Is the pain sharp or dull?</string>
+    <string name="hands_question_6">Have you had any recent injuries?</string>
+    <string name="hands_question_7">Do you have any numbness or tingling?</string>
+    <string name="hands_question_8">Is the pain affecting your daily activities?</string>
+    <string name="hands_question_9">Do you have a history of arthritis?</string>
+    <string name="hands_question_10">Is there redness or warmth in the hand?</string>
+
+    <string name="stomach_question_1">Do you have stomach pain?</string>
+    <string name="stomach_question_2">Is the pain sharp or cramping?</string>
+    <string name="stomach_question_3">Do you experience nausea or vomiting?</string>
+    <string name="stomach_question_4">Is the pain constant or intermittent?</string>
+    <string name="stomach_question_5">Do you have a fever?</string>
+    <string name="stomach_question_6">Do you have any changes in appetite?</string>
+    <string name="stomach_question_7">Is there bloating?</string>
+    <string name="stomach_question_8">Do you experience diarrhea or constipation?</string>
+    <string name="stomach_question_9">Is there any tenderness to touch?</string>
+    <string name="stomach_question_10">Do you have any other symptoms?</string>
+
+
+    <!-- Common Answers -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="localized">Localized</string>
+    <string name="diffuse">Diffuse</string>
+    <string name="cramping">Cramping</string>
+    <string name="sharp">Sharp</string>
+    <string name="dull">Dull</string>
+    <string name="one">One</string>
+    <string name="both">Both</string>
+    <string name="constant">Constant</string>
+    <string name="intermittent">Intermittent</string>
+    <string name="upper">Upper</string>
+    <string name="lower">Lower</string>
+
+    <string name="standing">Standing</string>
+    <string name="sitting">Sitting</string>
+    <string name="multiple">Multiple</string>
+
+
+    <string name="migraine">Migraine</string>
+    <string name="tension_headache">Tension Headache</string>
+    <string name="concussion">Concussion</string>
+    <string name="meningitis">Meningitis</string>
+    <string name="stroke">Stroke</string>
+
+    <string name="angina">Angina</string>
+    <string name="heart_attack">Heart Attack</string>
+    <string name="gerd">Gastroesophageal Reflux Disease (GERD)</string>
+    <string name="pulmonary_embolism">Pulmonary Embolsim</string>
+    <string name="peptic_ulcer">Peptic Ulcer</string>
+    <string name="asthma">Asthma</string>
+    <string name="muscle_strain">Muscle Strain</string>
+
+    <string name="gastritis">Gastritis</string>
+    <string name="appendicitis">Appendicitis</string>
+    <string name="ibs">Irritable Bowel Syndrome (IBS)</string>
+    <string name="diverticulitis">Diverticulitis</string>
+    <string name="constipation">Constipation</string>
+    <string name="celiac_disease">Celiac Disease</string>
+    <string name="lactose_intolerance">Lactose Intolerance</string>
+    <string name="food_poisoning">Food Poisoning</string>
+    <string name="ibd">Inflammatory Bowel Disease (IBD)</string>
+    <string name="functional_dyspepsia">Functional Dyspepsia</string>
+
+    <string name="herniated_disc">Herniated Disc</string>
+    <string name="spinal_stenosis">Spinal Stenosis</string>
+    <string name="postural_issues">Postural Issues</string>
+    <string name="sciatica">Sciatica</string>
+    <string name="kidney_stones">Kidney Stones</string>
+    <string name="thoracic_outlet_syndrome">Thoracic Outlet Syndrome</string>
+    <string name="degenerative_disc_disease">Degenerative Disc Disease</string>
+    <string name="upper_back_pain">Upper Back Pain</string>
+    <string name="muscle_spasm">Muscle Spasm</string>
+
+    <string name="deep_vein_thrombosis">Deep Vein Thrombosis (DVT)</string>
+    <string name="peripheral_artery_disease">Peripheral Artery Disease (PAD)</string>
+    <string name="varicose_veins">Varicose Veins</string>
+    <string name="cellulitis">Cellulitis</string>
+    <string name="chronic_venous_insufficiency">Chronic Venous Insufficiency</string>
+
+    <string name="tendinitis">Tendinitis</string>
+    <string name="overuse_syndrome">Overuse Syndrome</string>
+    <string name="carpal_tunnel_syndrome">Carpal Tunnel Syndrome</string>
+    <string name="bursitis">Bursitis</string>
+    <string name="swelling">Swelling</string>
+    <string name="nerve_compression">Nerve Compression</string>
+    <string name="frozen_shoulder">Frozen Shoulder</string>
+    <string name="myopathy">Myopathy</string>
+
+    <string name="osteoarthritis">Osteoarthritis</string>
+    <string name="rheumatoid_arthritis">Rheumatoid Arthritis</string>
+    <string name="gout">Gout</string>
+    <string name="psoriatic_arthritis">Psoriatic Arthritis</string>
+    <string name="ligament_sprain">Ligament Sprain</string>
+    <string name="reactive_arthritis">Reactive Arthritis</string>
+    <string name="scleroderma">Scleroderma</string>
+    <string name="systemic_lupus_erythematosus">Systemic Lupus Erythematosus</string>
+
+    <string name="plantar_fasciitis">Plantar Fasciitis</string>
+    <string name="peripheral_neuropathy">Peripheral Neuropathy</string>
+    <string name="foot_sprain">Foot Sprain</string>
+    <string name="mortons_neuroma">Morton\'s Neuroma</string>
+    <string name="flat_feet">Flat Feet</string>
+    <string name="diabetic_foot">Diabetic Foot</string>
+    <string name="arthritis">Arthritis</string>
+
+    <string name="cervical_strain">Cervical Strain</string>
+
+    <string name="tendonitis">Tendonitis</string>
+    <string name="de_quervains_tenosynovitis">De Quervain\'s Tenosynovitis</string>
+
+    <string name="irritable_bowel_syndrome">Irritable Bowel Syndrome</string>
+    <string name="gastroenteritis">Gastroenteritis</string>
+
+
+
+
+    <string name="advisory_message">It\'s still advisable to see a personal health authority for a more accurate analysis.</string>
+    <string name="unknown_condition">Unknown Condition</string>
+    <string name="possible_condition">Possible Conditions:</string>
+    <string name="confidence">Confidence:</string>
+    <string name="select_option_message">Please select an option.</string>
+    <string name="select_an_option">Select an option</string>
+
+    <string name="less_than_24_hours">Less than 24 hours</string>
+    <string name="one_to_three_days">1-3 days</string>
+    <string name="more_than_three_days">More than 3 days</string>
+
+    <string name="savedt">SAVED TOPICS</string>
+    <string name="nosavedt">No saved topics yet</string>
+
+    <string name="unknown">Unknown</string>
+
+    <string name="panic_attack_condition">Panic Attack</string>
+
+    <string name="burnst1"> CLASSIFICATION OF BURNS</string>
+    <string name="burnst2">First-Degree Burns</string>
+    <string name="burnst3">Second-Degree Burns</string>
+    <string name="burnst4">Third-Degree Burns</string>
+    <string name="burnst5">WHAT TO DO IF YOU \nGET A BURN</string>
+    <string name="burnst6">WHEN TO GO TO HOSPITAL</string>
+    <string name="burnst7">Go to a hospital accident and emergency department if:</string>
+
+    <string name="chokingt1">FOR ADULTS</string>
+    <string name="chokingt2">FOR INFANTS</string>
+    <string name="call">CALL THEM NOW</string>
+
+    <string name="cprt">WHAT IS CPR ?</string>
+    <string name="cprt1">HOW TO PERFORM \nCPR ?</string>
+
+    <string name="splintt1">WHAT IS A SPLINT?</string>
+    <string name="splintt2">HOW TO APPLY \nSPLINT?</string>
+
+    <string name="seizurest1">WHAT ARE SEIZURES?</string>
+    <string name="seizurest2">CAUSES OF SEIZURES</string>
+    <string name="seizurest3">SYMPTOMS OF \nSEIZURE</string>
+    <string name="seizurest4">HOW ARE SEIZURES \nTREATED?</string>
+
+    <string name="shockt1">DANGER</string>
+    <string name="shockt2">RESPONSE</string>
+
+    <string name="bleedingt1">CLASSIFICATION OF \nBLEEDING</string>
+    <string name="bleedingt2">ACTIONS FOR EACH \nTYPES OF BLEEDING</string>
+
+    <string name="snaket1">WHAT IS A SNAKE \nBITE</string>
+    <string name="snaket2">ACTIONS FOR EACH \nTYPES OF BITES</string>
+    <string name="snaket3">Dry Bite</string>
+    <string name="snaket4">Venomous Bite</string>
+
+    <string name="insectt1">WHAT IS AN INSECT \nBITE/STING</string>
+    <string name="insectt2">Mild Symptoms:</string>
+    <string name="insectt3">Severe Symptoms</string>
+    <string name="insectt4">HOW TO TREAT \nINSECT BITES/STING</string>
+    <string name="insectt5">For Mild Symptoms:</string>
+    <string name="insectt6">For Severe Symptoms</string>
+    <string name="insectt7">For Stings:</string>
+    <string name="insectt8">For Tick Bites:</string>
+
+    <string name="bruiset1">WHAT IS A BRUISE</string>
+    <string name="bruiset2">HOW TO HANDLE \nA BRUISE</string>
+
+    <string name="spraint1">WHAT IS A SPRAIN</string>
+    <string name="spraint2">Grade 1 (Mild Sprain)</string>
+    <string name="symptoms">Symptoms:</string>
+    <string name="spraint3">Grade 2 (Moderate Sprain)</string>
+    <string name="spraint4">Grade 3 (Severe Sprain)</string>
+    <string name="spraint5">ACTIONS FOR EACH \nSPRAIN</string>
+    <string name="spraint6">Grade 1</string>
+    <string name="spraint7">Grade 2</string>
+    <string name="spraint8">Grade 3</string>
+
+    <string name="straint1">WHAT IS A STRAIN</string>
+    <string name="straint2">ACTIONS YOU NEED \nFOR STRAIN</string>
+
+    <string name="noset1">WHAT IS A NOSEBLEED</string>
+    <string name="noset2">STEPS TO HANDLE \nNOSEBLEED</string>
+
+    <string name="allergyt1">WHAT IS AN ALLERGIC \nREACTION</string>
+    <string name="allergyt2">Mild Symptoms:</string>
+    <string name="allergyt3">Severe Symptoms:</string>
+    <string name="allergyt4">HOW TO HANDLE \nALLERGIC REACTION</string>
+    <string name="allergyt5">For Mild Symptoms:</string>
+    <string name="allergyt6">For Severe Symptoms:</string>
+
+    <string name="headt1">WHAT IS A HEADACHE</string>
+    <string name="headt2">HOW TO HANDLE \nYOUR HEADACHE</string>
+
+    <string name="minort1">WHAT IS MINOR \nCONCUSION</string>
+    <string name="minort2">Common Symptoms:</string>
+    <string name="minort3">HOW TO HANDLE \nMINOR CONCUSION</string>
+
+    <string name="musclet1">WHAT IS A MUCLE \nCRAMP</string>
+    <string name="musclet2">Causes:</string>
+    <string name="musclet3">HOW TO HANDLE \nMUSCLE CRAMPS</string>
+
+    <string name="blistert1">WHAT IS A BLISTER</string>
+    <string name="blistert2">HOW TO HANDLE \nBLISTER</string>
+
+    <string name="acutet1">WHAT IS ACUTE \nGRIEF?</string>
+    <string name="acutet2">HOW TO HELP \nSOMEONE WHO\'S \nDEALING WITH IT?</string>
+
+    <string name="anxietyt1">WHAT IS ANXIETY?</string>
+    <string name="anxietyt2">HOW TO HELP \nSOMEONE WHO\'S \nDEALING WITH IT?</string>
+
+    <string name="panict1">WHAT IS A PANIC \nATTACK?</string>
+    <string name="panict2">HOW TO HELP \nSOMEONE WHO\'S \nDEALING WITH IT?</string>
+
+    <string name="traumat1">WHAT IS A TRAUMA\n-INFORMED CARE?</string>
+    <string name="traumat2">WAYS TO IMPLEMENT \nTRAUMA-INFORMED \nCARE</string>
+
+    <string name="groundt1">IMPORTANCE \nOF GROUNDING \nTECHNIQUES</string>
+    <string name="groundt2">LIST OF GROUNDING \n TECHNIQUES</string>
+
+    <string name="stresst1">WHAT IS STRESS?</string>
+    <string name="stresst2">WAYS TO REDUCE AND \nHANDLE STRESS</string>
+
+    <string name="floodst1">WHAT ARE FLOODS?</string>
+    <string name="floodst2">HOW ARE FLOODS \nCAUSED?</string>
+    <string name="floodst3">WHAT CAN WE DO \nDURING FLOODS?</string>
+
+    <string name="eartht1">WHAT ARE \nEATHQUAKES?</string>
+    <string name="eartht2">WHY DOES \nEARTHQUAKES \nHAPPEN?</string>
+    <string name="eartht3">GUIDELINES FOR \nEARTHQUAKE \nPREPAREDNESS</string>
+    <string name="eartht4">If you are Indoors:</string>
+    <string name="eartht5">Drop, Cover and Hold:</string>
+    <string name="eartht6">Stay away from windows,glass, \nand exterior walls:</string>
+    <string name="eartht7">Do not run outside:</string>
+    <string name="eartht8">Avoid elevators:</string>
+    <string name="eartht9">If you are Outdoors:</string>
+    <string name="eartht10">Move away from building, trees, \nstreetlights, and utility wires:</string>
+    <string name="eartht11">Find an open space:</string>
+    <string name="eartht12">Drop to the ground:</string>
+    <string name="eartht13">If you are in a Vehicle:</string>
+    <string name="eartht14">Pull Over:</string>
+    <string name="eartht15">Stay inside the vehicle:</string>
+    <string name="eartht16">Avoid parking near buildings, \ntrees, or large signs:</string>
+    <string name="eartht17">Proceed cautiously:</string>
+    <string name="eartht18">If you are in a Building:</string>
+    <string name="eartht19">Stay inside:</string>
+    <string name="eartht20">Move away from windows and \noutside walls:</string>
+    <string name="eartht21">If you are by the Shore:</string>'
+    <string name="eartht22">Be aware of Tsunamis:</string>
+    <string name="eartht23">After the Earthquake:</string>
+    <string name="eartht24">Be prepared for aftershocks:</string>
+    <string name="eartht25">Check for inquiries and hazards:</string>
+    <string name="eartht26">Stay tuned to news or alerts:</string>
+
+    <string name="vulcant1">WHAT IS VOLCANIC \nERUPTION?</string>
+    <string name="vulcant2">KEY HAZARDS \nDURING A VOLCANIC \nERUPTION?</string>
+    <string name="vulcant3">HOW TO HANDLE A \nVOLCANIC ERUPTION?</string>
+    <string name="vulcant4">Before an Eruption:</string>
+    <string name="vulcant5">During an Eruption:</string>
+    <string name="vulcant6">After an Eruption:</string>
+
+    <string name="epit1">WHAT IS EPIDEMIC?</string>
+    <string name="epit2">EPIDEMIC VS. \nPANDEMIC VS. \nENDEMIC</string>
+    <string name="epit3">SAFETY MEASURES \nTO TAKE</string>
+
+    <string name="basict1">WHY?</string>
+    <string name="basict2">HOW?</string>
+    <string name="basict3">WHEN?</string>
+
+    <string name="watert1">IMPORTANCE OF \nWATER SAFETY</string>
+    <string name="watert2">ACTIONS TO ENSURE \nWATER SAFETY</string>
+
+    <string name="roadt1">IMPORTANCE OF \nSROAD AFETY</string>
+    <string name="roadt2">ACTIONS TO ENSURE \nROAD SAFETY</string>
+
+    <string name="dailyt1">IMPORTANCE OF \nDAILY FOOD SAFETY</string>
+    <string name="dailyt2">ACTIONS TO ENSURE \nDAILY FOOD SAFETY</string>
+
+    <string name="foodt1">IMPORTANCE OF \nEMERGENCY FOOD \nSAFETY</string>
+    <string name="foodt2">ACTIONS TO ENSURE \nEMERGENCY FOOD \nSAFETY</string>
+
+    <string name="heatt1">HOW DANGEROUS \nHEATWAVE IS?</string>
+    <string name="heatt2">HOW TO SAY COOL \nFROM HEATWAVE?</string>
+
+
+    <string name="flashlight">FLASHLIGHT</string>
+    <string name="turn_on">TURN ON</string>
+    <string name="turn_off">TURN OFF</string>
+    <string name="strobe">STROBE</string>
+    <string name="sos">SOS</string>
+    <string name="sos_with_alarm">SOS WITH ALARM</string>
+    <string name="stop">STOP</string>
+    <string name="dialog_title_flashlight">Flashlight Features</string>
+    <string name="dialog_message">
+    \n
+    1. TURN ON:    Activates the flashlight to provide continuous light.\n
+    2. TURN OFF:   Deactivates the flashlight.\n
+    3. STROBE:     Flashing light mode, useful for emergencies.\n
+    4. SOS:        Sends an SOS signal using Morse code for distress situations.\n
+    5. ALARM:      Sends SOS signal with an alarm sound for urgent distress.\n
+    6. STOP:       Stops any ongoing strobe or SOS signals.\n
+    \n
+    Use these features according to your needs.
+</string>
+
+
+    <string name="instruction_dialog_title">Emergency Contact Instructions</string>
+        <string name="instruction_dialog_message">
+        If you are in Polangui and require immediate assistance, please call the following emergency contacts:\n\n
+        - Polangui EMS QRT\n
+        - MDRRMO Polangui\n
+        - Polangui Rural Health Unit\n\n
+        If you are in OAS, please contact:\n
+        - OAS Emergency Response Team\n
+        - MDRRMO OAS\n
+        - OAS Rural Health Unit\n\n
+        If you are in Ligao City, reach out to:\n
+        - CDRRMO EQRT Ligao City\n
+        - Zone Medical Clinic\n
+        - Ligao Rural Health Unit\n\n
+        For urgent medical attention, you may also contact:\n
+        - Duran Hospital\n\n
+        Please click on the corresponding button to call the required service.
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

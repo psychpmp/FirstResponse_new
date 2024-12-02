@@ -1,0 +1,1269 @@
+<resources>
+    <string name="app_name">FirstResponse</string>
+    <string name="about_us">About Us</string>
+    <string name="website">Website</string>
+    <string name="url">https://redcrosskarnataka.org/</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="choose_language">Pumili ng Wika</string>
+
+    <string name="seizure1">Ang epilepsy ay isang kondisyon ng utak na nagiging sanhi ng pagkakaroon ng seizures. Isa ito sa mga pinaka-karaniwang sakit ng nervous system. Mayroong ibat ibang uri ng seizures. Ang uri ng seizure ay depende sa bahagi at lawak ng utak na apektado at kung ano ang nangyayari sa panahon ng seizure. Ang 2 pangunahing kategorya ng epileptic seizures ay <b>focal (partial) seizure</b> at <b>generalized seizure</b>.</string>
+    <string name="seizure2">Ang isang seizure ay maaaring sanhi ng maraming bagay. Kasama dito ang:
+    \n<b>■Isang hindi balanseng kemikal ng utak na nagdidirekta ng mga nerve signals (neurotransmitters),</b>
+    \n<b>■Tumor sa utak</b>
+    \n<b>■Stroke</b>
+    \n<b>■Sakit mula sa utak o pinsala sa katawan</b>
+    \nAng epilepsy ay maaaring sanhi ng kumbinasyon ng mga ito. Sa karamihan ng mga kaso, hindi matukoy ang sanhi ng epilepsy.</string>
+
+
+    <string name="seizure3">"Ang iyong mga sintomas ay depende sa uri ng seizure. Ang mga pangkaraniwang sintomas o babala ng isang seizure ay maaaring kabilang ang:
+    \n<b>■Pagkatulala</b>
+    \n<b>■Pagkakaroon ng jerky na paggalaw ng mga braso at binti</b>
+    \n<b>■Pagkakatigasp ng katawan</b>
+    \n<b>■Pagkawala ng kamalayan</b>
+    \n<b>■Mga problema sa paghinga o pagtigil sa paghinga</b>
+    \n<b>■Pagkawala ng kontrol sa bituka o pantog</b>
+    \n<b>■Biglaang pagkahulog nang walang maliwanag na dahilan, lalo na kapag nauugnay sa pagkawala ng kamalayan</b>
+    \n<b>■Hindi pagtugon sa tunog o salita sa maikling panahon</b>
+    \n<b>■Pagkakaroon ng kalituhan o pagkalito</b>
+    \n<b>■Pagyuko ng ulo nang may ritmo, kapag nauugnay sa pagkawala ng kamalayan o pagkawala ng consciousness</b>
+    \n<b>■Mga panahon ng mabilis na pagblink ng mata at pagkatulala"</b></string>
+
+
+    <string name="seizure4">Ang layunin ng paggamot ay kontrolin, itigil, o bawasan ang dalas ng paglitaw ng mga seizure. Kadalasang ginagawa ang paggamot gamit ang gamot. Maraming uri ng gamot ang ginagamit para gamutin ang epilepsy. Kailangan tukuyin ng iyong tagapagbigay ng pangangalagang pangkalusugan ang uri ng seizure na iyong nararanasan. Pinipili ang mga gamot batay sa uri ng seizure, edad ng tao, epekto ng gamot, gastos, at kadalian ng paggamit.
+    \n<b>1. Mga pagsusuri ng dugo</b>
+    \n<b>2. Mga pagsusuri ng ihi</b>
+    \n<b>3. Electroencephalogram (EEG)</b>
+    \n<b>4. Vagus Nerve Stimulation (VNS)</b>
+    \n<b>5. Operasyon</b></string>
+
+    <string name="earth_para1">Ang lindol ay isang biglaang pagyanig ng ibabaw ng Lupa na dulot ng paggalaw ng mga bato sa ilalim. Karamihan sa mga lindol ay hindi napapansin ng mga tao sa ibabaw ng Lupa. Libu-libong lindol ang nagaganap araw-araw ngunit masyadong mahina upang maramdaman.</string>
+
+    <string name="earth_para2"><b>■Plate tectonics</b> - Ang pinakamataas na bahagi ng Lupa ay nahahati sa mga pangunahing bahagi na tinatawag na tectonic plates. Ang mga slab na ito ay bumubuo sa lithosphere, na binubuo ng crust (kontinental at karagatan) at ang itaas na bahagi ng mantle. Ang mga tectonic plates ay gumagalaw ng napakabagal kumpara sa isa\'t isa, karaniwang ilang sentimetro bawat taon, ngunit nagdudulot ito ng malaking pagbabago sa mga hangganan ng plate, na nagreresulta sa mga lindol.\n
+\n<b>■Elastic rebound theory</b> - Bago ang isang lindol, ang pagbuo ng stress sa mga bato sa magkabilang panig ng isang fault ay nagreresulta sa unti-unting pagbabago. Sa huli, ang pagbabago na ito ay lumalampas sa frictional force na humahawak sa mga bato at biglang pagdulas ang nagaganap sa kahabaan ng fault. Ang paglabas ng naipong stress na ito ay nagdudulot sa mga bato sa magkabilang panig ng fault na bumalik sa kanilang orihinal na anyo (elastic rebound) ngunit may pag-aalis sa magkabilang panig ng fault.</string>
+
+    <string name="earth_indoor"><b>Yumuko, Magtago, at Kumapit:</b> <b>Dumapa</b> sa iyong mga kamay at tuhod upang maiwasan ang pagbagsak. <b>Takpan</b> ang iyong ulo at leeg (at ang buong katawan kung maaari) sa ilalim ng matibay na piraso ng kasangkapan tulad ng mesa o desk. <b>Kumapit</b> sa kasangkapan upang mapanatili itong nasa lugar hanggang sa huminto ang pagyanig.\n<b>Lumayo sa mga bintana, salamin, at panlabas na pader:</b> Ang mga ito ay maaaring masira o mag-collapse, na nagdudulot ng pinsala.\n<b>Huwag tumakbo palabas:</b> Mas ligtas na manatili sa loob ng bahay dahil ang bumabagsak na debris ay maaaring mapanganib malapit sa mga gusali.\n<b>Iwasan ang mga elevator:</b> Kung mawalan ng kuryente o masira ang gusali, maaaring ma-trap ka sa elevator.</string>
+
+    <string name="earth_outdoor"><b>Lumayo sa mga gusali, puno, ilawan ng kalye, at mga kable ng kuryente:</b> Ang mga estrukturang ito ay maaaring mag-collapse o masira sa panahon ng lindol.\n<b>Maghanap ng bukas na lugar:</b> Manatili sa isang bukas na lugar hanggang sa huminto ang pagyanig.\n<b>Yumuko sa lupa:</b> Manatiling nakayuko o mababa ang iyong sarili upang mabawasan ang panganib ng pagkakasipa ng pagyanig.</string>
+
+    <string name="earth_vehicle"><b>Huminto sa gilid ng daan:</b> Huminto nang mabilis at ligtas hanggat maaari, iwasan ang mga overpasses, tulay, o mga linya ng kuryente.\n<b>Manatili sa loob ng sasakyan:</b> Ang sasakyan ay maaaring magbigay ng proteksyon mula sa bumabagsak na debris.\n<b>Iwasang pumarada malapit sa mga gusali, puno, o malalaking karatula:</b> Ang mga ito ay maaaring mag-collapse sa iyong sasakyan.\n<b>Magpatuloy nang maingat:</b> Pagkatapos huminto ang pagyanig, magmaneho nang maingat, nagmamasid para sa pinsala sa kalsada o panganib.</string>
+
+    <string name="earth_building"><b>Manatili sa loob:</b> Huwag gumamit ng mga elevator. Maghanap ng takip sa ilalim ng matibay na kasangkapan.\n<b>Lumayo sa mga bintana at panlabas na pader:</b> Ang mga ito ay madaling masira o mag-collapse.</string>
+
+    <string name="earth_coast"><b>Maging alerto sa tsunami:</b> Ang mga lindol malapit sa baybayin ay maaaring magdulot ng mga tsunami. Pagkatapos huminto ang pagyanig, lumipat sa mas mataas na lugar hanggat maaari kung ikaw ay malapit sa dagat.</string>
+
+    <string name="earth_afterearthquake"><b>Maging handa para sa mga aftershock:</b> Ang mga mas maliliit na pagyanig ay maaaring mangyari ilang minuto o kahit araw pagkatapos ng pangunahing lindol.\n<b>Suriin ang mga pinsala at panganib:</b> Kapag huminto na ang pagyanig, suriin ang iyong sarili at ang iba para sa mga pinsala. Maghanap ng mga panganib tulad ng mga tagas ng gas o nasirang mga kable ng kuryente upang maiwasan ito.\n<b>Makinig sa balita o mga alerto:</b> Gumamit ng radyo o mobile device (kung mayroon) upang makinig para sa mga update at tagubilin sa emerhensiya.</string>
+
+    <string name="epi_para1">Ang epidemya ay isang biglaang paglaganap ng sakit na nakakaapekto sa malaking bilang ng tao sa isang tiyak na rehiyon, komunidad, o populasyon.
+    \nAng epidemya ng isang nakakahawang sakit ay maaaring mangyari kung ang virus, bakterya, o iba pang sanhi ng sakit ay kamakailan lamang lumakas, ipinakilala sa isang lugar kung saan ito ay hindi pa umiiral, o nakakahanap ng mga bagong paraan upang makapasok sa katawan ng mga naaapektuhan nito. Maaari rin itong mangyari kung ang mga tao ay nagiging mas madaling kapitan sa sanhi ng sakit o may higit na pagkakalantad dito.
+    \nKaraniwang ikinaklasipika ang mga epidemya bilang common-source o propagated. Ang isang sakit ay tinatawag na isa o ang isa batay sa paraan ng pagkalat nito sa isang grupo ng mga tao.</string>
+
+    <string name="epi_para2">Ang <b>EPIDEMYA</b> ay kinabibilangan ng malawakang pagkalat ng sakit sa isang buong lugar o tiyak na komunidad kung saan hindi ito permanente. Ang <b>PANDEMYA</b> ay kinabibilangan ng mas malawak na pagkalat, madalas na umaabot sa buong mundo. Ang salitang <b>ENDEMIYA</b> ay ginagamit upang ilarawan ang sakit na patuloy at regular na kumakalat sa loob ng isang tiyak na lugar o rehiyon (ibig sabihin, hindi ito nawawala ng lubusan).</string>
+
+    <string name="epi_para3">
+    \n<b>Sundin ang public health guidelines</b>
+    \n<b>■Sanayin ang sarili sa kalinisan</b>
+    \n<b>■Magsuot ng mask</b>
+    \n<b>■Panatilihin ang pisikal na distansya</b>
+    \n<b>■Sundin ang etiketa sa paghinga</b>
+    \n<b>■Linisin at dis-impektahin ang madalas na hinahawakan na mga bagay</b>
+    \n<b>■Manatili sa bahay kung hindi maganda ang pakiramdam</b>
+    \n<b>■Manatiling informed at iwasan ang maling impormasyon</b>
+    \n<b>■Suportahan ang mga pagsusumikap sa pagbabakuna</b>
+</string>
+
+    <string name="epi_para4">
+    Dahil sa pandemya ng Covid-19, maraming tao ang nagdusa. Suportado namin ang komunidad sa pamamagitan ng pag-donate ng mga sanitizer, sabon, face mask, mga grocery kit, at iba pa.
+</string>
+
+    <string name="flood_para1">Ang mga pagbaha ang pinaka-madalas na uri ng natural na sakuna at nangyayari kapag ang sobrang tubig ay sumasakop sa lupa na karaniwang tuyong lupa. Ang mga pagbaha ay kadalasang dulot ng malakas na pag-ulan, mabilis na pagkatunaw ng niyebe, o isang storm surge mula sa isang tropical cyclone o tsunami sa mga baybayin.
+</string>
+
+    <string name="flood_para2">Ang pagbaha ay maaaring mangyari sa maraming paraan. Ang pinaka-karaniwan ay kapag ang mga ilog o sapa ay umaapaw sa kanilang mga pampang. Ang mga pagbaha na ito ay tinatawag na riverine floods. Ang malakas na ulan, nasirang dam o levee, mabilis na pagkatunaw ng yelo sa mga bundok, o kahit isang beaver dam sa isang mahina na lugar ay maaaring magdulot ng sobrang pag-agos ng ilog at ikalat ito sa kalapit na lupa. Ang lupa sa paligid ng isang ilog ay tinatawag na flood plain.\n\nAng coastal flooding, na tinatawag ding estuarine flooding, ay nangyayari kapag ang isang malaking bagyo o tsunami ay nagiging sanhi ng dagat na umagos papasok sa lupa.
+</string>
+
+    <string name="flood_para3"><b>Upang maghanda para sa pagbaha, dapat mong:</b>\n\n■Iwasan ang pagtatayo sa mga lugar na madaling bahain maliban kung itataas at palakasin ang iyong bahay.\n■Itaas ang furnace, water heater, at electric panel kung madalas na binabaha.\n■Mag-install ng "Check Valves" sa imburnal upang maiwasan ang pagbabalik ng tubig mula sa pagbaha sa mga drains ng iyong bahay.\n■Makipag-ugnayan sa mga opisyal ng komunidad upang malaman kung plano nilang magtayo ng mga hadlang (levees, beams at flood walls) upang pigilan ang tubig mula sa pagbaha sa mga bahay sa iyong lugar.\n■I-seal ang mga dingding sa iyong basement gamit ang waterproofing compounds upang maiwasan ang pagtagos.\n
+    <b>\nKung malamang na tatama ang pagbaha sa iyong lugar, dapat mong:</b>\n\n■Makinig sa radyo o telebisyon para sa impormasyon.\n■Maging aware na maaaring mangyari ang flash flooding. Kung may posibilidad ng flash flood, agad na lumipat sa mas mataas na lugar. Huwag maghintay ng mga tagubilin upang lumipat.\n■Maging handa sa mga sapa, drainage channels, canyon, at iba pang mga lugar na kilala sa biglaang pagbaha. Ang mga flash floods ay maaaring mangyari sa mga lugar na ito kahit walang karaniwang babala tulad ng mga ulap o malakas na ulan.\n
+    <b>\nKung kailangan mong maghanda para sa paglikas, dapat mong:</b>\n\n■Siguraduhin ang iyong bahay. Kung mayroon kang oras, dalhin ang mga panlabas na kasangkapan. Ilipat ang mga mahalagang bagay sa itaas na palapag.\n■Patayin ang mga utilities sa pangunahing switch o valve kung ipinag-utos. I-disconnect ang mga electrical appliances. Huwag hawakan ang electrical equipment kung ikaw ay basang basa o nakatayo sa tubig.\n
+    <b>\nKung kailangan mong umalis sa iyong bahay, tandaan ang mga tip sa paglikas na ito:</b>\n\n■Huwag maglakad sa gumagalaw na tubig. Ang anim na pulgadang gumagalaw na tubig ay maaaring magpahulog sa iyo. Kung kailangan mong maglakad sa tubig, maglakad sa lugar kung saan hindi gumagalaw ang tubig. Gumamit ng stick upang suriin ang katatagan ng lupa sa harap mo.\n■Huwag magmaneho sa mga lugar na binabaha. Kung ang tubig ng baha ay umakyat sa paligid ng iyong sasakyan, iwanan ang sasakyan at lumipat sa mas mataas na lugar kung maaari mo itong gawin nang ligtas. Ang ikaw at ang sasakyan ay maaaring mabilis na mawasak.
+</string>
+
+    <string name="volc_erupt">Ang isang pagsabog ng bulkan ay nangyayari kapag ang magma, gas, at abo ay naihahagis mula sa isang bulkan. Ang mga pagsabog ay maaaring maging explosive o medyo banayad, depende sa uri ng bulkan at ang presyon ng mga gas na nakulong sa ilalim ng ibabaw. Ang mga pagsabog ng bulkan ay maaaring magdulot ng malawakang pinsala sa pamamagitan ng lava flows, ashfall, pyroclastic flows, at mga gas ng bulkan.
+</string>
+
+
+    <string name="volc_erupt1"><b>Pagdaloy ng Lava:</b> Natunaw na bato na dumadaloy pababa sa bulkan, na sumisira sa anumang nasa daraanan nito.\n<b>Pagbagsak ng Abo:</b> Pinong abo ng bulkan na maaaring kumalat sa malawak na lugar, nagiging sanhi ng mga isyu sa paghinga, nakakasira sa mga pananim, at nakakaapekto sa transportasyon.\n<b>Pyroclastic Flows:</b> Napaka-init at mabilis na gumagalaw na mga ulap ng gas at materyal ng bulkan na maaaring magdulot ng malawakang pinsala.\n<b>Mga Gas ng Bulkan:</b> Nakakalason na mga gas tulad ng sulfur dioxide ay maaaring mailabas, na nagiging sanhi ng mga problema sa kalusugan at pinsala sa kapaligiran.\n<b>Lahar:</b> Mudflows o debris flows na dulot ng aktibidad ng bulkan, lalo na sa mga lugar na may malakas na ulan.
+</string>
+
+    <string name="volc_erupt2"><b>Alamin ang iyong mga ruta ng paglikas:</b> Tukuyin ang mga ligtas na lugar at mga ruta ng paglikas. Maging aware sa mga lokal na sistema ng babala sa bulkan at mga protocol para sa emerhensiya.\n<b>Maghanda ng emergency kit:</b> Isama ang mga item tulad ng face mask (N95 para sa pag-filter ng abo), goggles, pagkain, tubig, flashlight, first aid kit, at isang baterya-powered na radyo.\n<b>Maging updated:</b> Regular na tingnan ang mga update mula sa mga lokal na awtoridad at mga ahensya ng heolohiya na nagmamanman ng aktibidad ng bulkan. Ang mga ahensyang ito ay nagbibigay ng mga alerto kapag ang pagsabog ay malapit na.
+</string>
+
+    <string name="volc_erupt3"><b>Maglikas kung pinayuhan:</b> Kung magbigay ng utos ang mga awtoridad na maglikas, umalis ka sa lugar agad sa pamamagitan ng pinaka-ligtas na ruta ng paglikas.\n<b>Manatili sa loob ng bahay:</b>\nKung hindi posible ang paglikas, manatili sa loob ng bahay na may mga bintana at pintuan na nakasara upang maiwasan ang abo at nakakalason na mga gas. Magsuot ng mask at goggles upang protektahan ang sarili mula sa paglanghap at pang-irita ng abo.\n<b>Iwasan ang mga lugar na mababa:</b> Ang mga pyroclastic flows at lahars ay may tendensiyang mabilis na dumaan pababa at sa mga lambak. Iwasan ang mga lugar na nasa tabi ng ilog at mga mababang lugar.\n<b>Takpan ang iyong balat:</b> Kung kailangan mong lumabas, magsuot ng mahahabang manggas, pantalon, at sumbrero upang mabawasan ang exposure ng balat sa nahuhulog na abo.\n<b>Protektahan ang mga pinagkukunan ng tubig:</b> Takpan ang mga lalagyan ng tubig at maging alerto sa kontaminasyon ng abo sa mga lokal na suplay ng tubig.
+</string>
+
+    <string name="volc_erupt4"><b>Maghintay para sa all-clear:</b> Bumalik lamang sa mga lugar na inilikas kapag ipinahayag ng mga awtoridad na ito ay ligtas na.\n<b>Linisin ang abo nang ligtas:</b>\nGumamit ng mask at damp cloth upang linisin ang mga ibabaw. Iwasan ang pagwawalis ng tuyong abo, dahil maaari itong muling mag-suspend sa hangin.\n<b>Suriin ang pinsala sa estruktura:</b> Suriin ang iyong bahay para sa pinsala mula sa pagbagsak ng abo, debris, o lindol na maaaring nangyari kasabay ng pagsabog.\n<b>Monitor ang iyong kalusugan:</b> Kung nakakaranas ka ng mga problema sa paghinga o mata mula sa exposure sa abo, humingi ng medikal na pangangalaga. Bigyang pansin ang mga advisory sa kalidad ng hangin.
+</string>
+
+    <string name="volc_erupt5">Sa pamamagitan ng pagiging handa at pagsunod sa mga safety protocols, maaari mong bawasan ang mga panganib na dulot ng mga pagsabog ng bulkan. Mahalaga ang pagiging updated at pagsunod sa mga tagubilin ng mga lokal na awtoridad bago, habang, at pagkatapos ng isang pagsabog upang matiyak ang kaligtasan para sa iyo at sa iyong komunidad.
+</string>
+
+    <string name="water_safety">Mahalaga ang kaligtasan ng tubig para sa kalusugan, pagpigil sa mga waterborne na sakit at pagbabawas ng panganib sa panahon ng mga pagbaha. Ang pagtitiyak ng access sa malinis na inuming tubig at pagiging handa para sa mga pagbaha ay tumutulong upang protektahan laban sa kontaminasyon. Ang pagbibigay-priyoridad sa ligtas na mga kasanayan sa tubig at paghahanda sa pagbaha ay nagpapanatili ng kaligtasan ng mga indibidwal at pamilya mula sa mga panganib na nauugnay sa tubig.
+</string>
+
+    <string name="water_safety1"><b>Gumamit ng Malinis na Pinagmumulan ng Tubig:</b> Uminom lamang mula sa mga pinagkakatiwalaan o tinatrateng pinagmumulan.\n<b>Pakuluan o I-purify ang Tubig</b> – Pakuluan ang tubig ng hindi bababa sa isang minuto o gumamit ng pang-sala kung hindi sigurado sa kalidad nito.
+        \n<b>Linisin ang Mga Lalagyan ng Tubig:</b> Regular na hugasan at iselyo ang mga lalagyan upang maiwasan ang kontaminasyon.
+        \n<b>Mag-install ng Mga Water Filter:</b> Gumamit ng mga filter para sa karagdagang proteksyon laban sa bacteria at iba pang mga impurities.
+        \n<b>Maging Maingat sa Yelo at Street Food:</b> Siguraduhin na ang yelo at pagkain ay inihanda gamit ang malinis na tubig.
+        \n<b>Maghanda para sa mga Pagbaha:</b> Siguraduhin ang mga pinagkukunan ng tubig, iwasan ang pakikipag-ugnay sa tubig mula sa pagbaha, at gumamit ng bottled o purified na tubig sa mga emerhensiya.
+        \n<b>Maging Updated:</b> Sundan ang mga lokal na advisory sa kaligtasan ng tubig, lalo na sa panahon ng mga natural na sakuna.
+</string>
+
+    <string name="road_safety">Mahalaga ang kaligtasan sa kalsada para sa pagbawas ng mga aksidente, pinsala, at pagkamatay, habang isinusulong ang responsable na pagmamaneho at mas ligtas na paglalakbay para sa lahat. Pinapabuti nito ang kahusayan sa transportasyon, binabawasan ang mga pasanin sa ekonomiya at pangangalaga sa kalusugan, at pinapalakas ang pangkalahatang kalidad ng buhay sa pamamagitan ng pagtutiyak ng mas ligtas at maaasahang mga kalsada.
+</string>
+
+    <string name="road_safety1"><b>Para sa mga Mamamayan:</b>\n\n<b>Sundin ang mga batas sa trapiko:</b> Palaging sumunod sa pedestrian signals at tumawid sa mga itinalagang lugar.\n<b>Maging alerto:</b> Iwasan ang mga distraksyon tulad ng paggamit ng mobile phones kapag naglalakad malapit sa o tumatawid ng mga kalsada.\n<b>Gumamit ng pedestrian crossings:</b> Tumawid sa zebra crossings o traffic lights para sa pinakamataas na kaligtasan.\n<b>Maging aware sa paligid:</b> Bantayan ang mga papalapit na sasakyan at makipag-eye contact sa mga driver bago tumawid.
+</string>
+
+    <string name="road_safety2"><b>Para sa mga Nagmamaneho:</b>\n\n<b>Magsuot ng safety gear:</b> Palaging magsuot ng helmet at protective clothing, lalo na sa mahahabang biyahe.\n<b>Pangalagaan ang kondisyon ng sasakyan:</b> Regular na suriin ang preno, ilaw, at gulong upang tiyakin na maayos ang sasakyan.\n<b>Magpraktis ng defensive driving:</b> Maging alerto at asahan ang mga potensyal na panganib, tulad ng biglaang paghinto o pagbabago ng lane.\n<b>Maging visible:</b> Gumamit ng reflective clothing o ilaw sa gabi upang mapataas ang visibility.\n<b>Iwasan ang mga mapanganib na pag-uugali:</b> Huwag magmaneho sa ilalim ng impluwensya ng alkohol o droga, at iwasan ang sobrang bilis na pagpapatakbo.
+</string>
+
+    <string name="daily_food_safety">Mahalaga ang pang-araw-araw na kaligtasan ng pagkain para sa pagpigil sa mga foodborne na sakit, pagprotekta sa pampublikong kalusugan, at pagtitiyak ng kalidad ng ating kinakain. Ang tamang hygiene, ligtas na pagluluto, at wastong pag-iimbak ng pagkain ay nagpapababa ng panganib ng kontaminasyon, na nagpoprotekta sa mga vulnerable na grupo at sumusuporta sa pangkalahatang kagalingan habang binabawasan ang pasanin sa pangangalaga sa kalusugan.
+</string>
+
+    <string name="daily_food_safety1"><b>Hugasan ang mga kamay at kagamitan:</b> Linisin ang mga kamay, gamit sa pagluluto, at ibabaw bago at pagkatapos hawakan ang pagkain.\n<b>Pagluluto ng maayos:</b> Tiyakin na ang pagkain ay umaabot sa ligtas na internal na temperatura upang patayin ang mga mapanganib na bacteria.\n<b>Wastong pag-iimbak ng pagkain:</b> I-refrigerate ang mga perishable na item sa loob ng dalawang oras upang maiwasan ang pagkasira.\n<b>Paghiwalayin ang hilaw at lutong pagkain:</b> Iwasan ang cross-contamination sa pamamagitan ng paggamit ng iba\'t ibang cutting boards at kagamitan para sa hilaw na karne at lutong pagkain.\n<b>Suriin ang expiration dates:</b> Regular na tingnan at itapon ang mga expired o sira na produkto.\n<b>Linisin ang sariwang prutas at gulay:</b> Hugasan ng maayos ang mga prutas at gulay sa ilalim ng tumutulo na tubig bago kainin.
+</string>
+
+    <string name="emergency_food_safety">Mahalaga ang kaligtasan ng pagkain sa panahon ng mga krisis upang maiwasan ang mga foodborne na sakit, tiyakin ang wastong pag-iimbak, at mapanatili ang access sa malinis na tubig. Tumutulong ito upang maiwasan ang kontaminasyon at pagkasira kapag ang imprastruktura ay naapektuhan, pinoprotektahan ang pampublikong kalusugan at sumusuporta sa mga pagsisikap sa pag-recover. Ang mga ligtas na pamamaraan sa paghawak at wastong pag-iimbak ng pagkain ay nagpapababa ng panganib ng malnutrisyon at mga outbreak ng sakit sa mga sitwasyon ng emerhensiya.
+</string>
+
+    <string name="emergency_food_safety1"><b>Mag-imbak ng mga emergency food supplies:</b> Panatilihin ang mga hindi-nabubulok, selyado na pagkain tulad ng canned goods, dried fruits, at ready-to-eat meals.\n<b>Gumamit ng ligtas na tubig:</b> Tiyakin ang access sa bottled o treated na tubig para sa pag-inom at paghahanda ng pagkain.\n<b>Wastong pag-iimbak ng pagkain:</b> I-imbak ang pagkain sa malinis, airtight na mga lalagyan at panatilihin ang ligtas na temperatura, gamit ang mga cooler o ice packs kung kinakailangan.\n<b>Suriin ang pagkain bago gamitin:</b> Tingnan ang mga palatandaan ng pagkasira, tulad ng hindi pangkaraniwang amoy, pagbabago ng kulay, o sira na packaging.\n<b>Panatilihin ang hygiene:</b> Hugasan ang mga kamay at kagamitan gamit ang malinis na tubig bago hawakan ang pagkain upang maiwasan ang kontaminasyon.\n<b>Gumamit ng init o apoy nang ligtas:</b> Kung kinakailangan ang pagluluto, tiyakin na ang pagkain ay naiinit sa ligtas na temperatura, at gumamit ng ligtas na pamamaraan ng pagluluto sa mga kondisyon ng emerhensiya.
+</string>
+
+    <string name="heatwave">Ang mga heatwaves ay maaaring magdulot ng seryosong panganib sa kalusugan tulad ng heat exhaustion, dehydration, at heatstroke, lalo na sa mga vulnerable na grupo tulad ng matatanda at mga bata. Ang matagal na init ay maaaring magpalala ng mga chronic na kondisyon, mag-strain sa mga supply ng enerhiya, at magdulot ng mga power outages, na naglilimita sa access sa paglamig at malinis na tubig. Bukod dito, nakakaapekto ito sa agrikultura, binabawasan ang ani ng mga pananim at nagpapataas ng panganib ng kakulangan sa pagkain.
+</string>
+
+    <string name="heatwave1"><b>Manatiling hydrated:</b> Uminom ng maraming tubig upang maiwasan ang dehydration, lalo na sa mga peak heat hours.\n<b>Limitahan ang mga outdoor activities:</b> Iwasan ang mabibigat na gawain sa labas, lalo na sa pinakamainit na oras ng araw.\n<b>Magsuot ng magaan at breathable na damit:</b> Piliin ang mga maluluwag, matitingkad na damit upang manatiling presko.\n<b>Gumamit ng cooling systems nang mahusay:</b> Panatilihing maayos ang mga fan o air conditioner at gamitin ang mga ito upang mapanatili ang preskong indoor environment.\n<b>Gumawa ng mga malilim na lugar:</b> Gumamit ng mga payong, tents, o mga halaman upang magbigay ng lilim sa labas na lugar.\n<b>Suriin ang mga vulnerable individuals:</b> Tiyakin na ang matatanda, mga bata, at mga may kondisyon sa kalusugan ay nakakatanggap ng pangangalaga sa panahon ng matinding init.\n<b>Magplano para sa mga power outages:</b> Maghanda ng mga backup na opsyon, tulad ng portable fans, upang mapangasiwaan ang mga posibleng power cuts sa panahon ng heatwaves.
+</string>
+
+    <string name="acute_grief"><b>Mag-alok ng nakikinig na tainga:</b> Payagan silang ipahayag ang kanilang mga damdamin nang walang paghuhusga o pagtatangkang ayusin ang sitwasyon.\n<b>Magkaroon ng pasensya at presensya:</b> Ang pagluluksa ay isang proseso na tumatagal ng oras, kaya magbigay ng patuloy na suporta sa halip na asahan ang mabilis na pag-recover.\n<b>Hikayatin ang propesyonal na tulong:</b> Iminumungkahi na makipag-usap sila sa isang therapist o grief counselor kung kinakailangan para sa karagdagang suporta.\n<b>Tumulong sa praktikal na mga gawain:</b> Mag-alok ng tulong sa pang-araw-araw na aktibidad tulad ng pagluluto, paglilinis, o mga errands upang maibsan ang kanilang pasanin.\n<b>Igagalang ang kanilang proseso ng pagluluksa:</b> Iwasan ang pagpilit sa kanila na mag-move on o pagmamaliit ng kanilang sakit; iba-iba ang bawat tao sa pagdadanas ng pagluluksa.\n<b>Regular na mag-check in:</b> Manatiling nakikipag-ugnayan sa kanila sa paglipas ng panahon, dahil ang pagluluksa ay maaaring maging pangmatagalang proseso, at mahalaga ang patuloy na suporta.\n<b>Ibabahagi ang mga alaala:</b> Kung naaangkop, pag-usapan ang tungkol sa taong kanilang nawala, na maaaring makatulong sa kanila na makaramdam ng koneksyon at suporta.
+</string>
+
+    <string name="acute_grief_intro">Ang acute grief ay isang matinding emosyonal na reaksyon na nangyayari agad pagkatapos ng isang makabuluhang pagkawala, karaniwang nailalarawan ng malalim na kalungkutan, pagnanasa, at pagkabalisa. Maaaring kabilang dito ang mga pisikal na sintomas tulad ng pagkapagod at pag-abala sa pagtulog, at madalas na nararamdaman ng mga indibidwal na sila ay abala sa mga iniisip tungkol sa namatay. Bagaman labis na masakit, ito ay isang normal na bahagi ng proseso ng pagluluksa at karaniwang tumatagal ng linggo hanggang ilang buwan habang ang tao ay nagsisimula nang ayusin ang kanilang buhay nang wala ang kanilang mahal sa buhay.
+</string>
+
+    <string name="panic_attack">Ang panic attack ay isang biglaan at matinding pagsabog ng takot o pagkabalisa na nagdudulot ng mga pisikal na sintomas tulad ng mabilis na tibok ng puso, kakulangan sa paghinga, pagpapawis, at pagkahilo. Madalas itong nararamdaman na labis, na may pakiramdam ng papalapit na kapahamakan o pagkawala ng kontrol. Ang mga episode na ito ay karaniwang umabot sa rurok sa loob ng ilang minuto at maaaring mangyari nang hindi inaasahan, kahit na walang malinaw na sanhi. Bagaman hindi mapanganib, maaari itong malubhang makaapekto sa kapakanan ng isang tao kung hindi maayos na pamahalaan.
+</string>
+
+
+    <string name="panic_attack1"><b>Manatiling kalmado at nakaka-reassure:</b> Ang iyong kalmadong presensya ay makakatulong na bawasan ang kanilang pagkabahala.\n<b>Hikayatin ang malalim na paghinga:</b> Gabayan sila sa pamamagitan ng mabagal, malalim na paghinga upang makatulong sa pagkontrol ng hyperventilation.\n<b>Magbigay ng grounding techniques:</b> Hilingin sa kanila na magtuon ng pansin sa kanilang paligid o ilarawan ang mga bagay na kanilang nakikita upang mailihis ang atensyon mula sa panic.
+</string>
+
+    <string name="panic_attack2"><b>Makipag-usap ng mahinahon at nakaka-comfort:</b> Paalalahanan silang ang panic attack ay mawawala at hindi sila nasa panganib.\n<b>Bigyan sila ng espasyo kung kinakailangan:</b> Maaaring mas gusto ng iba ang mag-isa sa panahon ng atake, kaya igalang ang kanilang kagustuhan.\n<b>Iwasan ang pagsasabi ng "magpakatino ka":</b> Maaaring magdulot ito ng dagdag na stress; sa halip, mag-focus sa pagre-reassure at suporta.\n<b>Hikayatin ang propesyonal na tulong:</b> Kung madalas ang mga panic attack, imungkahi ang paghingi ng tulong mula sa isang therapist o counselor.
+</string>
+
+    <string name="anxiety_management">Ang anxiety ay isang pakiramdam ng pag-aalala o takot na maaaring mula sa bahagyang pagkabahala hanggang sa matinding pagkabahala. Ito ay isang natural na tugon sa stress ngunit maaaring maging labis kung patuloy. Kasama sa mga sintomas ang pagkabalisa, mabilis na tibok ng puso, at hirap sa pagtuon. Bagaman normal sa ilang mga sitwasyon, maaaring makaabala ang chronic anxiety sa pang-araw-araw na buhay at maaaring magpahiwatig ng anxiety disorder kung hindi maayos na pinamamahalaan.
+</string>
+
+    <string name="anxiety_management1"><b>Makinig nang walang paghuhusga:</b> Payagan silang ipahayag ang kanilang mga damdamin nang bukas nang hindi agad nagbibigay ng solusyon.\n<b>Magbigay ng reassurance:</b> Paalalahanan silang ok lang na makaramdam ng pagkabahala at hindi sila nag-iisa.\n<b>Hikayatin ang malalim na paghinga:</b> Tulungan silang magpraktis ng mabagal, malalim na paghinga upang mabawasan ang mga sintomas ng pagkabahala.\n<b>Iwasan ang pag-minimize ng kanilang mga damdamin:</b> Iwasan ang pagsasabi ng "mag-relax ka lang" o "huwag mag-alala," dahil maaari itong magdulot ng pakiramdam na hindi sila nauunawaan.\n<b>Imungkahi ang grounding techniques:</b> Hikayatin silang magtuon sa kasalukuyan, tulad ng paggamit ng "5-4-3-2-1" grounding method (para sa karagdagang pag-unawa, pumunta sa Grounding Techniques na pahina).
+</string>
+
+    <string name="anxiety_management2"><b>Tulungan silang lumikha ng kalmadong kapaligiran:</b> Bawasan ang mga trigger tulad ng malalakas na tunog o mga stressful na stimuli.\n<b>Hikayatin ang paghahanap ng propesyonal na tulong:</b> Iminumungkahi ang therapy o counseling kung ang pagkabahala ay nakakaabala sa kanilang pang-araw-araw na buhay.
+</string>
+
+    <string name="trauma_informed_care">Ang trauma-informed care ay isang pamamaraan na kinikilala ang epekto ng trauma at isinama ang kamalayang ito sa mga kasanayan sa pangangalaga. Ang kahalagahan nito ay nasa paglikha ng isang ligtas, sumusuportang kapaligiran na pumipigil sa re-traumatization at nagtataguyod ng pagpapagaling. Sa pamamagitan ng pagbibigay-priyoridad sa tiwala, empowerment, at pag-unawa, pinapabuti ng trauma-informed care ang mga resulta at hinihikayat ang mga indibidwal na makibahagi sa kanilang pag-recover.
+</string>
+
+    <string name="trauma_informed_care1"><b>Tiyakin ang pisikal at emosyonal na kaligtasan:</b> Lumikha ng kapaligiran kung saan ang mga indibidwal ay makaramdam ng kaligtasan, kapwa pisikal at emosyonal, upang mapalakas ang tiwala at mabawasan ang pagkabahala.\n<b>Itayo ang tiwala at transparency:</b> Makipag-usap ng malinaw at bukas upang bumuo ng tiwala sa relasyon sa pagitan ng mga tagapag-alaga at mga indibidwal.\n<b>Magbigay ng pagpili at empowerment:</b> Bigyan ang mga indibidwal ng kontrol sa kanilang mga desisyon sa pangangalaga at mag-alok ng mga pagpipilian, na makakatulong sa kanila na makaramdam ng empowerment at paggalang.\n<b>Makipagtulungan at magbahagi ng kapangyarihan:</b> Magtrabaho kasama ng mga indibidwal, igalang ang kanilang awtonomiya at input sa proseso ng paggamot.\n<b>Kilalanin ang kultural, historical, at gender factors:</b> Maging aware sa mga kultural na background at nakaraang karanasan, kabilang ang historical trauma, upang magbigay ng mas personalisadong pangangalaga.\n<b>Unawain ang malawak na epekto ng trauma:</b> Kilalanin na ang trauma ay may iba\'t ibang epekto sa bawat isa at maaaring magkaroon ng malalim na epekto sa emosyonal at pisikal na kalusugan.\n<b>Iwasan ang re-traumatization:</b> Tiyakin na ang mga kasanayan at interaksyon ay hindi hindi sinasadyang nagti-trigger o nagpapalala ng trauma ng isang indibidwal.
+</string>
+
+    <string name="stress_reduction">Ang stress ay natural na tugon ng katawan sa mga nakikitang hamon o banta, na nag-trigger ng paglabas ng mga hormones tulad ng cortisol. Maaari itong makatulong sa pagpapaandar ng maikling-term na aksyon, ngunit ang matagal na stress ay maaaring magdulot ng negatibong epekto tulad ng headaches, iritabilidad, at hirap sa pagtuon. Ang chronic stress ay nagpapataas ng panganib ng mga isyu sa kalusugan tulad ng heart disease at pagkabahala, kayat mahalagang pamahalaan ito nang maayos.
+</string>
+
+    <string name="stress_reduction1"><b>Magpraktis ng mindfulness at meditation:</b> Makilahok sa malalim na paghinga, meditation, o mindfulness exercises upang kalmahin ang isipan at bawasan ang pagkabahala.\n<b>Mag-ehersisyo ng regular:</b> Ang pisikal na aktibidad ay nakakatulong na pababain ang stress hormones tulad ng cortisol at nagpapataas ng endorphins, na nagpapabuti ng mood.\n<b>Matulog ng sapat:</b> Tiyakin ang consistent, restful na pagtulog upang makatulong sa katawan na makabawi at mas mahusay na pamahalaan ang stress.\n<b>Pamahalaan ang oras ng epektibo:</b> Ayusin ang mga gawain, magtakda ng prayoridad, at hatiin ang malalaking gawain sa mas nakakaharap na hakbang upang bawasan ang pakiramdam ng pagiging overburdened.\n<b>Manatiling konektado sa sumusuportang mga tao:</b> Makipag-usap sa mga kaibigan, pamilya, o mga propesyonal upang ibahagi ang iyong mga alalahanin at magaan ang emosyonal na pasanin.\n<b>Makilahok sa mga hobbies:</b> Maglaan ng oras para sa mga aktibidad na nagdudulot ng kasiyahan at relaxation, tulad ng pagbabasa, pagluluto, o paghahardin.\n<b>Kumain ng masustansyang pagkain:</b> Ang balanseng nutrisyon ay maaaring magpabuti ng mood at antas ng enerhiya, na tumutulong sa katawan na makayanan ang stress.\n<b>Iwasan ang labis na caffeine o alkohol:</b> Ang mga substansiyang ito ay maaaring magpataas ng stress at pagkabahala, kaya\'t mahalagang i-consume ang mga ito nang may moderation.\n<b>Magpraktis ng relaxation techniques:</b> Ang progressive muscle relaxation, yoga, o guided imagery ay maaaring makatulong na mag-relax ang katawan at isipan.\n<b>Mag-set ng boundaries:</b> Matutong tumanggi upang maiwasan ang sobrang pag-komit sa sarili at magdagdag ng hindi kinakailangang stress.
+</string>
+
+    <string name="grounding_techniques">Ang mga grounding techniques ay tumutulong sa mga indibidwal na tumuon sa kasalukuyang sandali sa pamamagitan ng paggamit ng kanilang mga pandama, tulad ng panghawak o paningin, upang pamahalaan ang pagkabahala o stress. Mahalaga ang mga teknik na ito dahil binabawasan nila ang labis na emosyon at ibinabalik ang pakiramdam ng kontrol sa mga sandali ng pagkapagod, na tumutulong sa mga indibidwal na manatiling kalmado at malinaw ang isipan.
+</string>
+
+    <string name="grounding_techniques1">Narito ang ilang karaniwang teknik sa pag-grounding:\n\n<b>5-4-3-2-1 na teknik:</b> Tukuyin ang limang bagay na maaari mong makita, apat na bagay na maaari mong hawakan, tatlong bagay na maaari mong marinig, dalawang bagay na maaari mong naamoy, at isang bagay na maaari mong tikman.\n<b>Malalim na paghinga:</b> Magtuon sa mabagal at malalim na paghinga upang pakalmahin ang isipan at katawan.\n<b>Hawakan ang isang bagay na may texture:</b> Hawakan ang isang bagay na may natatanging texture (tulad ng bato o tela) upang dalhin ang pansin sa pakiramdam.\n<b>Magbilang pabalik:</b> Magsimula mula sa 100 at magbilang pabalik upang ilihis ang pansin mula sa nakakagambalang mga iniisip.\n<b>Galawin ang iyong katawan:</b> Mag-stretch, maglakad, o makilahok sa magaan na pisikal na aktibidad upang magtuon sa mga sensasyon ng katawan.\n<b>Ilarawan ang iyong paligid:</b> Pasalita na ilarawan ang nakikita mo sa paligid upang makatulong na manatili sa kasalukuyang sandali.\n<b>Kurutin at bitawan:</b> Ibanat at pagkatapos ay bitawan ang iba\'t ibang mga grupo ng kalamnan upang magtuon sa mga pisikal na sensasyon.\n<b>Mag-recite ng mantra:</b> Ulitin ang isang nakakalma na parirala o kumpirmasyon upang ilihis ang pansin mula sa pagkabahala patungo sa isang positibong pag-iisip.\n<b>Magbasa ng malamig na tubig sa iyong mukha:</b> Gumamit ng iyong pandama sa paghawak at temperatura upang dalhin ang agarang kamalayan sa iyong katawan.\n<b>Makinig sa musika:</b> Magpatugtog ng nakakapagpakalma o pamilyar na musika upang ilihis ang pansin mula sa labis na emosyon.\n<b>Lasahan ang isang maliit na snack:</b> Magtuon sa lasa at texture ng pagkain o inumin upang kumonekta muli sa kasalukuyang sandali.\n<b>Sumulat sa isang journal:</b> I-express ang iyong mga iniisip o ilarawan ang iyong paligid upang makibahagi ang iyong isipan.\n<b>Iguhit ang iyong kamay:</b> Gumamit ng isang daliri upang iguhit ang outline ng iyong kamay habang nagtuon sa sensasyon ng paghawak.\n<b>Gumamit ng grounding phrase:</b> Ulitin sa iyong sarili, “Ako ay narito, ako ay ligtas, ako ay may kontrol,” upang tiyakin ang iyong pakiramdam ng katatagan.\n<b>Visualize ang isang ligtas na lugar:</b> Isipin ang isang mapayapa o ligtas na lugar at magtuon sa mga detalye upang lumikha ng pakiramdam ng kapayapaan.\n
+</string>
+
+    <string name="bleeding">Ang bleeding ay tumutukoy sa pagkawala ng dugo mula sa sistema ng sirkulasyon, karaniwang sanhi ng pinsala sa mga daluyan ng dugo. Maaaring mangyari ito sa loob ng katawan, kung saan ang dugo ay tumatagas mula sa mga daluyan ng dugo sa loob ng katawan, o sa labas sa pamamagitan ng isang pagputol sa balat o iba pang mga pagbubukas ng katawan tulad ng bibig o ilong. Mayroong 3 uri ng pagdurugo:
+</string>
+
+    <string name="bleeding1">Ito ang pinaka-mahina na anyo ng pagdurugo, na nailalarawan sa pamamagitan ng mabagal na pagtagas ng dugo mula sa maliliit na daluyan (capillaries). Karaniwan itong nangyayari mula sa maliliit na sugat at abrasions. Kadalasan ay humihinto ito sa sarili o sa minimal na first aid.
+</string>
+
+    <string name="bleeding2">Sa uri na ito, ang dugo ay dumadaloy ng tuloy-tuloy at mas madilim ang kulay dahil sa mas mababang nilalaman ng oxygen. Bagaman kadalasang mas mababa ang tindi kaysa sa arterial bleeding, maaari pa rin itong magresulta sa makabuluhang pagkawala ng dugo kung hindi agad na makokontrol.
+</string>
+
+    <string name="bleeding3">Ito ang pinaka-matinding uri ng pagdurugo, kung saan ang dugo ay sumabog nang malakas sa ritmo ng tibok ng puso. Ang dugo ay maliwanag na pula dahil sa mataas na nilalaman ng oxygen. Ang arterial bleeding ay maaaring magdulot ng panganib sa buhay at nangangailangan ng agarang medikal na atensyon.
+</string>
+
+    <string name="capillaries_bleeding"><b>Linisin ang sugat:</b> Hugasan ang lugar ng dahan-dahan gamit ang sabon at tubig upang maiwasan ang impeksyon.\n<b>Maglagay ng sterile na dressing o band-aid:</b> Ilagay ang isang malinis na bendahe o adhesive strip sa sugat upang protektahan ito.\n<b>Direktang pressure (kung kinakailangan):</b> Kung mabagal ang pagdurugo, maglagay ng magaan na pressure upang makontrol ito.\n<b>Subaybayan para sa impeksyon:</b> Ang capillary bleeding ay kadalasang minor, ngunit tiyakin na suriin para sa mga senyales ng impeksyon tulad ng pamumula o pamamaga habang ang sugat ay naghihilom.\n
+</string>
+
+    <string name="venous_bleeding"><b>Direktang pressure:</b> Maglagay ng matatag, consistent na pressure gamit ang sterile na tela o bendahe.\n<b>Itataas ang pinsala:</b> Kung ang pagdurugo ay mula sa paanan, itaas ito ng higit sa antas ng puso upang pabagalin ang pagdurugo.\n<b>Subaybayan at kontrolin ang pagdurugo:</b> Magpatuloy sa paglalagay ng pressure hanggang sa huminto ang pagdurugo. Palitan ang dressing kung ito ay nababasa, ngunit subukang iwasan ang pag-abala sa proseso ng clotting sa pamamagitan ng hindi kinakailangang pag-aangat ng bendahe.\n<b>Humingi ng medikal na atensyon:</b> Kung ang pagdurugo ay malakas o hindi humihinto sa pressure, humingi ng tulong medikal.\n
+</string>
+
+    <string name="arterial_bleeding"><b>Agarang pressure:</b> Maglagay ng direktang, matatag na pressure sa sugat gamit ang sterile na tela o dressing upang subukang kontrolin ang pagdurugo.\n<b>Gumamit ng tourniquet:</b> Kung ang pressure ay hindi humihinto sa pagdurugo at ito ay nasa paanan, gumamit ng tourniquet sa itaas ng sugat (sa pagitan ng puso at pinsala) kung ikaw ay sinanay na gawin ito.\n<b>Tumawag para sa emergency na tulong:</b> Ang uri ng pagdurugo na ito ay maaaring magdulot ng panganib sa buhay, kaya\'t tumawag para sa emergency medical services agad.\n<b>Panatilihing kalmado at nakahiga ang tao:</b> Upang mabawasan ang kaba, panatilihing hindi gumagalaw at nakahiga ang nasugatang tao kung posible.\n
+</string>
+
+    <string name="snake_bite">Ang kagat ng ahas ay nangyayari kapag ang isang ahas ay pumipinsala sa balat gamit ang mga pangil nito, na nag-i-inject ng venom sa ilang mga kaso. Ang mga kagat ng ahas ay maaaring mag-iba nang malaki sa tindi, depende sa uri ng ahas, kung ang venom ay nai-inject, at ang laki o kalusugan ng taong nakagat. Mayroong 2 uri ng Kagat ng Ahas:
+</string>
+
+    <string name="dry_bite">Ito ay nangyayari kapag ang ahas ay sumalakay ngunit hindi nag-i-inject ng venom. Bagaman masakit at nakakabahala, ang dry bites ay kadalasang hindi nagdudulot ng makabuluhang pinsala maliban sa lokal na sakit o maliit na pamamaga.
+</string>
+
+    <string name="venomous_bite">Ang mga kagat na ito ay kinasasangkutan ng pag-i-inject ng venom, na maaaring magkaroon ng ibat ibang epekto depende sa uri ng ahas. Ang mga venomous snakebites ay mas mapanganib at nangangailangan ng agarang medikal na atensyon.
+</string>
+
+    <string name="dry_bite1"><b>Panatilihing kalmado:</b> Ang kagat ay maaari pa ring maging masakit, ngunit walang venom na magdudulot ng seryosong pinsala.\n<b>Linisin ang sugat:</b> Gamitin ang sabon at tubig upang linisin ang lugar ng kagat upang mabawasan ang panganib ng impeksyon.\n<b>Maglagay ng bendahe:</b> Takpan ang sugat ng malinis na bendahe upang protektahan ito mula sa karagdagang pang-irritasyon.\n<b>Subaybayan ang lugar:</b> Kung may pamamaga o hindi pangkaraniwang sintomas, humingi ng medikal na payo para sa kaso ng venom na nai-inject ngunit ang epekto ay naantala.\n
+</string>
+
+    <string name="venomous_bite1"><b>Panatilihing kalmado at hindi gumagalaw:</b> Ang paggalaw ay maaaring magpalaganap ng venom nang mas mabilis sa katawan. Subukang limitahan ang aktibidad hanggat maaari.\n<b>Tumawag ng emergency services agad:</b> Ang mga venomous bites ay nangangailangan ng propesyonal na medikal na paggamot, kadalasang antivenom.\n<b>Panatilihing ang lugar ng kagat sa ilalim ng puso:</b> Nakakatulong ito na pabagalin ang pagkalat ng venom.\n<b>Alisin ang masisikip na damit at alahas:</b> Dahil maaaring mangyari ang pamamaga, alisin ang anumang maaaring maging mahigpit.\n<b>Imobilisahin ang naapektadong lugar:</b> Gumamit ng splint upang panatilihing hindi gumagalaw ang limb kung ang kagat ay nasa isang binti o braso.\n<b>Maglagay ng malinis na bendahe:</b> Ilagay ang maluwag na bendahe sa ibabaw ng kagat ngunit iwasan ang paggamit ng tourniquet, dahil maaari itong magpigil sa daloy ng dugo at magdulot ng karagdagang pinsala.\n<b>Huwag sipsipin ang venom:</b> Ang pamamaraang ito na outdated ay maaaring magdulot ng higit pang pinsala kaysa sa kabutihan at hindi epektibo.\n
+</string>
+
+    <string name="snake_bite1">Ang mga pangunahing hakbang sa first-aid ay karaniwang pareho: imobilisahin ang tao, manatiling kalmado, at humingi ng medikal na atensyon agad. Ang paggamot sa ospital ay nakasalalay sa partikular na ahas at venom, kadalasang kinabibilangan ng antivenom o sumusuportang pangangalaga. Huwag subukang hulihin o patayin ang ahas. Sa halip, kung maaari, kumuha ng larawan o tandaan ang hitsura nito para sa pagkakakilanlan ng mga propesyonal sa medikal.
+</string>
+
+    <string name="sprain">Ang sprain ay isang pinsala sa isang ligament, na siyang tisyu na nag-uugnay sa dalawang buto sa isang kasukasuan. Nangyayari ang mga sprains kapag ang isang ligament ay naiinat o napupunit dahil sa labis na puwersa, tulad ng pag-twist, pagbagsak, o impact sa kasukasuan. Ang mga pinakakaraniwang lokasyon para sa mga sprains ay ang mga bukung-bukong, tuhod, pulso, at mga hinlalaki. Mayroong mga antas ng tindi ang sprain:
+</string>
+
+    <string name="grade_1_sprain">Ang Grade 1 na sprain ay ang pinakakaunti na anyo ng sprain, na kinasasangkutan ng bahagyang pag-abot o mikroskopikong pagluwa ng ligament. Ang ligament ay nananatiling buo, ngunit ito ay na-extend nang lampas sa normal na saklaw ng paggalaw.</string>
+
+    <string name="grade_1_sprain_symptoms">■Banayad na sakit\n■Pamamaga\n■Pagkatigik sa paligid ng kasukasuan, ngunit karaniwang walang instability. Maaari mo pa ring suportahan ang kasukasuan, ngunit maaaring medyo hindi komportable.</string>
+
+    <string name="grade_2_sprain">Ang Grade 2 na sprain ay mas seryoso at kinapapalooban ng bahagyang pagputol ng ligament. Ang mga fiber ng ligament ay nasira ngunit hindi ganap na naputol, na nagreresulta sa ilang pagkawala ng pag-andar ng kasukasuan at katatagan.</string>
+
+    <string name="grade_2_sprain_symptoms">■Katamtaman hanggang sa makabuluhang sakit\n■Pamamaga\n■Pagkakabruise sa paligid ng kasukasuan.\n■Maaaring maging limitado ang paggalaw ng kasukasuan, at ang tao ay maaaring makaramdam ng ilang instability o kahirapan sa pagbuo ng timbang sa kasukasuan.</string>
+
+    <string name="grade_3_sprain">Ang Grade 3 na sprain ay ang pinaka-masakit na uri, na kinapapalooban ng kumpletong pagputol o pagkaputol ng ligament. Ang ligament ay hindi na nagbibigay ng anumang katatagan sa kasukasuan, at ang kasukasuan ay maaaring pakiramdam na ganap na hindi matatag o hindi gumagana.</string>
+
+    <string name="grade_3_sprain_symptoms">■Matinding sakit (bagaman minsan ay mas kaunti ang sakit kung ang ligament ay ganap na naputol)\n■Malubhang pamamaga\n■Pagkakabruise\n■Kumpletong pagkawala ng pag-andar ng kasukasuan (Ang tao ay karaniwang hindi makapagbuo ng timbang sa kasukasuan, at ang kasukasuan ay pakiramdam na napaka-unstable).</string>
+
+    <string name="grade_1_sprain1"><b>Pahinga:</b> Iwasan ang mga gawain na maaaring magdulot ng strain sa kasukasuan sa loob ng ilang araw upang magbigay-daan sa pagpapagaling.\n<b>Yelo:</b> Maglagay ng yelo sa naapektuhang lugar ng 15-20 minuto bawat 1-2 oras sa loob ng unang 48 oras upang mabawasan ang pamamaga at sakit.\n<b>Compression:</b> Gumamit ng elastic bandage upang i-wrap ang nasugatang kasukasuan upang limitahan ang pamamaga ngunit huwag masyadong masikip upang hindi makuha ang sirkulasyon.\n<b>Elevation:</b> Panatilihing nakataas ang nasugatang kasukasuan sa itaas ng antas ng puso hangga\'t maaari upang mabawasan ang pamamaga.\n<b>Pagpapagamot ng sakit:</b> Maaari kang uminom ng ibuprofen o acetaminophen upang pamahalaan ang sakit at pamamaga.\n<b>Magaan na ehersisyo:</b> Pagkatapos ng ilang araw, magsimula ng magaan na galaw ng ehersisyo upang maiwasan ang paninigas, ngunit iwasan ang anumang bagay na nagdudulot ng sakit.\n</string>
+
+    <string name="grade_2_sprain1"><b>Pahinga:</b> Iwasan ang mga gawain na maaaring magdulot ng strain sa kasukasuan sa loob ng ilang araw upang magbigay-daan sa pagpapagaling.\n<b>Yelo:</b> Maglagay ng yelo sa naapektuhang lugar ng 15-20 minuto bawat 1-2 oras sa loob ng unang 48 oras upang mabawasan ang pamamaga at sakit.\n<b>Compression:</b> Gumamit ng elastic bandage upang i-wrap ang nasugatang kasukasuan upang limitahan ang pamamaga ngunit huwag masyadong masikip upang hindi makuha ang sirkulasyon.\n<b>Elevation:</b> Panatilihing nakataas ang nasugatang kasukasuan sa itaas ng antas ng puso hangga\'t maaari upang mabawasan ang pamamaga.\n<b>Immobilization:</b> Maaaring kailanganin ang kasukasuan na i-immobilize gamit ang brace o splint para sa suporta habang nagpapagaling.\n<b>Physical Therapy:</b> Kapag ang sakit at pamamaga ay bumaba na, maaaring kailanganin ang guided physical therapy upang maibalik ang paggalaw, lakas, at katatagan ng kasukasuan.\n<b>Pamamahala ng sakit:</b> Ang mga non-steroidal anti-inflammatory drugs (NSAIDs) ay makakatulong sa sakit at pamamaga.\n<b>Panahon ng pagbawi:</b> Ang isang katamtamang sprain ay maaaring tumagal ng ilang linggo (4-6 linggo) upang ganap na magpagaling.\n</string>
+
+    <string name="grade_3_sprain1"><b>Agad na medikal na atensyon:</b> Ang malubhang sprain ay madalas na nangangailangan ng propesyonal na pangangalaga sa medisina, kasama na ang diagnostic imaging tulad ng X-ray o MRI upang masuri ang pinsala sa ligament.\n<b>Immobilization o operasyon:</b> Maaaring kailanganin na i-immobilize ang kasukasuan sa mas mahabang panahon, at sa ilang mga kaso, maaaring kailanganin ang operasyon upang ayusin ang naputol na mga ligament.\n<b>Rehabilitation:</b> Ang physical therapy ay magiging mahalaga upang maibalik ang buong pag-andar, na maaaring tumagal ng ilang buwan.\n<b>Iwasan ang mga weight-bearing na gawain:</b> Gumamit ng crutches o iba pang mobility aids upang iwasan ang paglalagay ng timbang sa nasugatang kasukasuan.\n<b>Long-term na pamamahala:</b> Kahit pagkatapos ng pagpapagaling, maaaring kailanganin ang patuloy na ehersisyo upang palakasin ang kasukasuan at mapanatili ang flexibility upang maiwasan ang mga susunod na pinsala.\n</string>
+
+    <string name="sprain1">Ang bawat grado ay nangangailangan ng ibat ibang antas ng pangangalaga at pagbawi. Habang ang Grade 1 sprains ay madalas na gumagaling sa simpleng first aid, ang Grade 2 at 3 sprains ay maaaring mangailangan ng medikal na interbensyon at rehabilitasyon upang matiyak ang tamang pagbawi.</string>
+
+    <string name="nose_bleed">Ang nosebleed ay ang pagkawala ng dugo mula sa tissue lining sa loob ng ilong. Maaaring mangyari ito kapag ang maliliit na daluyan ng dugo sa ilong ay napuputol dahil sa trauma, iritasyon, tuyong hangin, o iba pang mga sanhi. Ang nosebleeds ay karaniwan at sa pangkalahatan ay hindi seryoso.</string>
+
+    <string name="nose_bleed1"><b>Manatiling kalmado:</b> Panatilihing kalmado ang sarili o ang tao upang maiwasan ang pagtaas ng presyon ng dugo, na maaaring magpalala ng pagdurugo.\n<b>Sumandal at yumuko:</b> Ito ay tumutulong upang maiwasan ang paglunok ng dugo, na maaaring magdulot ng iritasyon sa tiyan o magdulot ng pagkatirik. Ang pagyuko ay nagpapahintulot sa dugo na dumaloy palabas ng ilong.\n<b>Pinch ang ilong:</b> Gamitin ang iyong hinlalaki at index finger, pinch ang malambot na bahagi ng ilong sa ibaba ng nasal bridge. Hawakan ito ng mga 10-15 minuto nang walang pagka-abala.\n<b>Huminga sa bibig:</b> Magpatuloy na huminga sa bibig habang pinipiga ang ilong.\n<b>Cold compress:</b> Maglagay ng malamig na compress sa tulay ng ilong upang magpigil ng mga daluyan ng dugo at makatulong sa pagbagal ng pagdurugo.\n<b>Iwasan ang pagpapasinga ng ilong:</b> Kapag huminto na ang pagdurugo, iwasan ang pagpapalabas o pagpipiga ng ilong, dahil ito ay maaaring magsimula muli ng pagdurugo.\n</string>
+
+    <string name="nose_bleed2">Tumawag sa iyong Lokal na Hotline o Maghanap ng Propesyonal na Tulong kung ang pagdurugo ay tumatagal ng higit sa 20 minuto, madalas na nangyayari, o kung ito ay nangyari pagkatapos ng isang pinsala sa ulo o dahil sa isang makabuluhang trauma.</string>
+
+    <string name="minor_concussion">Ang minor concussion ay isang banayad na anyo ng traumatic brain injury na nangyayari kapag ang utak ay nayanig sa loob ng bungo dahil sa isang suntok o jolt sa ulo o katawan. Bagaman ang minor concussion ay mas mababa ang tindi kaysa sa ibang mga uri ng pinsala sa utak, ito ay pansamantalang nakakaapekto pa rin sa pag-andar ng utak. Ang mga sintomas ay maaaring tumagal ng ilang oras hanggang sa ilang araw.</string>
+
+    <string name="minor_concussion_symptoms">■Sakit ng ulo\n■Pagkahilo o pakiramdam ng lightheaded\n■Pagkahilo o pagsusuka\n■Pagkalito o disorientation\n■Sensitivity sa liwanag o tunog\n■Malabong paningin\n■Kahirapan sa pagtuon o pag-alala\n■Pagkapagod o drowsiness\n</string>
+
+    <string name="minor_concussion1"><b>Pahinga at pagmamasid:</b> Mahalaga ang pahinga para sa pagpapagaling. Iwasan ang mga pisikal na aktibidad o anumang bagay na nangangailangan ng matinding mental na pokus, tulad ng pagbabasa o paggamit ng computer. Ang tao ay dapat na pagmamasdan ng 24-48 oras pagkatapos ng pinsala upang matiyak na ang mga sintomas ay hindi lumalala.\n<b>Limitahan ang oras sa screen:</b> Iwasan ang paggamit ng mga electronic device tulad ng mga telepono, tablet, o computer, dahil maaari nitong palalain ang mga sintomas tulad ng sakit ng ulo at kahirapan sa pagtuon.\n<b>Iwasan ang mga isports at matinding aktibidad:</b> Ang mga pisikal na aktibidad, lalo na ang contact sports, ay dapat iwasan hanggang sa makuha ang clearance mula sa isang tagapagbigay ng pangangalagang pangkalusugan, dahil maaari itong magdulot ng karagdagang pinsala o komplikasyon.\n<b>Manatili sa isang tahimik at madilim na kapaligiran:</b> Ang malalakas na tunog o maliwanag na ilaw ay maaaring magpalala ng mga sintomas. Subukang magpahinga sa isang tahimik at madilim na silid.\n<b>Gradwal na pagbalik sa normal na aktibidad:</b> Kapag nagsimulang gumanda ang mga sintomas, dahan-dahang ibalik ang mga pangaraw-araw na aktibidad, ngunit itigil kung lumalala ang mga sintomas. Bumalik sa buong pisikal na aktibidad lamang pagkatapos makakuha ng clearance mula sa isang tagapagbigay ng pangangalagang pangkalusugan.\n</string>
+
+    <string name="minor_concussion2">Tumawag sa iyong Lokal na Hotline kung ang mga sintomas ay lumalala sa paglipas ng panahon, tulad ng lumalalang sakit ng ulo o kalituhan, pagsusuka, pagkakaroon ng seizure, o pagkawala ng kamalayan, makabuluhang pagkaantok o kakulangan sa pagiging gising, kahirapan sa pagsasalita o paglalakad, patuloy o lumalalang sintomas pagkatapos ng ilang araw. Kahit na may minor concussion, mahalaga na seryosohin ang mga sintomas, magpahinga, at kumonsulta sa isang tagapagbigay ng pangangalagang pangkalusugan upang matiyak ang kumpletong pagpapagaling.</string>
+
+    <string name="headache">Ang headache ay isang sakit o hindi komportable sa ulo, anit, o leeg. Maaari itong sanhi ng ibat ibang mga kadahilanan, kabilang ang stress, dehydration, tensyon sa kalamnan, o mga nakatagong kondisyon sa medisina. Ang sakit ng ulo ay karaniwan at maaaring mag-iba mula sa banayad hanggang sa malubha.</string>
+
+    <string name="headache1"><b>Pahinga:</b> Hanapin ang isang tahimik, madilim na silid upang magpahinga at mag-relax. Ang pagbabawas ng sensory input ay maaaring makatulong na mapawi ang sakit.\n<b>Hydration:</b> Uminom ng tubig, lalo na kung ang dehydration ay maaaring sanhi.\n<b>Over-the-counter na mga gamot:</b> Ang mga gamot tulad ng acetaminophen, ibuprofen, o aspirin ay maaaring makatulong na maibsan ang sakit ng ulo.\n<b>Cold o warm compress:</b> Gumamit ng malamig na compress sa noo o mainit na compress sa likod ng leeg, depende sa kung ano ang pakiramdam mo ay mas mabuti.\n<b>Relaxation techniques:</b> Ang malalim na paghinga, pagmumuni-muni, o magaan na pag-stretch ay maaaring makatulong na mapawi ang tensyon sa sakit ng ulo.\n<b>Iwasan ang mga triggers:</b> Magbigay pansin sa mga posibleng trigger ng sakit ng ulo, tulad ng stress, ilang pagkain, o kakulangan sa tulog, at subukang bawasan ang pagkakalantad.\n</string>
+
+    <string name="headache2">Kung ang sakit ng ulo ay nagiging madalas o partikular na malubha, mahalagang kumonsulta sa isang tagapagbigay ng pangangalagang pangkalusugan upang maalis ang mga nakatagong isyu.</string>
+
+    <string name="musclecramps">Ang muscle cramps ay biglaan, hindi boluntaryong pag-urong o spasms sa isa o higit pang mga kalamnan, karaniwang nagdudulot ng matinding sakit. Kadalasan itong nangyayari sa mga binti, partikular ang mga calf muscles, ngunit maaari ring makaapekto sa ibang bahagi ng katawan, tulad ng mga kamay, paa, at braso. Ang muscle cramps ay maaaring tumagal mula sa ilang segundo hanggang sa ilang minuto at karaniwan sa panahon ng ehersisyo o sa gabi.</string>
+
+    <string name="cause_musclecramps"><b>Dehydration:</b> Pagkawala ng mga likido at electrolytes (tulad ng sodium, potassium, o magnesium) ay maaaring magdulot ng cramping.\n<b>Labis na paggamit ng mga kalamnan:</b> Ang matinding ehersisyo, lalo na kung ang mga kalamnan ay hindi sanay sa intensidad, ay maaaring mag-trigger ng cramping.\n<b>Mahinang sirkulasyon:</b> Ang nabawasang daloy ng dugo sa mga kalamnan ay maaaring magdulot ng cramping, lalo na sa panahon ng ehersisyo.\n<b>Pagpapanatili ng posisyon ng masyadong mahaba:</b> Ang pag-upo o pagtayo sa isang posisyon ng masyadong mahaba ay maaaring magdulot ng cramping.\n<b>Kakulangan ng nutrients:</b> Kakulangan ng mga mahahalagang mineral tulad ng potassium, calcium, o magnesium ay maaaring magdulot ng cramping.\n</string>
+
+    <string name="musclecramps1"><b>Magaan na pag-stretch:</b> Dahan-dahang i-stretch ang naapektuhang kalamnan. Halimbawa, kung ang iyong calf muscle ay cramping, i-flex ang iyong paa at i-stretch ang calf sa pamamagitan ng paghila ng iyong mga daliri patungo sa iyo.\n<b>Massage:</b> Dahan-dahang i-rub o masahin ang cramped muscle upang makatulong na mag-relax ito.\n<b>Mag-apply ng Heat:</b> Maglagay ng mainit na tuwalya, heating pad, o maligamgam na paliguan upang mag-relax ng mga tight na kalamnan.\n<b>Mag-apply ng Cold:</b> Gumamit ng ice pack sa naapektuhang kalamnan kung ito ay nananatiling sore pagkatapos ng cramp.\n<b>Hydrate:</b> Uminom ng tubig o isang electrolyte-rich na sports drink upang maibalik ang mga likido at mineral na nawala dahil sa dehydration.\n<b>Maglakad o Gumalaw:</b> Ang paglakad sa paligid o dahan-dahang paggalaw ng naapektuhang lugar ay maaaring mapataas ang daloy ng dugo, na makakatulong sa pagpapaginhawa ng cramp.\n<b>Pagpapagamot ng sakit:</b> Kung ang kalamnan ay nananatiling masakit pagkatapos ng cramp, ang mga over-the-counter pain relievers tulad ng ibuprofen o acetaminophen ay maaaring makatulong na mabawasan ang discomfort.\n</string>
+
+    <string name="musclecramps2">Ang muscle cramps ay karaniwang hindi mapanganib at maaaring pamahalaan gamit ang mga hakbang na ito, ngunit kung madalas o malubha, magandang ideya na kumonsulta sa isang propesyonal sa pangangalagang pangkalusugan.</string>
+
+    <string name="blister">Ang blister ay isang maliit na pocket ng likido na nabubuo sa mga itaas na patong ng balat, karaniwang dahil sa friction, init, o kemikal na exposure. Ang mga blister ay nagsisilbing proteksiyon na hadlang, na nagbibigay-daan sa balat sa ilalim nito upang magpagaling. Ang likido sa loob ay karaniwang malinaw, ngunit sa ilang mga kaso, maaari itong maglaman ng dugo kung ang maliliit na daluyan ng dugo ay nasira, o nana kung ang blister ay naging impeksyon.</string>
+
+    <string name="blister_cause"><b>Friction:</b> Ang paulit-ulit na pag-rub sa balat, tulad ng mula sa hindi maayos na sukat ng sapatos, ay maaaring magdulot ng friction blisters.\n<b>Burns:</b> Ang exposure sa init, kasama na ang sunburns, ay maaaring magdulot ng blister formation.\n<b>Kemikal na Exposure:</b> Ang ilang irritants o kemikal ay maaaring magdulot ng blisters kapag nakipag-ugnay sa balat.\n<b>Medical Conditions:</b> Ang ilang kondisyon, tulad ng chickenpox o eczema, ay maaaring magdulot ng blisters bilang bahagi ng kanilang sintomas.\n</string>
+
+    <string name="blister1"><b>Huwag galawin ang blister:</b> Kung maliit at hindi gaanong masakit ang blister, mas mabuti na itong iwan na hindi nagagalaw. Ang blister ay nagsisilbing natural na hadlang sa impeksyon, at ang likido sa loob nito ay tumutulong sa pagpapagaling. Takpan ito ng malinis at maluwag na bandage o blister pad upang maprotektahan mula sa karagdagang pagkikiskis.\n<b>Huwag putukin ng blister:</b> Ang pagpaputok ng blister ay maaaring magpataas ng panganib ng impeksyon. Kung malaki ang blister, masakit, o nasa isang lugar na malamang na pumutok, maaaring kumonsulta sa isang propesyonal sa kalusugan para sa payo.\n<b>Linisin ang lugar:</b> Kung pumutok ang blister, hugasan ang lugar ng sabon at tubig upang mabawasan ang panganib ng impeksyon. Dahan-dahang patuyuin ang lugar at maglagay ng antibiotic ointment upang maprotektahan ang balat.\n<b>Takpan ng bandage:</b> Gumamit ng sterile na bandage o blister pad upang protektahan ang lugar. Palitan ang bandage araw-araw o kung ito ay nabasa o marumi.\n<b>Pagpapagaan ng sakit:</b> Ang mga over-the-counter pain relievers tulad ng ibuprofen ay maaaring makatulong sa pagbawas ng sakit at pamamaga na kaugnay ng blister.\n<b>Obserbahan ang impeksyon:</b> Ang mga palatandaan ng impeksyon ay kinabibilangan ng pamumula, init, pagtaas ng sakit, at dilaw o berdeng likido. Kung lumitaw ang mga sintomas na ito, maghanap ng medikal na atensyon.\n</string>
+
+    <string name="blister2">Ang mga blister ay karaniwang gumagaling nang mag-isa sa loob ng ilang araw, ngunit ang wastong pangangalaga ay makakatulong sa pagpapabilis ng paggaling at pag-iwas sa mga komplikasyon.
+</string>
+
+    <string name="bruise">Ang pasa ay nangyayari kapag ang maliliit na daluyan ng dugo sa ilalim ng balat ay nababasag dahil sa epekto o pinsala, na nagiging sanhi ng pagtagas ng dugo sa paligid na tissue. Ito ay nagiging sanhi ng katangi-tanging itim, asul, o lila na pagbabago ng kulay ng balat. Sa paglipas ng panahon, ang katawan ay nire-reabsorb ang dugo, at unti-unting nawawala ang pasa, na nagbabago ng kulay habang gumagaling.
+</string>
+
+    <string name="bruise1"><b>Magpahinga at protektahan ang nasugatang lugar:</b> Iwasan ang paggamit ng nasugatang lugar upang maiwasan ang karagdagang trauma at bigyan ng oras ang tissue na gumaling.\n<b>Lagyan ng yelo ang pasa:</b> Maglagay ng ice pack (na nakabalot sa tela) sa nasugatang lugar ng 10-20 minuto. Ito ay nakakatulong sa pagbawas ng pamamaga at naglilimita ng laki ng pasa sa pamamagitan ng pag-pigilan sa mga daluyan ng dugo at pagpapabagal ng daloy ng dugo sa lugar. Huwag direktang ilapat ang yelo sa balat, dahil maaari itong magdulot ng frostbite.\n<b>Itaas ang nasugatang lugar:</b> Kung maaari, itaas ang nasugatang lugar sa itaas ng antas ng puso upang mabawasan ang daloy ng dugo at limitahan ang pamamaga.\n<b>Kompressyon:</b> Dahan-dahang i-wrap ang nasugatang lugar gamit ang bandage upang magbigay ng banayad na kompresyon, na makakatulong sa pagbawas ng pamamaga. Siguraduhin na hindi ito masyadong mahigpit upang hindi maapektuhan ang sirkulasyon.\n<b>Pagpapagaan ng sakit:</b> Ang mga over-the-counter pain relievers tulad ng acetaminophen ay maaaring makatulong sa pagbawas ng kakulangan sa ginhawa. Iwasan ang NSAIDs tulad ng ibuprofen o aspirin sa lalong madaling panahon pagkatapos ng pinsala, dahil maaari nilang dagdagan ang pagdurugo.\n<b>Obserbahan ang pasa:</b> Karamihan sa mga pasa ay gumagaling nang mag-isa sa loob ng 1-2 linggo. Gayunpaman, kung ang pasa ay hindi karaniwan na malaki, masakit, o hindi bumubuti, kumonsulta sa isang propesyonal sa kalusugan. Ang madaling pasa o wala pang kilalang sanhi ay maaari ring magpahiwatig ng isang pangunahing isyu sa kalusugan.\n</string>
+
+    <string name="bruise2">Ang mga pasa ay karaniwang hindi mapanganib, ngunit ang pagbibigay pansin sa kanilang paggaling at pag-aalaga sa kanila ng maayos ay makakatulong sa pagbawas ng kakulangan sa ginhawa at pagpapabilis ng paggaling.
+</string>
+
+    <string name="allergic_reaction">Ang isang allergic reaction ay nangyayari kapag ang immune system ay mali na tinuturing ang isang di-nakakapinsalang substansya (allergen) bilang nakakapinsala at labis na tumutugon dito. Ang mga karaniwang allergens ay kinabibilangan ng pollen, pagkain, kagat ng insekto, dander ng alagang hayop, mga gamot, at latex. Ang reaksyon ay maaaring mag-iba mula sa banayad hanggang sa malubha at maaaring makaapekto sa ibat ibang bahagi ng katawan, tulad ng balat, respiratory system, at digestive system.
+</string>
+
+    <string name="mild_symptoms">■Pagbahing, sipon o baradong ilong\n■Mangangati o lumuha ang mga mata\n■Rash, hives (mga umbok at makating welts sa balat)\n■Banayad na pamamaga, karaniwang lokal\n■Ubo, pag-ubo\n</string>
+
+    <string name="severe_symptoms">■Pagkahirapan sa paghinga o kapansanan sa paghinga\n■Pamamaga ng mga labi, dila, o lalamunan\n■Mabilis o mahina na pulso\n■Pagduduwal, pagsusuka, o pagtatae\n■Pagkahilo o paghina\n■Pagkawala ng malay\n■Ang pagkakaroon ng malubhang sintomas ay isang life-threatening emergency na nangangailangan ng agarang medikal na interbensyon.\n</string>
+
+    <string name="mild_symptoms1"><b>Antihistamines:</b> Ang mga over-the-counter antihistamines (tulad ng diphenhydramine o loratadine) ay maaaring makatulong sa pagbawas ng pangangati, pagbahing, at pamamaga.\n<b>Cold compresses:</b> Maglagay ng malamig at mamasa-masang tela sa mga rash o mga lugar na may pamamaga upang mabawasan ang iritasyon.\n<b>Iwasan ang allergen:</b> Kapag natukoy mo kung ano ang nagdulot ng reaksyon (halimbawa, isang tiyak na pagkain o pollen), iwasan ang pagkakalantad sa allergen sa hinaharap.\n<b>Topical creams:</b> Ang hydrocortisone creams o calamine lotion ay makakatulong sa pagpapakalma ng pangangati at iritasyon sa balat.\n</string>
+
+    <string name="severe_symptoms1"><b>Magbigay ng epinephrine auto-injector (halimbawa, EpiPen):</b> Kung ikaw ay nabigyan ng epinephrine auto-injector, gamitin ito kaagad sa unang palatandaan ng malubhang allergic reaction.\n<b>Tumawag sa emergency services:</b> Tumawag ng emergency medical services kaagad pagkatapos magbigay ng epinephrine o kung lumitaw ang malubhang sintomas.\n</string>
+
+    <string name="severe_symptoms2"><b>Pagpoposisyon:</b> Panatilihing nakahiga ang tao na may nakataas na mga binti maliban kung sila ay nahihirapan sa paghinga, sa ganitong kaso dapat silang nakaupo nang tuwid.\n<b>Obserbahan ang paghinga:</b> Kung ang paghinga ay tumigil o ang tao ay nawalan ng malay, magsagawa ng CPR kung ikaw ay sanay hangga\'t dumating ang medikal na tulong.\n</string>
+
+    <string name="allergic_reaction2">Mahalagang kumonsulta sa isang propesyonal sa kalusugan kung ikaw ay nag-aalala sa mga allergy o madalas na nagkakaroon ng allergic reactions. Sa malubhang mga kaso, maaaring kailanganin ang propesyonal na diagnosis at mga reseta ng gamot upang ligtas na pamahalaan ang kondisyon.
+</string>
+
+    <string name="strain">Ang Strain ay isang pinsala sa isang kalamnan o tendon (ang tissue na nag-uugnay ng mga kalamnan sa mga buto), karaniwang dulot ng labis na pag-unat o pagkapunit dahil sa sobrang puwersa o labis na paggamit. Ang strains ay karaniwang nangyayari sa mga lugar tulad ng likod, hamstrings, o balikat at maaaring mangyari sa mga pisikal na aktibidad tulad ng pag-aangat ng mabibigat na bagay, mga isport, o kahit sa biglaang galaw.</string>
+
+    <string name="strain_symptoms">"■Sakit at panghihina sa apektadong kalamnan o tendon
+■Pamamaga, pasa, o pamumula
+■Kahinaan ng kalamnan o kahirapan sa paggalaw ng apektadong lugar
+■Muscle spasms o paminsan-minsan na pag-cramp  "</string>
+    <string name="strain1"><b>Pahinga:</b> Iwasan ang paggamit ng nasugatang kalamnan o tendon upang makapagpahinga ito at magpagaling.\n<b>Yelo:</b> Maglagay ng yelo sa nasugatang lugar ng 15-20 minuto kada 1-2 oras upang mabawasan ang pamamaga at sakit. Siguraduhin na ang yelo ay nakabalot sa isang tela upang maiwasan ang frostbite.\n<b>Compression:</b> Gumamit ng banayad na kompresyon gamit ang bandage upang mabawasan ang pamamaga. Huwag masyadong mahigpit upang hindi maapektuhan ang sirkulasyon.\n<b>Elevate:</b> Itaas ang nasugatang lugar (kung maaari) upang mabawasan ang pamamaga. Panatilihing nakataas ang bahagi na nasugatan upang makatulong sa pagbawas ng pamamaga.\n<b>Pagpapagaan ng sakit:</b> Ang mga over-the-counter pain relievers tulad ng acetaminophen o ibuprofen ay maaaring makatulong sa pagbawas ng sakit at pamamaga.\n<b>Mag-ehersisyo:</b> Kapag ang acute phase ng injury ay nakalipas, unti-unting simulan ang mga banayad na stretching at strengthening exercises upang makatulong sa paggaling at maiwasan ang susunod na pinsala.\n</string>
+
+    <string name="strain2">Ang mga strain ay kadalasang gumagaling sa loob ng ilang linggo sa wastong pangangalaga. Gayunpaman, kung ang sakit ay hindi bumubuti, may mga palatandaan ng malubhang pinsala, o kung kinakailangan ng mas espesyal na pangangalaga, kumonsulta sa isang propesyonal sa kalusugan.
+</string>
+
+
+    <string name="splints">Ang splint ay isang suportadong kagamitan na ginagamit upang mapanatili ang posisyon ng anumang pinaghihinalaang bali sa braso o binti.\n
+        \n<b>Ang splint ay ginagamit upang:</b>\n
+        \n■Magbigay ng ginhawa sa napinsalang bahagi ng katawan.
+        \n■Suportahan ang dulo ng buto sa lugar ng bali. Ang mga dulo ng buto sa lugar ng bali ay napakatalim. Ang splint ay nakakatulong na maiwasan ang paglusob ng buto sa balat, pinsala sa malambot na balat at tisyu, pati na rin ang pagdurugo.
+        \n■Magpadali ng ligtas at maayos na paglipat ng nasugatan.\n
+        \n<b>Mga Uri ng Splint:</b>\n
+        \n■<b>Rigid Splint:</b> Anumang matibay na bagay, tulad ng kahoy o plastik na boards, pamunas, libro o balot na dyaryo, na maaaring gamitin upang i-splint ang bali sa braso o binti.
+        \n■<b>Flexible Splint:</b> Anumang nababaluktot na bagay, tulad ng unan o bed sheet na may maraming tupi. Ang uri na ito ay ginagamit para sa mga bali sa paa, bukung-bukong, at mga kasukasuan.
+    </string>
+
+    <string name="splints1">Narito ang ilang pangkalahatang prinsipyo na dapat sundin kapag naglalagay ng splint:\n
+    </string>
+
+    <string name="splints2">■Tukuyin ang lugar ng bali.\n
+    </string>
+
+    <string name="splints3">■Itigil ang pagdurugo gamit ang mga bandage, ngunit iwasan ang pagdiin sa nasugatang masakit at deformed na lugar.\n
+    </string>
+
+    <string name="splints4">■Sa kaso ng mga bali na kung saan ang mga dulo ng buto ay lumusob sa balat, huwag itulak ang mga dulo pabalik sa lugar dahil magdudulot ito ng pamamaga at matinding pagdurugo.\n
+    </string>
+
+    <string name="splints5">■Panatilihing hindi gumagalaw ang bali na buto (kasama ang mga kasukasuan sa itaas at ibaba ng lugar ng bali) tulad ng nakasaad dito:\n
+\n1. Kung ang lower-arm ay nabali, panatilihing hindi gumagalaw ang mga wrist at elbow joints.\n
+\n2. Kung ang upper-arm ay nabali, panatilihing hindi gumagalaw ang mga balikat at elbow joints.\n
+\n3. Kung ang lower-leg ay nabali, panatilihing hindi gumagalaw ang mga tuhod at bukung-bukong joints.\n
+\n4. Kung ang upper-leg ay nabali, panatilihing hindi gumagalaw ang mga tuhod at femoral joints.\n
+    </string>
+
+    <string name="splints6">■Kung ang nasugatang bahagi ng katawan ay nakabaluktot na may matalim na dulo ng buto na lumusob sa balat, panatilihing hindi gumagalaw ito. I-splint ang limb sa kung ano ang pagkakahanap mo dito upang maging kumportable sa pasyente hangga’t maaari.\n
+    </string>
+
+    <string name="splints7">■Kung tinawag ang isang ambulansya at papunta na, huwag i-splint ang nasugatang limb at hintayin ang ambulansya na gamitin ang kanilang mga espesyal na medical splints.\n
+    </string>
+
+    <string name="insectbite1">Ang kagat o sting ng insekto ay nangyayari kapag ang isang insekto ay kumakagat upang sumipsip ng dugo (halimbawa, mga lamok) o sting bilang mekanismo ng depensa (halimbawa, mga bubuyog o putakti). Karamihan sa mga kagat o sting ng insekto ay nagdudulot ng banayad na reaksyon tulad ng pamumula, pangangati, at pamamaga, ngunit ang ilang tao ay maaaring magkaroon ng mas malubhang allergic reactions.\n
+    </string>
+
+    <string name="insectbite_mild1">■Pamumula at pamamaga sa paligid ng kagat o sting.
+\n■Pangangati o banayad na sakit.
+\n■Maliit na umbok o welts.
+    </string>
+
+    <string name="insectbite_severe1">■Pamamaga ng mukha, labi, o lalamunan.
+\n■Kahirapan sa paghinga o paglunok.
+\n■Pagkahilo o pagkahimatay.
+\n■Hives, rash, o malawak na pangangati.
+    </string>
+
+    <string name="insectbite_mild2"><b>Hugasan ang lugar:</b> Linisin ang lugar ng kagat o sting gamit ang sabon at tubig upang mabawasan ang panganib ng impeksyon.\n
+\n<b>Mag-apply ng cold compress:</b> Gumamit ng malamig na pack o tela na may yelo sa loob ng 10-15 minuto upang mabawasan ang pamamaga at sakit.\n
+\n<b>Uminom ng antihistamines:</b> Ang mga over-the-counter antihistamines (halimbawa, diphenhydramine o loratadine) ay makakatulong sa pagbawas ng pangangati at pamamaga.\n
+\n<b>Gumamit ng hydrocortisone cream:</b> Ang 1% hydrocortisone cream o calamine lotion ay makakatulong sa pagpapakalma ng balat at pagbawas ng pangangati.\n
+\n<b>Iwasan ang pagkamot:</b> Ang pagkamot ay maaaring magdulot ng impeksyon o magpalala ng iritasyon.\n
+    </string>
+
+
+    <string name="insectbite_severe2"><b>Magbigay ng epinephrine auto-injector:</b> Kung ang tao ay may kilalang allergy at may dalang epinephrine auto-injector (EpiPen), gamitin ito agad.
+\n<b>Tawagan ang mga serbisyong pang-emergency:</b> Humingi ng medikal na tulong agad kung ang tao ay nagpapakita ng mga palatandaan ng anaphylaxis, tulad ng kahirapan sa paghinga, pamamaga ng lalamunan, o pagkahilo.\n
+    </string>
+
+    <string name="insectbite_severe3"><b>Subaybayan ang tao:</b> Panatilihing nakahiga at kalmado ang tao habang naghihintay ng tulong pang-emergency.\n
+    </string>
+
+    <string name="insect_sting"><b>Alisin ang stinger (kung mayroon):</b> Kung ikaw ay kinagat ng bubuyog, alisin ang stinger sa lalong madaling panahon gamit ang isang patag na bagay tulad ng credit card o iyong kuko. Iwasan ang paggamit ng tweezers, dahil ang pagpisil sa stinger ay maaaring maglabas ng higit pang lason.
+\n<b>Linisin at mag-apply ng cold compress:</b> Tulad ng mga kagat, linisin ang lugar at mag-apply ng cold compress upang mabawasan ang pamamaga.
+    </string>
+
+    <string name="insect_ticks"><b>Alisin ang tick:</b> Gamitin ang tweezers upang hawakan ang tick malapit sa balat at dahan-dahang hilahin ito palabas. Huwag i-twist o i-crush ang tick.
+\n<b>Obserbahan para sa mga palatandaan ng impeksyon:</b> Pagkatapos alisin ang tick, bantayan ang kagat para sa anumang palatandaan ng impeksyon o rashes. Kung makakita ng rash na parang bullseye o makakaranas ng sintomas ng trangkaso, humingi ng medikal na atensyon, dahil ito ay maaaring senyales ng Lyme disease.
+    </string>
+
+    <string name="insectbite2">Karamihan sa mga kagat at sting ng insekto ay maaaring gamutin gamit ang pangunahing first aid, ngunit sa mga kaso ng malubhang allergic reactions o kagat mula sa mga insekto na nagdadala ng sakit, kinakailangan ang agarang medikal na atensyon.\n
+    </string>
+
+    <string name="basic_sanitation">Maraming mga nakakahawang sakit ang maaaring maipasa mula sa isang tao patungo sa isa pa sa pamamagitan ng kontaminadong mga kamay. Kasama sa mga sakit na ito ang mga gastrointestinal infection, tulad ng salmonellosis, at mga respiratory infection, tulad ng influenza, sipon, at coronavirus (COVID-19). Ang wastong paghuhugas ng mga kamay gamit ang sabon at tubig ay makakatulong upang maiwasan ang pagkalat ng mga mikrobyo (tulad ng bacteria at viruses) na nagdudulot ng mga sakit na ito. Ang ilang anyo ng gastrointestinal at respiratory infections ay maaaring magdulot ng seryosong komplikasyon, lalo na para sa mga bata, matatanda, o ang mga may mahina na immune system.\n
+    </string>
+
+    <string name="basic_sanitation1">Hakbang 1. BASAIN ANG MGA KAMAY NG MAINIT NA TUBIG\n
+    </string>
+
+    <string name="basic_sanitation2">Hakbang 2. MAG-APPLY NG SABON AT HUGASIN ANG MGA KAMAY NG KAHIT 15 SEGUNDO\n
+    </string>
+
+    <string name="basic_sanitation3">I-rub nang mabuti ang mga kamay, takpan ang lahat ng bahagi ng mga kamay, at bigyang pansin ang mga kuko. Gumamit ng likidong sabon at mainit na umaagos na tubig. I-scrub ang mga kuko sa pamamagitan ng pag-rub nito laban sa palad. Sabunin ang likod ng mga kamay, sa pagitan ng mga daliri, at sa ilalim ng mga kuko. I-scrub ang mga kamay ng hindi bababa sa 20 segundo.\n
+    </string>
+
+    <string name="basic_sanitation4">Hakbang 3. BANLAWAN ANG MGA KAMAY NG TUBIG\n
+    </string>
+
+    <string name="basic_sanitation5">Banlawan ang mga kamay ng maigi sa ilalim ng malinis, umaagos na tubig. Tiyakin na lahat ng mga traces ng sabon ay natanggal.\n
+    </string>
+
+    <string name="basic_sanitation6">Hakbang 4. TUKLADIN ANG MGA KAMAY NG MAAYOS GAMIT ANG PAPEL NA TOWEL\n
+    </string>
+
+    <string name="basic_sanitation7">Tuwing tuyo ang mga kamay gamit ang malinis na tuwalya o hayaang matuyo ang mga ito sa hangin. Pinakamainam na gumamit ng papel na tuwalya (o single-use na tela). Tuyuin ang ilalim ng mga singsing, dahil maaari silang maging pinagmumulan ng kontaminasyon kung mananatiling basa. Maaaring gamitin ang hot air driers.\n
+    </string>
+
+    <string name="basic_sanitation8">Hakbang 5. PATAYIN ANG FAUCET Gamit ANG PAPEL NA TOWEL\n
+    </string>
+
+    <string name="basic_sanitation9">Dapat mong hugasan ng maigi ang iyong mga kamay kapag:\n
+\n■pagkatapos gamitin ang banyo
+\n■pagkatapos palitan ang mga lampin
+\n■bago, habang, at pagkatapos maghanda ng pagkain
+\n■sa pagitan ng paghahawak ng hilaw at luto o handa nang kainin na pagkain
+\n■pagkatapos magbunot ng ilong, umubo o bumahing
+\n■pagkatapos gumamit ng tissue o panyo
+\n■bago at pagkatapos mag-alaga sa mga maysakit na bata o ibang mga miyembro ng pamilya
+\n■pagkatapos manigarilyo
+\n■pagkatapos humawak ng basura o magtrabaho sa hardin
+\n■pagkatapos humawak ng mga hayop
+\n■kapag umuwi ka, dumating sa mga bahay ng ibang tao, sa mga lugar o sa trabaho.
+    </string>
+
+    <string name="first_db">Ang first-degree burns ay nakakasira sa panlabas na layer ng iyong balat, kilala bilang epidermis. Karaniwan, ang mga burn na ito ay gumagaling sa kanilang sarili sa loob ng isang linggo. Isang magandang halimbawa ng first-degree burn ay sunburn. Kaya, huwag kalimutan ang iyong tanning lotion.\n
+    </string>
+
+    <string name="second_db">Ang second-degree burns ay nakakasira sa parehong panlabas na layer at ang layer sa ilalim nito, na tinatawag na dermis. Sa mga burn na ito, maaaring kailanganin ang skin graft. Ang skin graft ay isang pamamaraan kung saan ang malusog na balat ay inilipat upang takpan ang burn, na nagpapahintulot sa pag-galing nito.\n
+    </string>
+
+    <string name="third_db">Ang third-degree burns ay mas malubha, dahil sinisira nito ang parehong mga layer ng iyong balat. Ang mga hair follicles, sweat glands, at iba pang mga tisyu ay kadalasang naapektuhan din. Tandaan ang mga skin-grafts na pinag-usapan natin? Kailangan ang mga ito sa third-degree burns.\n
+    </string>
+
+    <string name="burn1">Itigil ang proseso ng pagkasunog sa lalong madaling panahon. Maaaring nangangahulugan ito ng pag-alis ng tao mula sa lugar, pagbuhos ng tubig sa apoy, o pagsupil ng apoy gamit ang kumot. Huwag ilagay ang iyong sarili sa panganib ng pagkasunog din.\n
+    </string>
+
+    <string name="burn2">Alisin ang anumang damit o alahas malapit sa nasunog na bahagi ng balat, kabilang ang mga lampin ng mga sanggol. Ngunit huwag subukang alisin ang anumang bagay na dumikit sa nasunog na balat, dahil maaari itong magdulot ng higit pang pinsala.\n
+    </string>
+
+    <string name="burn3">Palamigin ang burn gamit ang malamig o maligamgam na umaagos na tubig sa loob ng 20 minuto sa lalong madaling panahon pagkatapos ng pinsala. Huwag gumamit ng yelo, iced water, o anumang creams o mataba na substansya tulad ng butter.\n
+    </string>
+
+    <string name="burn4">Panatilihin ang sarili o ang tao na mainit. Gumamit ng kumot o mga patong na damit, ngunit iwasan ang paglalagay nito sa nasugatang bahagi. Ang pagpapanatiling mainit ay makakapigil sa hypothermia, kung saan ang temperatura ng katawan ng tao ay bumaba sa ibaba ng 35°C (95°F). Ito ay panganib kung pinapalamig ang malaking nasunog na lugar, lalo na sa mga batang bata at matatanda.\n
+    </string>
+
+    <string name="burn5">Takpan ang burn ng cling film. Ilatag ang cling film sa ibabaw ng burn, sa halip na iikot ito sa paligid ng limb. Ang malinis, transparent na plastic bag ay maaaring gamitin para sa mga burn sa iyong kamay.\n
+    </string>
+
+    <string name="burn6">Gamot sa sakit mula sa burn gamit ang paracetamol o ibuprofen. Palaging tingnan ang mga tagubilin ng tagagawa kapag gumagamit ng over-the-counter na gamot. Ang mga bata na wala pang 16 taong gulang ay hindi dapat bigyan ng aspirin. Itaas ang apektadong bahagi, kung maaari. Makakatulong ito na mabawasan ang pamamaga.\n
+    </string>
+
+    <string name="burn7">Kapag nasunod mo na ang mga hakbang na ito, kailangan mong magpasya kung kinakailangan pa ang karagdagang medikal na paggamot.\n
+    </string>
+
+    <string name="burn8">Malalaking burns na mas malaki kaysa sa laki ng kamay ng apektadong tao, malalim na burns ng anumang laki na nagdudulot ng puti o na-charred na balat.\n
+    </string>
+
+    <string name="burn9">Pagkasunog sa mukha, leeg, mga kamay, paa, anumang kasukasuan, o genitalia, lahat ng kemikal at elektrikal na pagkasunog, anumang iba pang mga pinsala na nangangailangan ng paggamot</string>
+
+    <string name="burn10">Anumang palatandaan ng shock – ang mga sintomas ay kinabibilangan ng malamig, malagkit na balat, pagpapawis, mabilis, mababaw na paghinga, at panghihina o pagkahilo</string>
+
+    <string name="choking1">Hakbang 1: Kung may choking ang isang tao, hikayatin silang umubo.</string>
+
+    <string name="choking2">Kung ang blockage ay malubha, maaaring humahawak sila sa kanilang dibdib o leeg at hindi makapagsalita, makahinga, o umubo, at kailangan mong tulungan sila.</string>
+
+    <string name="choking3">Hakbang 2: Ibaluktot sila pasulong at bigyan ng hanggang limang palo sa likod upang subukang alisin ang blockage.</string>
+
+    <string name="choking4">Hampasin sila nang matindi sa kanilang likod gamit ang sakong ng iyong kamay sa pagitan ng mga balikat.</string>
+
+    <string name="choking5">Hakbang 3: Kung sila ay patuloy na nasasakal, bigyan ng hanggang limang abdominal thrusts.</string>
+
+    <string name="choking6">Hawakan sa paligid ng baywang at hilahin paitaas at pasulong sa itaas ng kanilang pusod.</string>
+
+    <string name="choking7">Hakbang 4: Kung sila ay patuloy na nasasakal, tawagan ang iyong Lokal na Hotline.</string>
+
+    <string name="choking8">Ulitin ang mga hakbang hanggang sila ay makakahinga muli o hanggang dumating ang tulong.</string>
+
+    <string name="choking9">Hakbang 1: Bigyan ng hanggang limang palo sa likod</string>
+
+    <string name="choking10">Hawakan ang sanggol na nakaharap-pababa sa iyong hita na ang kanilang ulo ay mas mababa kaysa sa kanilang puwit. Ipatong nang matindi ang kanilang likod sa pagitan ng mga balikat ng hanggang limang beses. Kung hindi naalis ang blockage, lumipat sa hakbang 2.</string>
+
+    <string name="choking11">Hakbang 2: Bigyan ng hanggang limang chest thrusts.</string>
+
+    <string name="choking12">Ibaligtad ang sanggol upang sila ay nakaharap pataas. Ilagay ang dalawang daliri sa gitna ng kanilang dibdib sa ilalim ng mga utong. Itulak nang matalim pababa ng hanggang limang beses.</string>
+
+    <string name="choking13">Hakbang 3: Tawagan ang hotline kung ang blockage ay hindi maalis.</string>
+
+    <string name="choking14">Magpatuloy sa mga siklo ng mga palo sa likod at chest thrusts hanggang ang blockage ay maalis, dumating ang tulong o ang sanggol ay maging hindi tumutugon. Kung hindi mo kayang tawagan ang iyong lokal na hotline; hayaang gawin ito ng iba.</string>
+
+    <string name="cpr">Ang CPR (Cardiopulmonary Resuscitation) ay isang pang-emerhensiyang pamamaraan ng pagsagip ng buhay na isinasagawa kapag huminto sa pagtibok ang puso. Ang agarang pag-administer ng CPR ay maaaring doblehin o triplehin ang tsansa ng kaligtasan pagkatapos ng cardiac arrest.
+    </string>
+
+    <string name="cpr1">Hakbang 1: Tawagan ang Ambulansya (I-dial ang iyong Lokal na Hotline)</string>
+
+    <string name="cpr2">Hakbang 2: Ilagay ang tao sa kanilang likod at buksan ang kanilang daanan ng hangin</string>
+
+    <string name="cpr3">Maingat na ilagay ang tao sa kanilang likod at yumuko sa tabi ng kanilang dibdib. Itilt ang kanilang ulo pabalik nang bahagya sa pamamagitan ng pag-angat ng kanilang baba. Buksan ang kanilang bibig at tingnan kung may anumang sagabal, tulad ng pagkain o pagsusuka. Alisin ang anumang sagabal kung ito ay maluwag. Kung hindi ito maluwag, ang pagtatangkang kunin ito ay maaaring magpush pa nito sa daanan ng hangin.</string>
+
+    <string name="cpr4">Hakbang 3: Suriin ang paghinga</string>
+
+    <string name="cpr5">Ilagay ang iyong tainga malapit sa bibig ng tao at makinig ng hindi hihigit sa 10 segundo. Kung hindi mo naririnig ang paghinga, o ikaw ay makarinig ng paminsan-minsan na mga gasps, simulan ang CPR. Kung ang isang tao ay walang malay ngunit humihinga pa, huwag magperform ng CPR. Sa halip, kung wala silang nakikitang pinsala sa gulugod, ilagay sila sa recovery position. Patuloy na suriin ang kanilang paghinga at gawin ang CPR kung sila ay huminto sa paghinga.</string>
+
+    <string name="cpr6">Hakbang 4: Gawin ang chest compressions ng 30 beses</string>
+
+    <string name="cpr7">Ilapat ang isang kamay sa ibabaw ng isa pa at i-clasp ang mga ito nang magkasama. Gamitin ang sakong ng mga kamay at tuwid na siko, itulak nang matindi at mabilis sa gitna ng dibdib, bahagyang sa ilalim ng mga utong. Itulak ng hindi bababa sa 2 pulgada ang lalim. Compress ang kanilang dibdib ng hindi bababa sa 100 beses bawat minuto. Hayaan ang dibdib na tumaas nang buo sa pagitan ng mga compression.</string>
+
+    <string name="cpr8">Hakbang 5: Gumawa ng dalawang rescue breaths</string>
+
+    <string name="cpr9">Siguraduhin na ang kanilang bibig ay malinis, itilt ang kanilang ulo pabalik nang bahagya at itaas ang kanilang baba. Pigilan ang kanilang ilong, ilagay ang iyong bibig ng buong saklaw sa kanilang bibig, at huminga upang mapataas ang kanilang dibdib. Kung ang dibdib ay hindi tumaas sa unang hininga, ibalik ang kanilang ulo. Kung ang dibdib ay hindi pa rin tumataas sa pangalawang hininga, maaaring nagchoke ang tao. Ulitin ang mga hakbang hanggang dumating ang ambulansya.</string>
+
+    <string name="shock">Kung sa tingin mo ang isang tao ay nakatanggap ng electric shock, kailangan mong tiyakin na ang lahat ng pinagmumulan ng kuryente ay na-isolate bago mo magamot ang biktima. Ang aksyon na gagawin mo ay depende sa kung ang panganib ay dulot ng mataas na boltahe o mababang boltahe na kuryente.\n\n■ Mataas na Boltahe\nAng mga overhead power cables ay isang halimbawa ng pinagmumulan ng mataas na boltahe ng kuryente. Ang mataas na boltahe ng kuryente ay may kakayahang tumalon o mag-arc hanggang sa mga distansya ng 18 metro o higit pa. Kung nakatagpo ka ng isang biktima dahil sa, o sa paligid ng, mapanganib na mataas na boltahe ng kuryente, HUWAG LAPITAN! Manatili ng hindi bababa sa 25 metro mula sa biktima hanggang ang kuryente ay mapatay ng isang opisyal na ahensya, tulad ng Electricity Board.\n\n■ Mababang Boltahe\nKung nakatagpo ka ng biktima na nasa proseso ng pagtanggap ng mababang boltahe na electric shock, dapat mong:\nKumilos upang maputol ang koneksyon sa pagitan ng biktima at ng kuryenteng supply. Kung maaari, i-off ang pinagmumulan ng kuryente, sa pamamagitan ng pagpatay ng kuryente sa mains, pag-off ng power sa circuit board, pagtanggal ng plug o paghila ng cable.\n\nKung hindi posible, ilipat ang pinagmumulan ng shock (hal. hairdryer, power tool) mula sa iyo at sa biktima gamit ang isang bagay na may mababang conductivity. Una, tumayo sa isang tuyong insulating na materyal, tulad ng libro, dyaryo o rubber matting. Pagkatapos, gamitin ang isang mahaba, mababang-conductivity na bagay tulad ng kahoy na walis o espesyal na dinisenyong Electric Shock Rescue Hook upang itulak ang pinagmumulan ng kuryente mula sa biktima o ilipat ang mga limbs ng biktima mula sa pinagmumulan ng kuryente.</string>
+
+    <string name="shock1">■ HUWAG hawakan ang biktima kung hindi mo ma-isolate ang mga ito mula sa pinagmumulan ng electrical shock o patayin ang kuryente</string>
+
+    <string name="shock2">■ Ang Biktima ay Tumutugon</string>
+
+    <string name="shock3">1. Tanungin ng "Hello, maaari mo bang marinig ako?" at tawagin ang kanilang pangalan kung alam mo ito.\n2. Tanungin sa parehong tainga ng biktima na buksan ang kanilang mga mata.\n3. Pisilin ang lobe ng tainga o tapikin ang mga balikat.\n4. Sumigaw para sa TULONG!\n5. HUWAG ilipat ang biktima maliban kung ang kapaligiran o sitwasyon ay mapanganib.\nTawagan ang mga serbisyo ng emerhensya ngayon.</string>
+
+    <string name="shock4">■ Hindi Tumutugon ngunit Humihinga</string>
+
+    <string name="shock5">Kung ang biktima ay hindi tumutugon ngunit humihinga nang normal, ilagay ang biktima sa recovery position. Pinapayagan nito ang ulo ng biktima na itago ang dila sa likod ng kanilang lalamunan at ang likod ay manatiling tuwid, upang mabawasan ang panganib ng pag-asa. Panatilihin ang biktima sa recovery position hanggang sa dumating ang mga serbisyo ng emerhensya.</string>
+
+    <string name="shock6">■ Wala nang Paghinga o Pulso</string>
+
+    <string name="shock7">1. Kung ang biktima ay walang paghinga o pulso, magsimula ng chest compressions.\n2. Ilagay ang isang kamay sa ibabaw ng isa pa, at gamitin ang mga kamay upang itulak sa gitnang bahagi ng dibdib, sa ilalim ng mga utong.\n3. Itulak nang mabilis (120 compressions bawat minuto) at malalim (2 pulgada).\n4. Pagkatapos ng 30 compressions, bigyan ang biktima ng 2 rescue breaths.\n5. Magpatuloy ng 30 compressions at 2 rescue breaths hanggang sa dumating ang mga serbisyo ng emerhensya o ang biktima ay maging tumutugon.</string>
+
+    <string name="shock8">■BURNS
+    </string>
+
+    <string name="shock9">■ Ang pagkakalantad sa kuryente ay maaaring magdulot ng pagkasunog sa balat, at sa malubhang kaso, sa mga panloob na organo. Maaaring magdulot ng pagpasok at paglabas na pagkasunog ang kuryente - halimbawa, pumasok sa pamamagitan ng kamay at umalis sa pamamagitan ng mga paa.\n\n■ Para sa mga tumutugon na biktima:\nPalamigin ang mga pagkasunog ng hindi bababa sa 10 minuto sa ilalim ng malamig na tubig.\n\n■ Para sa mga hindi tumutugon na biktima:\nPalamigin ang pagkasunog gamit ang basa na mga benda (o espesyal na mga benda para sa pagkasunog) pagkatapos ilagay sila sa recovery position.\n\n■ HUWAG\n1. Pumutok ng anumang mga blisters\n2. Maglagay ng adhesive dressings\n3. Alisin ang nasirang balat\n4. Maglagay ng mga pamahid/cream\n5. Takpan ng malambot na mga benda\n6. I-tape ang mga benda nang masyadong mahigpit\n7. Maglagay ng mantikilya/taba/margarina o iba pang mga sangkap na karaniwang iniisip na nagpapalamig ng pagkasunog\n8. Alisin ang nasirang damit\n9. Maglagay ng yelo</string>
+
+
+
+    <!-- Quiz Questions -->
+    <string-array name="quiz_questions">
+        <item>Ano ang unang hakbang na dapat gawin kapag nakatagpo ka ng isang tao na nawawalan ng malay ngunit humihinga?</item>
+        <item>Ano ang dapat gawin kung ang isang tao ay nalulunok at hindi makakahinga?</item>
+        <item>Ano ang pangunahing layunin ng paggawa ng CPR?</item>
+        <item>Paano mo dapat gamutin ang isang pagkasunog?</item>
+        <item>Ano ang inirerekomendang paraan upang gamutin ang isang sprain?</item>
+        <item>Ano ang unang bagay na dapat gawin sa kaso ng isang malubhang allergic reaction?</item>
+        <item>Paano mo dapat pamahalaan ang isang sugat na dumudugo?</item>
+        <item>Ano ang pinaka-karaniwang sintomas ng shock?</item>
+        <item>Paano mo gamutin ang nosebleed?</item>
+        <item>Ano ang dapat gawin kung pinaghihinalaan mong may spinal injury ang isang tao?</item>
+    </string-array>
+
+    <!-- Quiz Answers -->
+    <string-array name="quiz_answers_1">
+        <item>Tumawag para sa medikal na tulong</item>
+        <item>Gawin ang CPR</item>
+        <item>Suriin ang kanilang hinihingahan</item>
+        <item>Bigyan sila ng pagkain</item>
+    </string-array>
+    <string-array name="quiz_answers_2">
+        <item>Gawin ang abdominal thrusts</item>
+        <item>Bigyan sila ng tubig</item>
+        <item>Tapikin ang kanilang likod</item>
+        <item>Gawin ang chest compressions</item>
+    </string-array>
+    <string-array name="quiz_answers_3">
+        <item>Upang mag-simula ulit ang puso</item>
+        <item>Upang alisin ang hadlang mula sa hinihingahan</item>
+        <item>Upang i-stabilize ang kondisyon ng pasyente</item>
+        <item>Upang ibalik ang paghinga at sirkulasyon</item>
+    </string-array>
+    <string-array name="quiz_answers_4">
+        <item>Direktang ilapat ang yelo</item>
+        <item>Gamitin ang bandage</item>
+        <item>Palamigin ang pagkasunog gamit ang umaagos na tubig</item>
+        <item>Maglagay ng ointment</item>
+    </string-array>
+    <string-array name="quiz_answers_5">
+        <item>Mag-apply ng init</item>
+        <item>Magpahinga, yelo, compress, at iangat</item>
+        <item>Imasahe ang apektadong lugar</item>
+        <item>Panatilihin ang paggalaw ng kasu-kasuan</item>
+    </string-array>
+    <string-array name="quiz_answers_6">
+        <item>Magbigay ng antihistamines</item>
+        <item>Tumawag sa mga serbisyo ng emergency</item>
+        <item>Maglagay ng malamig na compress</item>
+        <item>Bigyan sila ng tubig</item>
+    </string-array>
+    <string-array name="quiz_answers_7">
+        <item>Iangat at mag-apply ng pressure</item>
+        <item>Linisin gamit ang sabon at tubig</item>
+        <item>Gamitin ang tourniquet</item>
+        <item>Ilapat ang yelo nang direkta</item>
+    </string-array>
+    <string-array name="quiz_answers_8">
+        <item>Lagnat</item>
+        <item>Mabilis na tibok ng puso</item>
+        <item>Pagkahilo</item>
+        <item>Pagkakaroon ng sakit ng ulo</item>
+    </string-array>
+    <string-array name="quiz_answers_9">
+        <item>Iyuko ang ulo pabalik</item>
+        <item>Pisilin ang mga butas ng ilong at yumuko pasulong</item>
+        <item>Maglagay ng yelo sa likod ng leeg</item>
+        <item>Lunukin ang dugo</item>
+    </string-array>
+    <string-array name="quiz_answers_10">
+        <item>Ilipat sila sa komportableng posisyon</item>
+        <item>Panatilihing nakahiga at hindi gumagalaw</item>
+        <item>Hikayatin silang maglakad ng dahan-dahan</item>
+        <item>Maglagay ng mainit na bagay sa apektadong lugar</item>
+    </string-array>
+
+
+    <!-- Correct Answers Indexes -->
+    <integer-array name="correct_answers">
+        <item>0</item> <!-- Answer for Question 1 -->
+        <item>0</item> <!-- Answer for Question 2 -->
+        <item>3</item> <!-- Answer for Question 3 -->
+        <item>2</item> <!-- Answer for Question 4 -->
+        <item>1</item> <!-- Answer for Question 5 -->
+        <item>1</item> <!-- Answer for Question 6 -->
+        <item>0</item> <!-- Answer for Question 7 -->
+        <item>1</item> <!-- Answer for Question 8 -->
+        <item>1</item> <!-- Answer for Question 9 -->
+        <item>1</item> <!-- Answer for Question 10 -->
+    </integer-array>
+
+
+    <string-array name="first_aid_supplies">
+        <item>Adhesive Bandages</item>
+        <item>Sterile Gauze Pads</item>
+        <item>Antiseptic Wipes</item>
+        <item>Medical Tape</item>
+        <item>Elastic Bandages</item>
+        <item>Disposable Gloves</item>
+        <item>CPR Face Shield</item>
+        <item>Tweezers</item>
+        <item>Scissors (Trauma Shears)</item>
+        <item>Instant Cold Packs</item>
+        <item>Hydrocortisone Cream</item>
+        <item>Antibiotic Ointment</item>
+        <item>Pain Relievers</item>
+        <item>Thermometer</item>
+        <item>Emergency Blanket</item>
+    </string-array>
+
+    <string-array name="first_aid_questions">
+        <item>Ano ang ginagamit upang takpan ang maliliit na hiwa o abrasion?</item>
+        <item>Ano ang ginagamit upang linisin ang sugat upang maiwasan ang impeksyon?</item>
+        <item>Ano ang ginagamit upang i-secure ang mga dressing o gauze?</item>
+        <item>Ano ang ginagamit upang magbigay ng suporta sa sprain?</item>
+        <item>Ano ang dapat mong isuot upang maiwasan ang kontak sa dugo o likido ng katawan?</item>
+        <item>Ano ang ginagamit para sa ligtas na mouth-to-mouth resuscitation?</item>
+        <item>Ano ang pinakamahusay na tool para alisin ang mga splinter?</item>
+        <item>Ano ang ginagamit para sa pagputol ng bandages o damit?</item>
+        <item>Ano ang tumutulong upang mabawasan ang pamamaga sa mga pinsala?</item>
+        <item>Ano ang cream na ginagamit para sa paggamot ng mga kagat ng insekto?</item>
+        <item>Ano ang ointment na pumipigil sa impeksyon sa mga hiwa?</item>
+        <item>Ano ang item para sa pagpapagaan ng sakit sa panahon ng emerhensiya?</item>
+        <item>Ano ang device na tumutulong upang sukatin ang lagnat?</item>
+        <item>Ano ang item na nagpapanatili sa isang tao na mainit sa panahon ng shock?</item>
+        <item>Ano ang item na pangunahing ginagamit upang takpan ang mga sugat upang kontrolin ang pagdurugo?</item>
+    </string-array>
+
+
+    <!-- Correct answers index for Level 2 -->
+    <integer-array name="first_aid_correct_answers">
+        <item>0</item> <!-- Adhesive Bandages -->
+        <item>2</item> <!-- Antiseptic Wipes -->
+        <item>3</item> <!-- Medical Tape -->
+        <item>4</item> <!-- Elastic Bandages -->
+        <item>5</item> <!-- Disposable Gloves -->
+        <item>6</item> <!-- CPR Face Shield -->
+        <item>7</item> <!-- Tweezers -->
+        <item>8</item> <!-- Scissors -->
+        <item>9</item> <!-- Instant Cold Packs -->
+        <item>10</item> <!-- Hydrocortisone Cream -->
+        <item>11</item> <!-- Antibiotic Ointment -->
+        <item>12</item> <!-- Pain Relievers -->
+        <item>13</item> <!-- Thermometer -->
+        <item>14</item> <!-- Emergency Blanket -->
+        <item>1</item> <!-- Sterile Gauze Pads -->
+    </integer-array>
+
+    <!-- First Aid Kit Descriptions -->
+    <string name="bandage_description">Ang mga bandage ay mahalaga para sa pagtakip at pagprotekta sa mga sugat. Mainam ang mga ito para sa paggamot ng maliliit na hiwa, abrasion, at paso. Gamitin ang mga ito upang mapanatiling malinis ang mga pinsala at maiwasan ang karagdagang pinsala.</string>
+    <string name="antiseptic_description">Ang mga antiseptic solution ay mahalaga para sa paglilinis ng mga sugat upang maiwasan ang impeksyon. Nakakatulong ang mga ito upang patayin ang mga mikrobyo at bakterya, binabawasan ang panganib ng komplikasyon at pinabilis ang proseso ng pagpapagaling.</string>
+    <string name="gauze_description">Ang mga gauze pad ay ginagamit upang sumipsip ng dugo, likido, at exudate mula sa mga sugat. Mainam ang mga ito para sa pagtakip ng mga sugat, paglalapat ng gamot, at pagbibigay ng proteksyon sa mga nasugatang bahagi.</string>
+    <string name="adhesive_tape_description">Ang adhesive tape ay ginagamit upang i-secure ang mga bandage, gauze, at iba pang dressing sa lugar. Tinitiyak nito na manatiling buo ang mga pangtakip sa sugat at hindi maililipat, na mahalaga para sa epektibong pagpapagaling.</string>
+    <string name="scissors_description">Ang mga medical scissors ay dinisenyo para sa pagputol ng tape, bandage, gauze, at iba pang materyales. Mahalaga ang mga ito para sa mabilis at ligtas na paghahanda ng mga first aid supplies sa panahon ng emerhensiya.</string>
+    <string name="pain_reliever_description">Ang mga pain reliever ay ginagamit upang maibsan ang sakit at kakulangan sa ginhawa na dulot ng mga pinsala. Nakakatulong ang mga ito sa pamamahala ng antas ng sakit at pagpapabuti ng pangkalahatang kaginhawahan ng mga taong nakatamo ng maliliit na pinsala.</string>
+    <string name="thermometer_description">Ang mga thermometer ay ginagamit upang sukatin ang temperatura ng katawan, na mahalaga para sa pagtukoy ng lagnat at iba pang kondisyon sa kalusugan. Ang tumpak na pagkuha ng temperatura ay tumutulong sa pagtatasa ng kalubhaan ng sakit o pinsala.</string>
+    <string name="alcohol_wipes_description">Ang mga alcohol wipes ay ginagamit para sa pagdidisimpekta at paglilinis ng mga sugat. Mahalaga ang mga ito para sa pag-iwas sa impeksyon at pagpapanatili ng isang sterile na kapaligiran sa paggamot ng mga pinsala.</string>
+    <string name="gloves_description">Ang mga medical gloves ay isinusuot upang protektahan ang mga kamay at maiwasan ang kontaminasyon sa panahon ng first aid. Mahalaga ang mga ito para sa pagpapanatili ng kalinisan at kaligtasan kapag nakikitungo sa dugo o iba pang likido ng katawan.</string>
+    <string name="first_aid_manual_description">Ang first aid manual ay nagbibigay ng mga mahalagang tagubilin at gabay para sa paggamot ng mga karaniwang pinsala at medikal na emerhensiya. Isa itong mahalagang mapagkukunan para sa pagtiyak ng wastong pangangalaga sa panahon ng emerhensiya.</string>
+    <string name="cold_compress_description">Ang mga cold compress ay ginagamit upang mabawasan ang pamamaga, mapanatiling numb ang sakit, at gamutin ang mga pasa. Ang paglalapat ng cold compress ay tumutulong sa pamamahala ng sakit at pag-minimize ng epekto ng maliliit na pinsala.</string>
+    <string name="tweezers_description">Ang mga tweezers ay ginagamit para sa pag-aalis ng mga splinter, banyagang bagay, at debris mula sa mga sugat. Ang mga ito ay precision tools na tumutulong sa ligtas na pagkuha ng maliliit na particle mula sa balat.</string>
+    <string name="safety_pins_description">Ang mga safety pins ay versatile tools na ginagamit para sa pag-secure ng mga bandage, dressing, at iba pang first aid supplies. Nakakatulong ang mga ito sa pagpapanatili ng mga materyales sa lugar sa panahon ng pangangalaga sa sugat.</string>
+    <string name="emergency_blanket_description">Ang mga emergency blanket ay nagbibigay ng init sa mga kritikal na sitwasyon, tulad ng pagkakalantad sa malamig na panahon o pagkatapos ng shock. Kompakto ang mga ito at mahalaga para sa mga outdoor at survival na sitwasyon.</string>
+    <string name="mask_description">Ang mga medical mask ay ginagamit upang protektahan laban sa mga airborne particles at bawasan ang panganib ng impeksyon. Mahalaga ang mga ito para sa pagpigil sa pagkalat ng mga sakit sa paghinga at pagtiyak ng kaligtasan sa mga medikal na kapaligiran.</string>
+    <string name="splint_description">Ang splint ay ginagamit upang imobilisa at protektahan ang napinsalang bahagi ng katawan, binabawasan ang paggalaw at iniiwasan ang karagdagang pinsala hanggang sa makuha ang medikal na tulong.</string>
+    <string name="eye_wash_description">Ang eye wash solution ay ginagamit upang banlawan at linisin ang mga mata kapag nalantad sa mga nakakapinsalang sangkap o debris, tumutulong na mabawasan ang iritasyon at maiwasan ang malubhang pinsala sa mata.</string>
+    <string name="hand_sanitizer_description">Ang hand sanitizer ay mabilis at epektibong solusyon para sa pagdidisimpekta ng mga kamay, tinatanggal ang bacteria at virus kapag walang sabon at tubig na magagamit.</string>
+    <string name="cotton_balls_description">Ang cotton balls ay malambot at sumisipsip na kagamitan na ginagamit para sa paglilinis ng sugat, paglalagay ng antiseptics, o iba pang layuning medikal sa first aid kit.</string>
+    <string name="burn_gel_description">Ang burn gel ay ginagamit upang maibsan ang sakit at protektahan ang minor na paso, pinapalamig ang balat at pinapawi ang sakit habang pinipigilan ang impeksyon.</string>
+    <string name="trauma_pad_description">Ang trauma pads ay malalaki at sumisipsip na pads na idinisenyo para kontrolin ang malakas na pagdurugo at protektahan ang malalaking sugat o pinsala.</string>
+    <string name="finger_splint_description">Ang finger splint ay imobilisahin at pinoprotektahan ang napinsalang daliri, tumutulong na mabawasan ang sakit at maiwasan ang karagdagang pinsala habang gumagaling.</string>
+
+
+    <string name="shop_now">Shop Now</string>
+    <string name="kit_image_desc">Description of the first aid kit image</string>
+    <string name="dialog_image_desc">Information icon</string>
+    <string name="topic_icon">Topic Icon</string>
+
+
+    <string name="polangui_rhu_content">Polangui Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="oas_rhu_content">Polangui Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="ligao_city_hospital_content">Polangui Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="duran_hospital_content">Polangui Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+    <string name="ligao_rhu_content">Polangui Rural Health Unit is dedicated to providing comprehensive healthcare services to the community. They offer a range of medical services including general check-ups, emergency care, and specialized treatments. Their team of healthcare professionals is committed to delivering quality care and improving the well-being of their patients.</string>
+
+    //OTHER ONES
+    <string name="start_text">Magsimula</string>
+    <string name="saved">Naka-save</string>
+    <string name="home">Pangunahing Pahina</string>
+    <string name="helpline">Linya ng Tulong</string>
+    <string name="first_aid_kits">KAILANGANG FIRST AID KITS</string>
+    <string name="basic_first_aid">PANGUNAHING FIRST AID</string>
+    <string name="psychological_first_aid">PSIKOLIKAL NA FIRST AID</string>
+    <string name="disaster_management">PAMAMAHALA NG KALAMIDAD</string>
+    <string name="basic_sanitation_t">PANGUNAHING SANITASYON</string>
+    <string name="test_your_knowledge">SUBUKAN ANG IYONG KALAMAN!</string>
+    <string name="safety_preparedness">KALIGTASAN AT &#10;KAHANDAAN</string>
+    <string name="whats_wrong">ANO ANG MALI?</string>
+    <string name="safety_preparedness_t">KALIGTASAN AT KAHANDAAN</string>
+
+
+    <string name="burns_t">PASO</string>
+    <string name="choking_t">SAMID</string>
+    <string name="cpr_t">CPR</string>
+    <string name="splints_t">SPLINTS</string>
+    <string name="seizures_t">SEIZURES</string>
+    <string name="shock_t">SHOCK</string>
+    <string name="bleeding_t">PAGDURUGO</string>
+    <string name="snake_bite_t">TUKLAW NG AHAS</string>
+    <string name="insect_bites_t">KAGAT/STING NG INSEKTO</string>
+    <string name="bruises_t">PASA</string>
+    <string name="sprains_t">SPRAINS</string>
+    <string name="strains_t">STRAINS</string>
+    <string name="nose_bleeds_t">BALINGUYNGUY</string>
+    <string name="allergic_reactions_t">ALLERGIC REACTIONS</string>
+    <string name="headaches_t">SAKIT SA ULO</string>
+    <string name="minor_concussions_t">MINOR CONCUSSIONS</string>
+    <string name="muscle_cramps_t">CRAMP SA MUSCLE</string>
+    <string name="blisters_t">BLISTERS</string>
+
+    <string name="acute_grief_t">PANGUNGULILA</string>
+    <string name="anxiety_management_t">PAMAMAHALA NG ANXIETY</string>
+    <string name="panic_attack_response_t">TUGON SA PANIC ATTACK</string>
+    <string name="trauma_informed_care_t">TRAUMA-\nINFORMED CARE</string>
+    <string name="grounding_techniques_t">GROUNDING TECHNIQUES</string>
+    <string name="stress_reduction_t">PAGBABAWAS NG STRESS</string>
+
+    <string name="floods_t">BAHA</string>
+    <string name="earthquake_t">LINDOL</string>
+    <string name="volcanic_eruption_t">PAGPUTOK NG BULKAN</string>
+    <string name="epidemic_t">EPIDEMYA</string>
+
+    <string name="water_safety_t">KALIGTASAN SA TUBIG</string>
+    <string name="road_safety_t">KALIGTASAN SA DAAN</string>
+    <string name="daily_food_safety_t">DAILY FOOD SAFETY</string>
+    <string name="emergency_food_safety_t">EMERGENCY FOOD SAFETY</string>
+    <string name="heatwave_t">HEATWAVE</string>
+
+    <string name="location_t">Lokasyon</string>
+    <string name="language_t">Wika</string>
+    <string name="credits_t">Pagpapasalamat</string>
+    <string name="suggestions_t">Mga Suhestyon</string>
+
+    <string name="quiz_level">Antas ng Pagsusulit</string>
+
+    <string name="when_symptoms_happen">Kailan nagsimula ang sintomas?</string>
+    <string name="where_pain_originate">Saan nagmumula ang sakit o hindi komportable?</string>
+    <string name="head">Ulo</string>
+    <string name="chest">Dibdib</string>
+    <string name="head_question_1">May sakit ka ba sa ulo?</string>
+    <string name="head_question_2">Ang sakit ba ay nakatutok o nakalat?</string>
+    <string name="head_question_3">Nakararanas ka ba ng pagduduwal?</string>
+    <string name="head_question_4">Mayroon ka bang sensibilidad sa liwanag?</string>
+    <string name="head_question_5">Ang sakit ba sa ulo ay malubha?</string>
+    <string name="head_question_6">Lumalala ba ang sakit kapag aktibo ka?</string>
+    <string name="head_question_7">Nakararanas ka ba ng ganito dati?</string>
+    <string name="head_question_8">Mayroon ka bang mga pagbabago sa paningin?</string>
+    <string name="head_question_9">Mayroon ka bang iba pang sintomas?</string>
+    <string name="head_question_10">Mayroon bang kasaysayan ng sakit sa ulo sa pamilya?</string>
+
+    <string name="chest_question_1">May sakit ka ba sa dibdib?</string>
+    <string name="chest_question_2">Ang sakit ba ay Matulis o Mahina?</string>
+    <string name="chest_question_3">Nagpapakita ba ang sakit sa ibang bahagi?</string>
+    <string name="chest_question_4">Hirap ka na sa paghinga?</string>
+    <string name="chest_question_5">Ang sakit ba ay tuloy-tuloy o pansamantala?</string>
+    <string name="chest_question_6">Nakararanas ka ba ng pagduduwal?</string>
+    <string name="chest_question_7">Ang sakit ba ay kaugnay sa pisikal na aktibidad?</string>
+    <string name="chest_question_8">May kasaysayan ka ba ng anumang malalang kondisyon sa kalusugan?</string>
+    <string name="chest_question_9">Nakararanas ka ba ng pagpapawis/pag-umbok/pag-ubo/pagkalambot?</string>
+    <string name="chest_question_10">Mayroon ka bang iba pang sintomas?</string>
+
+
+    <!-- Pain Locations -->
+    <string name="abdomen">Abdomen</string>
+    <string name="back">Likod</string>
+    <string name="legs">Binti</string>
+    <string name="arms">Braso</string>
+    <string name="joints">Kasukasuan</string>
+    <string name="feet">Paa</string>
+    <string name="neck">Leeg</string>
+    <string name="hands">Kamay</string>
+    <string name="stomach">Tiyan</string>
+
+    <!-- Abdomen Questions -->
+    <string name="abdomen_question_1">Nakakaranas ka ba ng pananakit?</string>
+    <string name="abdomen_question_2">Ang sakit ba ay nakatuon o kalat?</string>
+    <string name="abdomen_question_3">Ang sakit ba ay cramping o matulis?</string>
+    <string name="abdomen_question_4">May kasama bang pagduduwal sa sakit?</string>
+    <string name="abdomen_question_5">May nararamdaman ka ba na pamamaga ng iyong tiyan?</string>
+    <string name="abdomen_question_6">Ang sakit ba ay lumalala kapag gumagalaw?</string>
+    <string name="abdomen_question_7">May pagdurugo ba kapag nagbabawas ka??</string>
+    <string name="abdomen_question_8">Nilalagnat ka ba?</string>
+    <string name="abdomen_question_9">Maayos ba ang pakiramdam mo pakatapos kumain?</string>
+    <string name="abdomen_question_10">Naaapektuhan ba ng sakit ang iyong pang-araw-araw na aktibidad?</string>
+
+
+    <!-- Back Questions -->
+    <string name="back_question_1">May nararanasan ka bang pananakit sa iyong likod?</string>
+    <string name="back_question_2">Ang sakit ba ay nasa itaas o ibabang bahagi ng likod?</string>
+    <string name="back_question_3">Matulis ba o Mahina lang ang sakit na nararamdaman mo?</string>
+    <string name="back_question_4">Ang sakit ba ay kumakalat pababa sa iyong mga binti?</string>
+    <string name="back_question_5">Nakakaramdam ka ba nang panghihina sa iyong binti?</string>
+    <string name="back_question_6">Hirap ka bang lumakad?</string>
+    <string name="back_question_7">Lumalala ba ang sakit kapag Nakatayo o Nakaupo?</string>
+    <string name="back_question_8">Mayroon ka bang mga kamakailang pinsala?</string>
+    <string name="back_question_9">Mayroon bang pangangalay o pamamanhid?</string>
+    <string name="back_question_10">Mayroon ka bang iba pang sintomas tulad ng lagnat o panginginig?</string>
+
+
+    <!-- Legs Questions -->
+    <string name="legs_question_1">Masakit ba ang iyong Binti?</string>
+    <string name="legs_question_2">Masakit ba ang iyong isang binti o pareho?</string>
+    <string name="legs_question_3">Matulis ba o Mahina lang ang sakit na nararamdaman mo?</string>
+    <string name="legs_question_4">May pamamaga ba sa binti?</string>
+    <string name="legs_question_5">Ang sakit ba ay lumalala kapag gumagalaw?</string>
+    <string name="legs_question_6">Mayroon ka bang pamamanhid o pangangalay?</string>
+    <string name="legs_question_7">Nakaranas ka ba ng anumang pinsala sa iyong binti?</string>
+    <string name="legs_question_8">Naaapektuhan ba ng sakit ang iyong paglalakad?</string>
+    <string name="legs_question_9">Mayroon ka bang kasaysayan ng pamumuo ng dugo?</string>
+    <string name="legs_question_10">Mayroong pamumula o init sa binti?</string>
+
+    <!-- Arms Questions -->
+    <string name="arms_question_1">Masakit ba ang iyong braso?</string>
+    <string name="arms_question_2">Masakit ba ang iyong isang braso o pareho?</string>
+    <string name="arms_question_3">Matulis ba o Mahina lang ang sakit na nararamdaman mo</string>
+    <string name="arms_question_4">Mayroong pamamaga sa braso?</string>
+    <string name="arms_question_5">Ang sakit ba ay lumalala kapag gumagalaw?</string>
+    <string name="arms_question_6">Mayroon ka bang pamamanhid o pangangalay?</string>
+    <string name="arms_question_7">Nakaranas ka ba ng anumang pinsala sa iyong braso?</string>
+    <string name="arms_question_8">Naaapektuhan ba ng sakit ang iyong lakas sa pagkagat?</string>
+    <string name="arms_question_9">Mayroon ka bang kasaysayan ng mga problema sa puso?</string>
+    <string name="arms_question_10">Mayroong pamumula o init sa braso?</string>
+
+
+    <!-- Joints Questions -->
+    <string name="joints_question_1">Masakit ba ang iyong kasukasuan?</string>
+    <string name="joints_question_2">Ang sakit ba ay nasa iisang kasukasuan lang o sa marami?</string>
+    <string name="joints_question_3">Ang sakit ba ay lumalala sa aktibidad?</string>
+    <string name="joints_question_4">Mayroong pamamaga sa kasukasuan?</string>
+    <string name="joints_question_5">Ang sakit ba ay tuloy-tuloy o paminsan-minsan?</string>
+    <string name="joints_question_6">Nakaranas ka ba ng anumang kamakailang pinsala?</string>
+    <string name="joints_question_7">Mayroon ka bang kasaysayan ng arthritis?</string>
+    <string name="joints_question_8">Naaapektuhan ba ng sakit ang iyong saklaw ng paggalaw?</string>
+    <string name="joints_question_9">Mayroon ka bang lagnat o panginginig?</string>
+    <string name="joints_question_10">Naaapektuhan ba ng sakit ang iyong pang-araw-araw na aktibidad?</string>
+
+    <!-- Feet Questions -->
+    <string name="feet_question_1">Masakit ba ang iyong paa?</string>
+    <string name="feet_question_2">Isang paa o pareho bang nasakit?</string>
+    <string name="feet_question_3">May pamamaga ba sa paa?</string>
+    <string name="feet_question_4">Ang sakit ba ay lumalala kapag naglalakad?</string>
+    <string name="feet_question_5">Mayroon ka bang pamamanhid o pangangalay?</string>
+    <string name="feet_question_6">Nakaranas ka ba ng anumang pinsala sa iyong paa?</string>
+    <string name="feet_question_7">Naaapektuhan ba ng sakit ang iyong balanse?</string>
+    <string name="feet_question_8">Mayroon ka bang kasaysayan ng diabetes?</string>
+    <string name="feet_question_9">Mayroong pamumula o init sa paa?</string>
+    <string name="feet_question_10">Naaapektuhan ba ng sakit ang iyong pang-araw-araw na aktibidad?</string>
+
+    <!-- Neck Questions -->
+    <string name="neck_question_1">May sakit ka ba sa iyong leeg?</string>
+    <string name="neck_question_2">Matulis ba o Mahina lang ang sakit na nararamdaman mo?</string>
+    <string name="neck_question_3">Ang sakit ba ay kumakalat sa iyong mga braso?</string>
+    <string name="neck_question_4">Mayroong paninigas sa iyong leeg?</string>
+    <string name="neck_question_5">Nakaranas ka ba ng anumang kamakailang pinsala?</string>
+    <string name="neck_question_6">Ang sakit ba ay lumalala kapag gumagalaw?</string>
+    <string name="neck_question_7">Mayroon ka bang pamamanhid o pangangalay?</string>
+    <string name="neck_question_8">Naaapektuhan ba ng sakit ang iyong tulog?</string>
+    <string name="neck_question_9">Mayroon ka bang sakit ng ulo na kasama ng sakit?</string>
+    <string name="neck_question_10">Naaapektuhan ba ng sakit ang iyong pang-araw-araw na aktibidad?</string>
+
+
+    <!-- Hands Questions -->
+    <string name="hands_question_1">Masakit ba ang iyong kamay?</string>
+    <string name="hands_question_2">May sakit ka ba sa isang kamay o pareho?</string>
+    <string name="hands_question_3">Ang sakit ba ay tuloy-tuloy o paminsan-minsan?</string>
+    <string name="hands_question_4">Mayroong pamamaga sa kamay?</string>
+    <string name="hands_question_5">Matulis ba o Mahina lang ang sakit na nararamdaman mo?</string>
+    <string name="hands_question_6">Nakaranas ka ba ng anumang kamakailang pinsala?</string>
+    <string name="hands_question_7">Mayroon ka bang pamamanhid o pangangalay?</string>
+    <string name="hands_question_8">Naaapektuhan ba ng sakit ang iyong pang-araw-araw na aktibidad?</string>
+    <string name="hands_question_9">Mayroon ka bang kasaysayan ng arthritis?</string>
+    <string name="hands_question_10">Mayroong pamumula o init sa kamay?</string>
+
+    <string name="stomach_question_1">May sakit ka ba sa tiyan?</string>
+    <string name="stomach_question_2">Sakit ba ang pakiramdam na Matulis o cramping?</string>
+    <string name="stomach_question_3">Nakararanas ka ba ng pagduduwal o pagsusuka?</string>
+    <string name="stomach_question_4">Patuloy ba o Paminsan-minsan ang sakit?</string>
+    <string name="stomach_question_5">May lagnat ka ba?</string>
+    <string name="stomach_question_6">May pagbabago ka ba sa gana sa pagkain?</string>
+    <string name="stomach_question_7">Nakakaramdam ka ba ng paglobo sa tiyan?</string>
+    <string name="stomach_question_8">Nakararanas ka ba ng pagtatae o constipation?</string>
+    <string name="stomach_question_9">May lambot ba kapag hinahawakan?</string>
+    <string name="stomach_question_10">May iba ka bang sintomas?</string>
+
+
+    <!-- Common Answers -->
+    <string name="yes">Oo</string>
+    <string name="no">Hindi</string>
+    <string name="localized">Nakatuon</string>
+    <string name="diffuse">Kalat</string>
+    <string name="cramping">May cramping</string>
+    <string name="sharp">Matulis</string>
+    <string name="dull">Mahina</string>
+    <string name="one">Isa</string>
+    <string name="both">Pareho</string>
+    <string name="constant">Tuluy-tuloy</string>
+    <string name="intermittent">Paminsan-minsan</string>
+    <string name="upper">Taas na Bahagi</string>
+    <string name="lower">Babang Bahagi</string>
+
+    <!-- Additional Common Answers -->
+    <string name="standing">Nakatayo</string>
+    <string name="sitting">Nakaupo</string>
+    <string name="multiple">Marami</string>
+
+
+    <string name="migraine">Migraine</string>
+    <string name="tension_headache">Tension Headache</string>
+    <string name="concussion">Concussion</string>
+    <string name="meningitis">Meningitis</string>
+    <string name="stroke">Stroke</string>
+
+    <string name="angina">Angina</string>
+    <string name="heart_attack">Heart Attack</string>
+    <string name="gerd">Gastroesophageal Reflux Disease (GERD)</string>
+    <string name="pulmonary_embolism">Pulmonary Embolsim</string>
+    <string name="peptic_ulcer">Peptic Ulcer</string>
+    <string name="asthma">Asthma</string>
+    <string name="muscle_strain">Muscle Strain</string>
+
+    <string name="gastritis">Gastritis</string>
+    <string name="appendicitis">Appendicitis</string>
+    <string name="ibs">Irritable Bowel Syndrome (IBS)</string>
+    <string name="diverticulitis">Diverticulitis</string>
+    <string name="constipation">Constipation</string>
+    <string name="food_poisoning">Food Poisoning</string>
+    <string name="ibd">Inflammatory Bowel Disease (IBD)</string>
+    <string name="celiac_disease">Celiac Disease</string>
+    <string name="lactose_intolerance">Lactose Intolerance</string>
+    <string name="functional_dyspepsia">Functional Dyspepsia</string>
+
+    <string name="herniated_disc">Herniated Disc</string>
+    <string name="spinal_stenosis">Spinal Stenosis</string>
+    <string name="postural_issues">Postural Issues</string>
+    <string name="sciatica">Sciatica</string>
+    <string name="kidney_stones">Kidney Stones</string>
+    <string name="thoracic_outlet_syndrome">Thoracic Outlet Syndrome</string>
+    <string name="degenerative_disc_disease">Degenerative Disc Disease</string>
+    <string name="upper_back_pain">Upper Back Pain</string>
+    <string name="muscle_spasm">Muscle Spasm</string>
+
+    <string name="deep_vein_thrombosis">Deep Vein Thrombosis (DVT)</string>
+    <string name="peripheral_artery_disease">Peripheral Artery Disease (PAD)</string>
+    <string name="varicose_veins">Varicose Veins</string>
+    <string name="cellulitis">Cellulitis</string>
+    <string name="chronic_venous_insufficiency">Chronic Venous Insufficiency</string>
+
+    <string name="tendinitis">Tendinitis</string>
+    <string name="overuse_syndrome">Overuse Syndrome</string>
+    <string name="carpal_tunnel_syndrome">Carpal Tunnel Syndrome</string>
+    <string name="bursitis">Bursitis</string>
+    <string name="swelling">Swelling</string>
+    <string name="nerve_compression">Nerve Compression</string>
+    <string name="frozen_shoulder">Frozen Shoulder</string>
+    <string name="myopathy">Myopathy</string>
+
+    <string name="osteoarthritis">Osteoarthritis</string>
+    <string name="rheumatoid_arthritis">Rheumatoid Arthritis</string>
+    <string name="gout">Gout</string>
+    <string name="psoriatic_arthritis">Psoriatic Arthritis</string>
+    <string name="ligament_sprain">Ligament Sprain</string>
+    <string name="reactive_arthritis">Reactive Arthritis</string>
+    <string name="scleroderma">Scleroderma</string>
+    <string name="systemic_lupus_erythematosus">Systemic Lupus Erythematosus</string>
+
+    <string name="plantar_fasciitis">Plantar Fasciitis</string>
+    <string name="peripheral_neuropathy">Peripheral Neuropathy</string>
+    <string name="foot_sprain">Foot Sprain</string>
+    <string name="mortons_neuroma">Morton\'s Neuroma</string>
+    <string name="flat_feet">Flat Feet</string>
+    <string name="diabetic_foot">Diabetic Foot</string>
+    <string name="arthritis">Arthritis</string>
+
+    <string name="cervical_strain">Cervical Strain</string>
+
+    <string name="tendonitis">Tendonitis</string>
+    <string name="de_quervains_tenosynovitis">De Quervain\'s Tenosynovitis</string>
+
+    <string name="irritable_bowel_syndrome">Irritable Bowel Syndrome</string>
+    <string name="gastroenteritis">Gastroenteritis</string>
+
+
+
+    <string name="advisory_message">Mas mabuti pa ring kumonsulta sa isang personal na awtoridad sa kalusugan para sa mas tumpak na pagsusuri.</string>
+    <string name="unknown_condition">Di Kilalang Kundisyon</string>
+    <string name="possible_condition">Posibleng mga Kundisyon:</string>
+    <string name="confidence">Kumpiyansa:</string>
+    <string name="select_option_message">Mangyaring pumili ng isang opsyon.</string>
+    <string name="select_an_option">Mangyaring pumili ng opsyon.</string>
+
+    <string name="less_than_24_hours">Mas mababa sa 24 na oras</string>
+    <string name="one_to_three_days">1-3 araw</string>
+    <string name="more_than_three_days">Higit sa 3 araw</string>
+
+
+    <string name="savedt">MGA PAKSANG NAKASAVE</string>
+    <string name="nosavedt">Walang paksang nakasave</string>
+
+
+    <string name="unknown">Diko Alam</string>
+
+    <string name="panic_attack_condition">Panic Attack</string>
+
+    <string name="burnst1"> KLASIPIKASYON NG PASO</string>
+    <string name="burnst2">Unang-Degree ng \nPaso</string>
+    <string name="burnst3">Ikalawang-Degree ng \nPaso</string>
+    <string name="burnst4">Ikatlong-Degree ng \nPaso</string>
+    <string name="burnst5">ANONG GAGAWIN \nKAPAG NAPASO?</string>
+    <string name="burnst6">KAILAN PUPUNTA \nNG OSPITAL</string>
+    <string name="burnst7">Pumunta sa emergency department ng ospital kung:</string>
+
+    <string name="chokingt1">PARA SA \nWASTONG EDAD</string>
+    <string name="chokingt2">PARA SA MGA \nSANGGOL</string>
+    <string name="call">TUMAWAG NG TULONG</string>
+
+
+    <string name="cprt">ANO ANG CPR ?</string>
+    <string name="cprt1">PAANO GAWIN ANG \nCPR ?</string>
+
+    <string name="splintt1">ANO ANG SPLINT?</string>
+    <string name="splintt2">PAANO MAGLAGAY \nNG SPLINT?</string>
+
+    <string name="seizurest1">ANO ANG SEIZURES?</string>
+    <string name="seizurest2">SANHI NG SEIZURES</string>
+    <string name="seizurest3">SINTOMAS NG \nSEIZURE</string>
+    <string name="seizurest4">PAANO GAMUTING \nANG SEIZURES?</string>
+
+    <string name="shockt1">PANGANIB</string>
+    <string name="shockt2">TUGON</string>
+
+    <string name="bleedingt1">KLASIPIKASYONG NG \nPAGDURUGO</string>
+    <string name="bleedingt2">HAKBANG SA BAWAT \nURI NG PAGURUGO</string>
+
+    <string name="snaket1">ANO ANG TUKLAW \nNG AHAS</string>
+    <string name="snaket2">HAKBANG SA BAWAT \nURI NG TUKLAW</string>
+    <string name="snaket3">Tuyong Tuklaw</string>
+    <string name="snaket4">Nakalalasong Tuklaw</string>
+
+    <string name="insectt1">ANO ANG KAGAT O \nTUSOK NG INSEKTO</string>
+    <string name="insectt2">Mild na Sintomas:</string>
+    <string name="insectt3">Malalang Sintomas</string>
+    <string name="insectt4">PAANO GAMUTIN \nANG KAGAT O TUSOK \nNG INSEKTO</string>
+    <string name="insectt5">Para sa Mild na Sintomas:</string>
+    <string name="insectt6">Para sa Malalang Sintomas:</string>
+    <string name="insectt7">Para sa Tusok:</string>
+    <string name="insectt8">Para sa Kagat ng Tick:</string>
+
+    <string name="bruiset1">ANO ANG PASA</string>
+    <string name="bruiset2">PAANO GAMUTIN \nANG PASA</string>
+
+    <string name="spraint1">ANO ANG SPRAIN</string>
+    <string name="spraint2">Grade 1 (Mild na \nSprain)</string>
+    <string name="symptoms">Sintomas:</string>
+    <string name="spraint3">Grade 2 (Katamtamang \nSprain)</string>
+    <string name="spraint4">Grade 3 (Malubhang \nSprain)</string>
+    <string name="spraint5">HAKBANG PARA SA \nBAWAT SPRAIN</string>
+    <string name="spraint6">Grade 1</string>
+    <string name="spraint7">Grade 2</string>
+    <string name="spraint8">Grade 3</string>
+
+    <string name="straint1">ANO ANG STRAIN</string>
+    <string name="straint2">KAILANGANG \nHAKBANG SA STRAIN</string>
+
+    <string name="noset1">ANO ANG \nBALINGUYNGUY</string>
+    <string name="noset2">HAKBANG PARA SA \nBALINGUYNGUY</string>
+
+    <string name="allergyt1">ANO ANG ALLERGIC \nREACTION</string>
+    <string name="allergyt2">Mild na Sintomas:</string>
+    <string name="allergyt3">Malalang Sintomas:</string>
+    <string name="allergyt4">HAKBANG KONTRA \nALLERGIC REACTION</string>
+    <string name="allergyt5">Para sa Mild na Sintomas:</string>
+    <string name="allergyt6">Para sa Malalang Sintomas</string>
+
+    <string name="headt1">ANO ANG SAKIT SA \nULO</string>
+    <string name="headt2">HAKBANG KONTRA \nSAKIT NG ULO</string>
+
+    <string name="minort1">ANO ANG MINOR \nCONCUSION</string>
+    <string name="minort2">Mga Sintomas:</string>
+    <string name="minort3">HAKBANG KONTRA \nMINOR CONCUSION</string>
+
+    <string name="musclet1">ANO ANG CRAMP \nSA MUSCLE</string>
+    <string name="musclet2">Sanhi:</string>
+    <string name="musclet3">HAKBANG KONTRA \nCRAMP SA MUSCLE</string>
+
+    <string name="blistert1">ANO ANG BLISTER</string>
+    <string name="blistert2">HAKBANG KONTRA \nBLISTER</string>
+
+    <string name="acutet1">ANO ANG \nPANGUGULILA?</string>
+    <string name="acutet2">PAANO TULUNGAN \nANG TAONG \nNAKARARANAS NITO?</string>
+
+    <string name="anxietyt1">ANO ANG ANXIETY?</string>
+    <string name="anxietyt2">PAANO TULUNGAN \nANG TAONG \nNAKARARANAS NITO?</string>
+
+    <string name="panict1">ANO ANG PANIC \nATTACK?</string>
+    <string name="panict2">PAANO TULUNGAN \nANG TAONG \nNAKARARANAS NITO?</string>
+
+    <string name="traumat1">ANO ANG TRAUMA\n-INFORMED CARE?</string>
+    <string name="traumat2">PARAAN PARA GAWIN \nANG TRAUMA-\nINFORMED CARE</string>
+
+    <string name="groundt1">KAHALAHAGAHAN \nNG GROUNDING \nTECHNIQUES</string>
+    <string name="groundt2">LISTAHAN NG \nGROUNDING \nTECHNIQUES</string>
+
+    <string name="stresst1">ANO ANG STRESS?</string>
+    <string name="stresst2">MGA HAKBANG \nKONTRA STRESS</string>
+
+    <string name="floodst1">ANO ANG BAHA?</string>
+    <string name="floodst2">ANO ANG SANHI \n NG BAHA?</string>
+    <string name="floodst3">MGA DAPAT GAWIN \n TUWING MAY BAHA</string>
+
+    <string name="eartht1">ANO ANG LINDOL?</string>
+    <string name="eartht2">BAKIT NAGKAKAROON \nNG LINDOL?</string>
+    <string name="eartht3">ANO ANG MAARING \nGAWIN KAPAG \nMAY LINDOL?</string>
+    <string name="eartht4">Kung Ikaw ay Nasa Loob:</string>
+    <string name="eartht5">Yumuko, Magtago, at Kumapit:</string>
+    <string name="eartht6">Lumayo sa mga bintana, salamin, \nat panlabas na pader:</string>
+    <string name="eartht7">Huwag tumakbo palabas:</string>
+    <string name="eartht8">Iwasan ang mga elevator:</string>
+    <string name="eartht9">Kung Ikaw ay Nasa Labas:</string>
+    <string name="eartht10">Lumayo sa mga gusali, puno, \nstreetlights, at mga kable ng kuryente:</string>
+    <string name="eartht11">Maghanap ng bukas na lugar:</string>
+    <string name="eartht12">Yumuko sa lupa:</string>
+    <string name="eartht13">Kung Ikaw ay Nasa Sasakyan:</string>
+    <string name="eartht14">Huminto sa gilid ng daan:</string>
+    <string name="eartht15">Manatili sa loob ng sasakyan:</string>
+    <string name="eartht16">Iwasang pumarada malapit sa mga gusali, \npuno, o malalaking karatula:</string>
+    <string name="eartht17">Magpatuloy nang maingat:</string>
+    <string name="eartht18">Kung Ikaw ay Nasa Gusali:</string>
+    <string name="eartht19">Manatili sa loob:</string>
+    <string name="eartht20">Lumayo sa mga bintana at panlabas na pader:</string>
+    <string name="eartht21">Kung Ikaw ay Nasa Baybayin:</string>
+    <string name="eartht22">Maging alerto sa tsunami:</string>
+    <string name="eartht23">Pagkatapos ng Lindol:</string>
+    <string name="eartht24">Maging handa sa mga aftershock:</string>
+    <string name="eartht25">Suriin ang mga pinsala at panganib:</string>
+    <string name="eartht26">Makinig sa balita o mga alerto:</string>
+
+    <string name="vulcant1">ANO ANG PAGPUTOK \nNG BULKAN?</string>
+    <string name="vulcant2">MGA PANGANIB SA \nPANAHON NG \nPAGPUTOK NG BULKAN?</string>
+    <string name="vulcant3">PAANO HARAPIN \nANG PAGPUTOK \nNG BULKAN?</string>
+    <string name="vulcant4">Bago ang Pagputok:</string>
+    <string name="vulcant5">Habang Nagaganap ang Pagputok:</string>
+    <string name="vulcant6">Pagkatapos ng Pagputok:</string>
+
+    <string name="epit1">ANO ANG EPIDEMYA?</string>
+    <string name="epit2">EPIDEMYA VS. \nPANDEMYA VS. \nENDEMIYA</string>
+    <string name="epit3">MGA KINAKAILANGAN \nNA GAWIN</string>
+
+    <string name="basict1">BAKIT?</string>
+    <string name="basict2">PAANO?</string>
+    <string name="basict3">KAILAN?</string>
+
+    <string name="watert1">KAHALAGAHAN NG \nKALIGTASAN SA \nTUBIG</string>
+    <string name="watert2">MGA HAKBANG \nUPANG MALINIS \nANG TUBIG</string>
+
+    <string name="roadt1">KAHALAGAHAN NG \nKALIGTASAN SA \nDAAN</string>
+    <string name="roadt2">MGA HAKBANG \nUPANG LIGTAS \nSA DAAN</string>
+
+    <string name="dailyt1">KAHALAGAHAN NG \nDAILY FOOD \nSAFETY</string>
+    <string name="dailyt2">MGA HAKBANG \nUPANG LIGTAS \nSA PAGKAIN</string>
+
+    <string name="foodt1">KAHALAGAHAN NG \nEMERGENCY FOOD \nSAFETY</string>
+    <string name="foodt2">MGA HAKBANG \nPARA SA \nEMERGENCY FOOD</string>
+
+    <string name="heatt1">GAANO KADELIKADO \nANG HEATWAVE?</string>
+    <string name="heatt2">PAANO MAGING \nLIGTAS SA \nHEATWAVE?</string>
+
+    <string name="flashlight">FLASHLIGHT</string>
+    <string name="turn_on">BUKSAN</string>
+    <string name="turn_off">PATAYIN</string>
+    <string name="strobe">KUTITAP</string>
+    <string name="sos">SOS</string>
+    <string name="sos_with_alarm">SOS NA MAY ALARMA</string>
+    <string name="stop">ITIGIL</string>
+    <string name="dialog_title_flashlight">Mga Tampok ng Flashlight:</string>
+    <string name="dialog_message">
+    \n
+    1. BUKSAN:     Nag-aactivate ng flashlight upang magbigay ng tuloy-tuloy na ilaw.\n
+    2. PATAYIN:    Nagde-deactivate ng flashlight.\n
+    3. KUTITAP:     Pagkutitap ng ilaw, kapaki-pakinabang sa mga emerhensya.\n
+    4. SOS:        Nagpapadala ng SOS na signal gamit ang Morse code para sa mga sitwasyong nangangailangan ng tulong.\n
+    5. ALARM:      Nagpapadala ng SOS na signal na may tunog ng alarma para sa agarang pangangailangan.\n
+    6. ITIGIL:     Itinitigil ang anumang nagpapatuloy na strobe o SOS na mga signal.\n
+    \n
+    Gamitin ang mga tampok na ito ayon sa iyong pangangailangan.
+</string>
+
+    <string name="instruction_dialog_title">Mga Tagubilin para sa Mga Kontak sa Emerhensya</string>
+    <string name="instruction_dialog_message">
+        Kung ikaw ay nasa Polangui at nangangailangan ng agarang tulong, mangyaring tawagan ang mga sumusunod na kontak sa emerhensya:\n\n
+        - Polangui EMS QRT\n
+        - MDRRMO Polangui\n
+        - Polangui Rural Health Unit\n\n
+        Kung ikaw ay nasa OAS, mangyaring makipag-ugnayan sa:\n
+        - OAS Emergency Response Team\n
+        - MDRRMO OAS\n
+        - OAS Rural Health Unit\n\n
+        Kung ikaw ay nasa Ligao City, makipag-ugnayan sa:\n
+        - CDRRMO EQRT Ligao City\n
+        - Zone Medical Clinic\n
+        - Ligao Rural Health Unit\n\n
+        Para sa agarang atensiyong medikal, maaari mo ring tawagan:\n
+        - Duran Hospital\n\n
+        Mangyaring i-click ang kaukulang button upang tawagan ang kinakailangang serbisyo.
+    </string>
+
+
+
+
+</resources>

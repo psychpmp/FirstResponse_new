@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/customToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:elevation="4dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginTop="8dp"
+        app:navigationIcon="@drawable/back"
+        app:titleTextAppearance="@style/CustomToolbarTitle" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true"
+        android:layout_marginTop="54dp"
+        android:layout_marginBottom="54dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/flaticonLogo"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/flaticon"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Flaticon"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/icons8Logo"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/icons8"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Icons8"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/getty"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/getty"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GettyImages"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/lottie"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/lottie"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LottieFiles"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/figma"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/figma"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Figma"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/red"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/redcross"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="American Red Cross"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/ircs"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/ircs_logo2"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Indian Red Cross"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/nhs"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/nhs"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NHS England"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/webmd"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/webmd"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WebMD"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+            <ImageView
+                android:id="@+id/maps"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/maps"
+                android:scaleType="fitCenter"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Google Maps"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold"
+                android:textColor="@color/shadow4"
+                android:gravity="center"
+                android:layout_marginBottom="84dp" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
