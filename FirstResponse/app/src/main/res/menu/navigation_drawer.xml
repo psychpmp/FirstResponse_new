@@ -10,6 +10,10 @@
             android:id="@+id/sideHome"
             android:icon="@drawable/ic_baseline_home_24" />
 
+        <item android:title="@string/login_t"
+            android:id="@+id/login"
+            android:icon="@drawable/ic_user" />
+
         <item android:title="@string/location_t"
             android:id="@+id/location"
             android:icon="@drawable/ic_baseline_location_on_24" />
@@ -25,6 +29,8 @@
         <item android:title="@string/suggestions_t"
             android:id="@+id/suggestions"
             android:icon="@drawable/baseline_attach_email_24" />
+
+
 
     </group>
 

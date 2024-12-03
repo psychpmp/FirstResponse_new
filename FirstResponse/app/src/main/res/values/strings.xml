@@ -881,6 +881,7 @@ Act to break the contact between the casualty and the electrical supply. If poss
     <string name="heatwave_t">HEATWAVE</string>
 
     <string name="location_t">Location</string>
+    <string name="login_t">Login</string>
     <string name="language_t">Language</string>
     <string name="credits_t">Credits</string>
     <string name="suggestions_t">Suggestions</string>

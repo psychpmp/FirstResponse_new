@@ -216,6 +216,11 @@
         <receiver android:name=".LanguageChangeReceiver"
             android:exported="false"/>
 
+        <activity android:name=".RegisterActivity"
+            android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name=".LoginActivity"
+            android:theme="@style/Theme.NoActionBar"/>
+
 
     </application>
 </manifest>

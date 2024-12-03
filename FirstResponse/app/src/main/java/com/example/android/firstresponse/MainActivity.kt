@@ -210,6 +210,10 @@ class MainActivity : BaseActivity() {
                     }
                     true
                 }
+                R.id.login -> {
+                    startActivity(Intent(this, LoginActivity::class.java)) // Handle Settings
+                    true
+                }
                 R.id.settings -> {
                     startActivity(Intent(this, SettingsActivity::class.java)) // Handle Settings
                     true
