@@ -13,7 +13,7 @@
         android:id="@+id/tv_register"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="30dp"
         android:layout_marginBottom="20dp"
         android:fontFamily="@font/montserrat_bold"
         android:text="Register"
@@ -24,13 +24,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <!-- Username, Password, and Email Card -->
     <androidx.cardview.widget.CardView
         android:id="@+id/cv_container"
         android:layout_width="0dp"
-        android:layout_height="150dp"
+        android:layout_height="wrap_content"
         android:layout_marginHorizontal="32dp"
         android:layout_marginTop="40dp"
         android:backgroundTint="@color/shadow4"
@@ -116,6 +116,115 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent" />
 
+
+            <!-- Full Name Section -->
+            <ImageView
+                android:id="@+id/iv_register_fullname"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginVertical="16dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_user"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/view2" />
+
+            <EditText
+                android:id="@+id/et_register_fullname"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:textColor="@color/black"
+                android:layout_marginEnd="16dp"
+                android:hint="Full Name"
+                android:background="@android:color/transparent"
+                app:layout_constraintStart_toEndOf="@id/iv_register_fullname"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/iv_register_fullname"
+                app:layout_constraintBottom_toBottomOf="@id/iv_register_fullname" />
+
+            <View
+                android:id="@+id/view3"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="8dp"
+                android:background="@android:color/darker_gray"
+                app:layout_constraintTop_toBottomOf="@id/et_register_fullname"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+            <!-- Age Section -->
+            <ImageView
+                android:id="@+id/iv_register_age"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginVertical="16dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_user"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/view3" />
+
+            <EditText
+                android:id="@+id/et_register_age"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:textColor="@color/black"
+                android:layout_marginEnd="16dp"
+                android:hint="Age"
+                android:background="@android:color/transparent"
+                app:layout_constraintStart_toEndOf="@id/iv_register_age"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/iv_register_age"
+                app:layout_constraintBottom_toBottomOf="@id/iv_register_age" />
+
+            <View
+                android:id="@+id/view4"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="8dp"
+                android:background="@android:color/darker_gray"
+                app:layout_constraintTop_toBottomOf="@id/et_register_age"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+            <!-- Full Name Section -->
+            <ImageView
+                android:id="@+id/iv_register_address"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginVertical="16dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_baseline_location_on_24"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/view4" />
+
+            <EditText
+                android:id="@+id/et_register_address"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:textColor="@color/black"
+                android:layout_marginEnd="16dp"
+                android:hint="Address"
+                android:background="@android:color/transparent"
+                app:layout_constraintStart_toEndOf="@id/iv_register_address"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/iv_register_address"
+                app:layout_constraintBottom_toBottomOf="@id/iv_register_address" />
+
+            <View
+                android:id="@+id/view5"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="8dp"
+                android:background="@android:color/darker_gray"
+                app:layout_constraintTop_toBottomOf="@id/et_register_address"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
             <!-- Email Section -->
             <ImageView
                 android:id="@+id/iv_register_email"
@@ -126,7 +235,7 @@
                 android:scaleType="fitXY"
                 android:src="@drawable/ic_mail"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@id/view2" />
+                app:layout_constraintTop_toBottomOf="@+id/view5" />
 
             <EditText
                 android:id="@+id/et_register_email"
@@ -141,6 +250,19 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="@id/iv_register_email"
                 app:layout_constraintBottom_toBottomOf="@id/iv_register_email" />
+
+            <Button
+                android:id="@+id/btn_upload_photo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="Upload Photo (Optional)"
+                android:textColor="@color/black"
+                android:backgroundTint="@color/shadow2"
+                app:layout_constraintTop_toBottomOf="@id/et_register_email"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
 
             <!-- Register Button -->
             <androidx.cardview.widget.CardView
@@ -166,6 +288,65 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.cardview.widget.CardView>
 
+    <!-- Send OTP Button -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginHorizontal="16dp"
+        android:backgroundTint="@color/shadow2"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="16dp"
+        app:layout_constraintTop_toBottomOf="@id/cv_container"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/btn_send_otp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Send Email Verification"
+            android:enabled="true"
+            android:textColor="@android:color/black"
+            android:background="@color/shadow2" />
+    </androidx.cardview.widget.CardView>
+
+    <CheckBox
+        android:id="@+id/cb_fingerprint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        android:text="Do not Register Fingerprint"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cv_container" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+
+        android:backgroundTint="@color/shadow2_transparent"
+        app:cardCornerRadius="35dp"
+        app:cardElevation="24dp"
+        app:layout_constraintTop_toBottomOf="@id/cb_fingerprint"
+        app:layout_constraintBottom_toTopOf="@id/btn_go_to_login"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/btn_biometric"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_fingerprint1" />
+
+    </androidx.cardview.widget.CardView>
+
+
+
     <!-- Login Redirect Button -->
     <Button
         android:id="@+id/btn_go_to_login"
@@ -174,9 +355,8 @@
         android:background="@android:color/transparent"
         android:text="Login"
         android:textColor="@android:color/holo_red_dark"
+        app:layout_constraintBottom_toTopOf="@id/btn_go_to_login"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/cv_container"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintBottom_toBottomOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

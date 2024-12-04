@@ -74,7 +74,6 @@ class MainActivity : BaseActivity() {
     private lateinit var buttonQuiz: Button
     private lateinit var buttonFirstAidKits: Button
     private lateinit var buttonSafetyPreparedness: Button
-    private lateinit var buttonWhatsWrong: Button
     private lateinit var buttonFlashlight: Button
 
     companion object {
@@ -161,11 +160,6 @@ class MainActivity : BaseActivity() {
         buttonSafetyPreparedness = findViewById(R.id.buttonSafetyPreparedness)
         buttonSafetyPreparedness.setOnClickListener {
             startActivity(Intent(this, SafetyAndPreparedness::class.java))
-        }
-
-        buttonWhatsWrong = findViewById(R.id.buttonWhatsWrong)
-        buttonWhatsWrong.setOnClickListener {
-            startActivity(Intent(this, WhatsWrongActivity::class.java))
         }
 
         buttonFlashlight = findViewById<Button>(R.id.buttonFlashlight)

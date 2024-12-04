@@ -8,10 +8,10 @@ import android.widget.ImageButton
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
-import com.google.firebase.database.FirebaseDatabase
 
 class LoginActivity : AppCompatActivity() {
 
+        // Declare views and FirebaseAuth instance
         private lateinit var etUsername: EditText
         private lateinit var etPassword: EditText
         private lateinit var btnLogin: ImageButton
@@ -31,55 +31,36 @@ class LoginActivity : AppCompatActivity() {
                 // Initialize FirebaseAuth
                 auth = FirebaseAuth.getInstance()
 
+                // Set login button click listener
                 btnLogin.setOnClickListener {
-                        val username = etUsername.text.toString().trim()
+                        val email = etUsername.text.toString().trim()
                         val password = etPassword.text.toString().trim()
 
-                        if (username.isEmpty() || password.isEmpty()) {
-                                Toast.makeText(this, "Please enter username and password", Toast.LENGTH_SHORT).show()
+                        if (email.isEmpty() || password.isEmpty()) {
+                                Toast.makeText(this, "Please enter email and password", Toast.LENGTH_SHORT).show()
                                 return@setOnClickListener
                         }
 
-                        // Query database to find email for the provided username
-                        val database = FirebaseDatabase.getInstance()
-                        val usersRef = database.getReference("users")
-
-                        usersRef.orderByChild("username").equalTo(username)
-                                .addListenerForSingleValueEvent(object : com.google.firebase.database.ValueEventListener {
-                                        override fun onDataChange(snapshot: com.google.firebase.database.DataSnapshot) {
-                                                if (snapshot.exists()) {
-                                                        for (userSnapshot in snapshot.children) {
-                                                                val email = userSnapshot.child("email").value.toString()
-
-                                                                // Use FirebaseAuth to log in with email and password
-                                                                auth.signInWithEmailAndPassword(email, password)
-                                                                        .addOnCompleteListener { task ->
-                                                                                if (task.isSuccessful) {
-                                                                                        Toast.makeText(this@LoginActivity, "Login successful!", Toast.LENGTH_SHORT).show()
-                                                                                        val intent = Intent(this@LoginActivity, MainActivity::class.java)
-                                                                                        startActivity(intent)
-                                                                                        finish()
-                                                                                } else {
-                                                                                        Toast.makeText(
-                                                                                                this@LoginActivity,
-                                                                                                "Login failed: ${task.exception?.message}",
-                                                                                                Toast.LENGTH_SHORT
-                                                                                        ).show()
-                                                                                }
-                                                                        }
-                                                                break
-                                                        }
-                                                } else {
-                                                        Toast.makeText(this@LoginActivity, "Username not found", Toast.LENGTH_SHORT).show()
-                                                }
+                        // Attempt Firebase login
+                        auth.signInWithEmailAndPassword(email, password)
+                                .addOnCompleteListener { task ->
+                                        if (task.isSuccessful) {
+                                                Toast.makeText(this, "Login successful!", Toast.LENGTH_SHORT).show()
+                                                // Navigate to DashboardActivity
+                                                val intent = Intent(this, MainActivity::class.java)
+                                                startActivity(intent)
+                                                finish()
+                                        } else {
+                                                Toast.makeText(
+                                                        this,
+                                                        "Login failed: ${task.exception?.message}",
+                                                        Toast.LENGTH_SHORT
+                                                ).show()
                                         }
-
-                                        override fun onCancelled(error: com.google.firebase.database.DatabaseError) {
-                                                Toast.makeText(this@LoginActivity, "Database error: ${error.message}", Toast.LENGTH_SHORT).show()
-                                        }
-                                })
+                                }
                 }
 
+                // Set register button click listener
                 btnGoToRegister.setOnClickListener {
                         val intent = Intent(this, RegisterActivity::class.java)
                         startActivity(intent)

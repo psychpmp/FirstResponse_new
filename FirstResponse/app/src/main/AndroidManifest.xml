@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Permissions required by the app -->
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -173,10 +175,7 @@
             android:name="com.example.android.firstresponse.SafetyAndPreparedness"
             android:theme="@style/Theme.NoActionBar"
             android:exported="true" />
-        <activity
-            android:name="com.example.android.firstresponse.WhatsWrongActivity"
-            android:theme="@style/Theme.NoActionBar"
-            android:exported="true" />
+
         <activity
             android:name="com.example.android.firstresponse.SearchResultsActivity"
             android:theme="@style/Theme.NoActionBar"
@@ -217,9 +216,12 @@
             android:exported="false"/>
 
         <activity android:name=".RegisterActivity"
-            android:theme="@style/Theme.NoActionBar"/>
+            android:theme="@style/Theme.NoActionBar"
+            android:parentActivityName=".LoginActivity" />
         <activity android:name=".LoginActivity"
             android:theme="@style/Theme.NoActionBar"/>
+
+
 
 
     </application>

@@ -18,5 +18,7 @@
     <color name="blue1">#2d328f</color>
     <color name="blue2">#014a7f</color>
     <color name="blue3">#05bfee</color>
+    <color name="colorVerified">#4CAF50</color> <!-- Green color for verified -->
+
 
 </resources>
