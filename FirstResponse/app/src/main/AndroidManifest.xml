@@ -5,6 +5,8 @@
     <uses-permission android:name="android.permission.USE_BIOMETRIC" />
     <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
@@ -219,6 +221,8 @@
             android:theme="@style/Theme.NoActionBar"
             android:parentActivityName=".LoginActivity" />
         <activity android:name=".LoginActivity"
+            android:theme="@style/Theme.NoActionBar"/>
+        <activity android:name=".UserInfoActivity"
             android:theme="@style/Theme.NoActionBar"/>
 
 

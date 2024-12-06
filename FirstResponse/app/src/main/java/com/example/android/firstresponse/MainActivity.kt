@@ -89,6 +89,18 @@ class MainActivity : BaseActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // Check if the user is logged in
+        val sharedPreferences = getSharedPreferences("user_prefs", MODE_PRIVATE)
+        val isLoggedIn = sharedPreferences.getBoolean("isLoggedIn", false)
+
+        if (isLoggedIn) {
+            // If the user is logged in, navigate to UserInfoActivity
+            startActivity(Intent(this, UserInfoActivity::class.java))
+            finish()  // Close MainActivity so the user can't return to it by pressing back
+            return  // Stop further execution of onCreate
+        }
+
+        // Existing setup for action bar, drawer, and buttons
         supportActionBar?.setBackgroundDrawable(ColorDrawable(ContextCompat.getColor(this, R.color.shadow2)))
 
         drawerLayout = findViewById(R.id.drawer_Layout)
@@ -146,7 +158,6 @@ class MainActivity : BaseActivity() {
             startActivity(intent)
         }
 
-
         buttonQuiz = findViewById(R.id.buttonQuiz)
         buttonQuiz.setOnClickListener {
             startActivity(Intent(this, QuizPageActivity::class.java))
@@ -166,7 +177,6 @@ class MainActivity : BaseActivity() {
         buttonFlashlight.setOnClickListener {
             startActivity(Intent(this, FlashlightActivity::class.java))
         }
-
 
         // Bottom navigation setup
         findViewById<BottomNavigationView>(R.id.bottomNavigationView).setOnNavigationItemSelectedListener { menuItem ->
